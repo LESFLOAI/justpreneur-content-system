@@ -10,4 +10,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 
 | Prep window date | Target post date | Status | Working title |
 |---|---|---|---|
-| 2026-09-21 10:00 AM | 2026-09-21 | in progress | TBD (Story Scout in progress) |
+| 2026-09-21 10:00 AM | 2026-09-21 | ready to post | humm-emp-second-restaurant |
