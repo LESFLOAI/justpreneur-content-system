@@ -38,9 +38,9 @@ For her next chapter, she didn't build inside a legacy luxury house.
 She built with Revolve — a digital-native retailer known for audience data, direct-to-consumer reach, and e-commerce infrastructure.
 
 **Slide 5 — Why It Matters**
-This new venture is structurally independent of the Versace fashion house. No inherited name. No fashion-house backing.
+This new venture is structurally independent of the Versace fashion house — no inherited name, no backing from that fashion house.
 
-Just her creative role — and a partner that controls audience and distribution at scale.
+Her confirmed role: creative leadership. Her partner: one that already controls audience and distribution at scale.
 
 **Slide 6 — The Lesson (Takeaway)**
 When you choose who to build your next chapter with, don't evaluate them on the name in the room.

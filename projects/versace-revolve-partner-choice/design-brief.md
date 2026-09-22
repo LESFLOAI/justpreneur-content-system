@@ -49,7 +49,7 @@ All slides: one dominant graphic/photographic device placed to leave a large cle
 
 **Slide 5 — Why It Matters**
 - Kicker "WHY IT MATTERS" top-left
-- Body copy block, y≈180–640px, left-aligned, max width ~860px: the "structurally independent... no inherited name... no fashion-house backing" line, then the "just her creative role — and a partner that controls audience and distribution at scale" line
+- Body copy block, y≈180–640px, left-aligned, max width ~860px: the "structurally independent... no inherited name... no backing from that fashion house" line, then the "her confirmed role: creative leadership. Her partner: one that already controls audience and distribution at scale" line
 - Background/graphic device: a new, third architectural form emerging in the exact center of the frame between the marble-and-gold motif (left, softened/receding) and the data-grid motif (right, softened/receding) — a clean, freestanding, minimal gold-lit structure or open doorway of light standing independently of both, symbolizing a genuinely new, unaffiliated entity built from a creative role plus scaled distribution
 - Wordmark bottom-center
 
@@ -132,7 +132,7 @@ When images are generated, run a layout pass (design tool / Canva-style composit
 - **Slide 2:** Kicker: "THE MOVE" / Body: "On September 21, 2026, Donatella Versace and Revolve Group, Inc. (NYSE: RVLV) announced a joint venture: a new, independent fashion and beauty brand." then "Donatella will serve as Chief Creative Officer. First products launch in 2027 — beauty first — across the U.S., Latin America, Asia-Pacific, and the Middle East." / Wordmark: "JustPreneur"
 - **Slide 3:** Kicker: "OLD WORLD" / Body: "For nearly 30 years, Donatella led Versace as Chief Creative Officer." then "In March 2025, she stepped into a chief brand ambassador role. Dario Vitale became Versace's CCO in April 2025. Versace is now owned by Prada Group." then "She didn't leave. She holds parallel roles." / Wordmark: "JustPreneur"
 - **Slide 4:** Kicker: "NEW PARTNER" / Body: "For her next chapter, she didn't build inside a legacy luxury house." then "She built with Revolve — a digital-native retailer known for audience data, direct-to-consumer reach, and e-commerce infrastructure." / Wordmark: "JustPreneur"
-- **Slide 5:** Kicker: "WHY IT MATTERS" / Body: "This new venture is structurally independent of the Versace fashion house. No inherited name. No fashion-house backing." then "Just her creative role — and a partner that controls audience and distribution at scale." / Wordmark: "JustPreneur"
+- **Slide 5:** Kicker: "WHY IT MATTERS" / Body: "This new venture is structurally independent of the Versace fashion house — no inherited name, no backing from that fashion house." then "Her confirmed role: creative leadership. Her partner: one that already controls audience and distribution at scale." / Wordmark: "JustPreneur"
 - **Slide 6:** Kicker: "THE LESSON" / Body: "When you choose who to build your next chapter with, don't evaluate them on the name in the room." then "Evaluate them on the infrastructure and audience they actually control." / Wordmark: "JustPreneur"
 - **Slide 7 (CTA):** Body: "Follow @justpreneur for how founders and creative leaders make the partner decisions everyone else misses." / Wordmark: "JustPreneur"
 
