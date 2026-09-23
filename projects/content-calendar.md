@@ -15,3 +15,5 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-22 10:00 AM | 2026-09-22 | ready to post | deal-isnt-the-money |
 | 2026-09-22 9:00 PM | 2026-09-22 | ready to post | versace-revolve-partner-choice |
 | 2026-09-23 10:00 AM | 2026-09-23 | ready to post | a16z-academy-owned-pipeline |
+| 2026-09-23 9:00 PM | 2026-09-23 | ready to post | velez-nu-access-play |
+</content>
