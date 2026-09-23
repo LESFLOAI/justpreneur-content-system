@@ -14,3 +14,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-21 9:00 PM | 2026-09-21 | ready to post | announced-isnt-closed |
 | 2026-09-22 10:00 AM | 2026-09-22 | ready to post | deal-isnt-the-money |
 | 2026-09-22 9:00 PM | 2026-09-22 | ready to post | versace-revolve-partner-choice |
+| 2026-09-23 10:00 AM | 2026-09-23 | in progress | TBD |
