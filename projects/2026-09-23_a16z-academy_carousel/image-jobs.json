@@ -1,0 +1,32 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "1080x1350 vertical abstract background image for a premium business-media Instagram post. Deep navy (#0B1526) base with a very subtle soft radial gradient lightening toward the upper-center (#0F1B30), and an extremely faint (4-6% opacity) fine architectural grid or circuit-line linework texture across the full frame suggesting 'infrastructure' without literal icons. No text, no numbers, no letters, no logos, no people, no faces, no hands. Clean, minimal, high-end editorial tone — think Bloomberg/Axios digital cover art, not a motivational template. Leave the entire vertical-center band (roughly the middle 60% of the frame) as calm, low-detail negative space so bold headline typography can be overlaid afterward in a design tool. Bottom 10% of frame must also stay clear and low-detail for a small logo wordmark. No illegible text, no fake logos, no duplicate elements, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-old-pipeline",
+    "prompt": "1080x1350 vertical abstract background image for a premium business-media Instagram diagram post. Deep navy (#0B1526) base, subtle architectural grid linework texture (4-6% opacity), fully flat and calm — no gradient shift, no bright zones. This is the 'broken/rented infrastructure' slide in a two-slide before/after pair, so the background should feel slightly cooler and more static/inert than its counterpart — desaturated, no warm light source, no energy glow. No text, no numbers, no letters, no logos, no people, no faces, no hands, no icons of buildings or graduation caps or briefcases (avoid literal cliche symbols entirely — this must stay abstract). Reserve a clear horizontal band across the vertical middle (roughly y: 380-860 of a 1350px-tall frame) as fully calm, low-detail negative space — this band will hold a three-box flow diagram with strikethrough marks added in a design tool afterward, so avoid any texture density or linework crossing through that exact band. Reserve the top 90px and bottom 130px as clear, low-detail margins for header text and a logo wordmark. Flat, restrained, editorial-infographic tone. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no unnecessary small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-new-pipeline",
+    "prompt": "1080x1350 vertical abstract background image for a premium business-media Instagram diagram post. Deep navy (#0B1526) base, same architectural grid linework texture as the matching series (4-6% opacity), but this is the 'owned/built infrastructure' resolution slide paired with a prior 'broken' slide, so introduce a subtle warm energy-gold (#D9A441) glow or light source emanating from the upper-left or top-center of the reserved diagram band — soft, restrained, editorial, not a lens-flare or gaming-aesthetic glow. No text, no numbers, no letters, no logos, no people, no faces, no hands, no literal icons (no graduation caps, no briefcases, no building silhouettes). Reserve a clear zone across the vertical middle (roughly y: 380-860 of a 1350px-tall frame) as calm, low-detail negative space for a one-to-many flow diagram (one source box branching to a 2x5 grid of ten small destination boxes) to be added in a design tool afterward — avoid dense texture or a glow so bright it would reduce contrast for gold text placed on top. Reserve the top 90px and bottom 130px as clear, low-detail margins for header text and a logo wordmark. Flat, restrained, editorial-infographic tone, matching Slide 2's composition exactly but warmer and more resolved in feeling. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no unnecessary small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-scale-evidence",
+    "prompt": "1080x1350 vertical abstract background image for a premium business-media Instagram post. Deep navy (#0B1526) base, same subtle architectural grid linework texture as the series (4-6% opacity), flat and calm with a very faint warm gold undertone in the upper third only (subtle, not a strong glow) to visually connect it to the 'owned infrastructure' resolution slides. No text, no numbers, no letters, no logos, no people, no faces, no hands, no icons. Reserve the upper-middle band (roughly y: 260-620) as fully calm, low-detail negative space for large oversized numeral typography to be added afterward in a design tool, and reserve the band below (roughly y: 680-1000) as calm space for a paragraph of body text. Reserve top 90px and bottom 130px as clear margins for header text and logo wordmark. Editorial, restrained, confident — think a financial-media 'by the numbers' infographic backdrop. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no unnecessary small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-takeaway-cta",
+    "prompt": "1080x1350 vertical abstract background image for a premium business-media Instagram post, final slide in a five-slide carousel series. Deep navy (#0B1526) base, same subtle architectural grid linework texture as the series (4-6% opacity), with a calm, gentle warm gold undertone glow centered in the mid-frame (soft, restrained, not dramatic) to signal resolution/takeaway tone and provide visual closure to the series. No text, no numbers, no letters, no logos, no people, no faces, no hands, no icons, no checkmarks, no lightbulbs (avoid cliche 'idea' symbols). Reserve the middle band (roughly y: 340-760) as calm, low-detail negative space for a large body-text paragraph to be added afterward in a design tool, and reserve the band below (roughly y: 820-1020) as calm space for a short CTA line. Reserve top 90px and bottom 130px as clear margins for header text and logo wordmark. Editorial, quietly confident, closing-note tone matching the rest of the series. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no unnecessary small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  }
+]
