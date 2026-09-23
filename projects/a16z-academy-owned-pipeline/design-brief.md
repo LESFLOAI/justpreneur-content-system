@@ -37,7 +37,7 @@ This is the slide people screenshot — the 10-name grid must stay legible at th
 
 **Slide 4 — Scale as Evidence**
 1. Eyebrow header "THIS ISN'T A SIDE PROJECT" — top
-2. Numbers-forward stat block, top-to-mid: "$42M" and "$35M" rendered as large stat figures (numerals oversized vs. their labels, editorial-infographic style) with "10 founding corporate partners — not investors. Employers." as a supporting line
+2. Numbers-forward stat block, top-to-mid: "$42M" and "$35M" rendered as large stat figures (numerals oversized vs. their labels, editorial-infographic style) with "10 named founding corporate partners. No guaranteed job or internship for fellows." as a supporting line
 3. Attribution paragraph (CEO, board, entity structure) below, smaller body text block, tighter leading
 4. JustPreneur wordmark, bottom-anchored, quiet
 
@@ -179,7 +179,7 @@ Use this as the design-tool build sheet once background art (or the diagram-incl
 
 **Slide 4:**
 - Eyebrow header (28–34px, all caps, warm white, +40–60 tracking, y: ~150, thin gold rule beneath): "THIS ISN'T A SIDE PROJECT"
-- Stat block (y: 260–620): "$42M" (96–120px, gold, tabular numerals) with caption "in funding" beneath (24px, steel gray); "$35M" (same treatment) with caption "of it from a16z" beneath; supporting line beneath both (30–36px, warm white): "10 founding corporate partners — not investors. Employers."
+- Stat block (y: 260–620): "$42M" (96–120px, gold, tabular numerals) with caption "in funding" beneath (24px, steel gray); "$35M" (same treatment) with caption "of it from a16z" beneath; supporting line beneath both (30–36px, warm white): "10 named founding corporate partners. No guaranteed job or internship for fellows."
 - Attribution paragraph (28–32px, warm white/steel gray, tighter leading, y: 680–1000): "Led by Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg reported on the board. Reportedly structured as a separate entity from the venture fund itself."
 
 **Slide 5:**

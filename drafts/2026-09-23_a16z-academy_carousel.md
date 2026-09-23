@@ -54,7 +54,7 @@ Positioned as an alternative path *alongside* college, not a replacement for it.
 **Copy (numbers-forward):**
 $42M in funding.
 $35M of it from a16z.
-10 founding corporate partners — not investors. Employers.
+10 named founding corporate partners. No guaranteed job or internship for fellows.
 
 Led by Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg reported on the board. Reportedly structured as a separate entity from the venture fund itself.
 
@@ -76,9 +76,9 @@ When the infrastructure you depend on doesn't serve your standards or your timel
 
 a16z didn't build a school to disrupt education. They built one because they got tired of renting someone else's talent pipeline.
 
-On September 22, Andreessen Horowitz announced the Horowitz Andreessen Academy — a tuition-free, unaccredited one-year fellowship for a founding class of roughly 50 students, ages 16–22. Applications are open now. First class starts fall 2027. It's positioned as an alternative path alongside college — not a replacement for it.
+On September 22, Andreessen Horowitz announced the Horowitz Andreessen Academy — a tuition-free, unaccredited one-year fellowship for a reported founding class of roughly 50 students, ages 16–22. Applications are open now. First class starts fall 2027. It's positioned as an alternative path alongside college — not a replacement for it. No degree, no accreditation, no guaranteed job or internship.
 
-Backing it: $42M in funding ($35M from a16z), 10 founding corporate partners (Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, Stripe), and Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg are reported to sit on the board. It's reportedly a separate entity from the fund itself.
+Backing it: $42M in funding ($35M from a16z), 10 named founding corporate partners (Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, Stripe), and Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg are reported to sit on the board. It's reportedly a separate entity from the fund itself.
 
 The real move here isn't the fellowship. It's the pipeline. University → recruiter → company is infrastructure every company rents and no company fully controls. a16z just built its own version instead.
 
@@ -121,7 +121,7 @@ Save this. Then tell us in the comments: what's the one piece of "rented" infras
 
 **Slide 3:** "THE PIPELINE a16z BUILT INSTEAD" — Horowitz Andreessen Academy → Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, Stripe / "One year. Tuition-free. Unaccredited. Ages 16–22. Applications open now — first class starts fall 2027. Positioned as an alternative path alongside college, not a replacement for it."
 
-**Slide 4:** "THIS ISN'T A SIDE PROJECT" — "$42M in funding. $35M of it from a16z. 10 founding corporate partners — not investors. Employers. Led by Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg reported on the board. Reportedly structured as a separate entity from the venture fund itself."
+**Slide 4:** "THIS ISN'T A SIDE PROJECT" — "$42M in funding. $35M of it from a16z. 10 named founding corporate partners. No guaranteed job or internship for fellows. Led by Udemy co-founder Gagan Biyani as CEO. Marc Andreessen and Erik Torenberg reported on the board. Reportedly structured as a separate entity from the venture fund itself."
 
 **Slide 5:** "THE LESSON ISN'T VENTURE-SCALE" — "When the infrastructure you depend on doesn't serve your standards or your timeline, you don't lobby it. You build a smaller, owned version — sized to your actual leverage. Save this. Then name one piece of 'rented' infrastructure in your business — talent, distribution, trust — you could start owning instead."
 
