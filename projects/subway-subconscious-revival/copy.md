@@ -59,8 +59,7 @@ The prior Global CMO, Greg Lyons, departed as the role was eliminated.
 **Slide 6 — The Backdrop**
 What trade press is watching:
 
-631 U.S. location closures in 2024.
-729 in 2025.
+Trade press reports 631 U.S. location closures in 2024 and 729 in 2025.
 Royalty revenue reportedly down ~10% over two years — since Roark Capital's acquisition (reportedly ~$9.6B) closed in April 2024.
 
 But net income reportedly rose to ~$688M in 2025, up from ~$397M in 2024.
