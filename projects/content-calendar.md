@@ -17,4 +17,5 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-23 10:00 AM | 2026-09-23 | ready to post | a16z-academy-owned-pipeline |
 | 2026-09-23 9:00 PM | 2026-09-23 | ready to post | velez-nu-access-play |
 | 2026-09-24 10:00 AM | 2026-09-24 | ready to post | dos-hombres-sofi-bar |
-| 2026-09-24 9:00 PM | 2026-09-24 | open | TBD |
+| 2026-09-24 9:00 PM | 2026-09-24 | ready to post | subway-subconscious-revival |
+</content>
