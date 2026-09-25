@@ -18,3 +18,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-23 9:00 PM | 2026-09-23 | ready to post | velez-nu-access-play |
 | 2026-09-24 10:00 AM | 2026-09-24 | ready to post | dos-hombres-sofi-bar |
 | 2026-09-25 10:00 AM | 2026-09-25 | ready to post | creatorfi-hidden-cost-of-capital |
+| 2026-09-25 9:00 PM | 2026-09-25 | draft ready — needs local finish | giggly-squad-audience-was-asset |
