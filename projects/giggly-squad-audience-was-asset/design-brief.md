@@ -47,7 +47,7 @@ Slide 7 pulls back to a calm, spacious navy field for the reflective CTA — qui
 ## 3. Exact placement — slide by slide
 
 ### Slide 1 — Cover
-- **Headline (verbatim):** "They Went Live on Instagram in 2020. In 2026, Distributors Competed to Own It."
+- **Headline (verbatim):** "They Went Live on Instagram in 2020. In 2026, Distributors Reportedly Competed to Own It."
 - **Subhead (verbatim):** "The six-year build behind the Giggly Squad deal."
 - **Placement:** Headline centered in the top ~55% clean navy field, warm-white, two to three line-breaks for mobile legibility (see §4 for exact line-break guidance). Subhead directly below in smaller gold type, single line.
 - **Visual:** bg-slide-1-cover — the full compressed ladder motif (rail + multiple small dots low-to-high) sits in the bottom ~35% of frame, anchored right-of-center, with a generic unbranded live-stream video-tile cluster glowing softly at the very bottom of the rail and a soft gold convergence glow at the very top of the rail. No text baked into the image.
@@ -90,7 +90,7 @@ Slide 7 pulls back to a calm, spacious navy field for the reflective CTA — qui
 
 - **Headline/cover typeface:** bold, semicondensed grotesk (the family used across prior JustPreneur carousels — keep consistent). Sentence case for the long Slide 1 headline, broken across 2–3 lines at natural phrase points, e.g.:
   - Line 1: "They Went Live on Instagram in 2020."
-  - Line 2: "In 2026, Distributors Competed to Own It."
+  - Line 2: "In 2026, Distributors Reportedly Competed to Own It."
 - **Subhead (Slide 1):** smaller, gold, single line, letter-spaced slightly.
 - **Body copy (Slides 2–7):** warm white, regular-to-medium weight, generous line-height, left-aligned or centered consistently across all six slides (pick one alignment and hold it — recommend left-aligned for these longer, more information-dense lines, since centered alignment reads awkwardly once lines wrap to 3–4 lines as on Slides 5–6).
 - **Attribution clauses (Slide 5's "per The Ankler/Like & Subscribe (citing sources familiar with the process)" and Slide 6's "reported as," "Reported value," "per trade reports," "Not officially confirmed by SiriusXM"):** same body typeface, no special script/italic treatment needed, but may drop one step in size relative to the lead sentence on that slide (never smaller than the accessibility floor in §9) so the lead fact stays visually primary while the hedge stays fully legible and un-cropped — never truncated, never dropped to an ellipsis.
