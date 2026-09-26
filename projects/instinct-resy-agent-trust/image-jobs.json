@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base with subtle steel-gray gradient toward the lower edge. A single minimal smartphone UI frame in the lower half of the composition, centered-left, rendered in a clean flat vector/product-marketing style (not photorealistic). Inside the phone frame, one calm chat-assistant message bubble in warm white with a tiny abstract calendar/checkmark glyph -- no legible text or words inside the bubble. Generous empty space in the upper two-thirds of the canvas for headline and body copy to be added afterward. Lighting: even, soft, no dramatic shadows, calm and composed mood suggesting an ordinary request, not urgency. Brand palette: deep navy, steel gray, warm white, one small muted-gold accent dot on the bubble. No readable text of any kind, no fake app logos, no human figures, no hands, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. Same minimal smartphone UI frame as a continuing motif, lower half of composition, centered-left, flat vector/product-marketing style. Inside and radiating from the phone frame, a dense pattern of small pulse/ping marks -- abstract concentric dots or short radiating lines suggesting rapid, repeated machine-speed signals, rendered in warm white and steel gray with no legible numbers or labels. Generous empty space in the upper two-thirds for body copy to be added afterward. Lighting: even, slightly more energetic/dense than the previous slide but still controlled, not chaotic. Brand palette: deep navy, steel gray, warm white, no gold accent yet. No readable text, no fake logos, no human figures, no hands, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. Same continuing minimal smartphone UI frame, lower half, centered-left, flat vector style. The pulse/ping pattern from the previous slide is now intersected by a single thin scanning line or subtle radar-sweep arc in muted gold (#C79A4B), passing over the pulses with one pulse point highlighted in gold as if flagged by a detection system. Rest of the pulses remain warm white/steel gray. Generous empty space in the upper two-thirds for body copy. Lighting: even, procedural, analytical mood -- like a systems-monitoring dashboard, not alarming. Brand palette: deep navy, steel gray, warm white, single restrained gold accent. No readable text, no fake logos, no human figures, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, slightly more compressed/still mood than previous slides. Same continuing minimal smartphone UI frame, lower-mid composition, centered-left, flat vector style, now displaying a simple minimal padlock glyph centered inside the frame with a single thin muted-gold accent line beneath it. No red color, no alarm iconography, no exclamation marks -- restrained and procedural. Generous empty space in the upper half for body copy, positioned with extra vertical breathing room since this is the emotional turn of the sequence. Lighting: even, still, slightly heavier shadow weight than earlier slides to convey gravity without melodrama. Brand palette: deep navy, steel gray, warm white, single muted gold accent line. No readable text, no fake logos, no human figures, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. Same continuing minimal smartphone UI frame, lower half, centered-left, flat vector style, now showing the padlock glyph from the previous slide in a reopened/unlocked state, rendered in the same muted warm white and gold tones -- no bright green, no celebratory color, no checkmark burst. The mood should read as quietly resolved, not triumphant. Generous empty space in the upper two-thirds for body copy. Lighting: even, calm, slightly softer than the lockout slide but still restrained. Brand palette: deep navy, steel gray, warm white, single muted gold accent line. No readable text, no fake logos, no human figures, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, full-bleed deep navy (#0E1B2A) or steel-gray (#3C4A59) field with an extremely subtle fine-grain texture or faint diagonal hairline pattern across the whole canvas -- no UI frame, no icons, no phone motif on this slide. The composition should feel like a quiet editorial 'breather' page in a print magazine: minimal, spacious, almost entirely empty of graphic elements so a large reflective quote can be placed on top afterward. Lighting: even, subdued, no gradients that would compete with text. Brand palette: deep navy or steel gray base only, no gold, no white shapes. No readable text, no icons, no human figures, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. A single faint, ghosted/watermark-opacity version of the recurring smartphone UI frame positioned subtly in the lower third of the composition, rendered at very low opacity/contrast against the navy so it reads as a quiet closing echo rather than a focal element. One oversized decorative quotation-mark glyph in muted gold (#C79A4B), positioned in the lower-third area to anchor where a pull quote will be placed afterward. Generous empty space across the whole canvas for a body-copy block (upper half) and a large pull-quote block (lower third) to be added afterward. Lighting: even, calm, conclusive mood. Brand palette: deep navy, steel gray, warm white, muted gold accent for the quotation mark only. No readable text, no fake logos, no human figures, no food or restaurant imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  }
+]
