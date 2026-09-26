@@ -45,7 +45,7 @@ Every slide (1–7) uses the same structural template:
 |---|---|---|---|
 | 1 | Cover, no kicker | "OpenAI Didn't Launch One Model. It Launched a Price Ladder." / subhead: "Sept 22, 2026 — the AI price war got more interesting than the price." | slide-1-cover |
 | 2 | THE CUT EVERYONE NOTICED | "Anthropic dropped Claude Opus 5.5 to $4/$20 per million tokens, a 20% cut from Opus 5's $5/$25 list price. Anthropic says it's also 30%+ faster." | slide-2-the-cut |
-| 3 | 90 MINUTES LATER... | "OpenAI answered, not with one model, but two, launched together: GPT-6 Sol and GPT-6 Luna." | slide-3-the-answer |
+| 3 | 90 MINUTES LATER... | "90 minutes later, OpenAI followed with two new models, not one: GPT-6 Sol and GPT-6 Luna." | slide-3-the-answer |
 | 4 | TWO TIERS, ONE LAUNCH | "Sol (frontier): $2/$10, down 50%, permanent per OpenAI, undercuts Opus 5.5 on both ends. Luna (commodity): $0.10/$0.50, down 50–58%. Meanwhile, Anthropic: one model, one price line at $4/$20." | slide-4-two-tiers |
 | 5 | WHY TWO BEATS ONE | "A single price cut defends one front. A tiered launch defends two, same day." | slide-5-two-fronts |
 | 6 | READ THE MOVE, NOT JUST THE PRICE | "Builders who compete on one price point are exposed on one front. Builders who architect tiers are harder to out-position." | slide-6-blueprint |
