@@ -2,7 +2,7 @@
 **Project:** instinct-resy-agent-trust
 **Format:** Carousel (7 slides)
 **Target posting date/slot:** 2026-09-26, 10:00 AM
-**Status:** Draft for Visual Director — pending downstream review (autopilot, no human approval yet)
+**Status:** QC PASS WITH CORRECTIONS (applied) — draft ready, pending image generation and human publish confirmation via /justpreneur-finish
 
 ---
 
@@ -64,7 +64,7 @@ Not used (see note above). CTA is carried in the caption.
 
 A venture capitalist wanted a dinner reservation. His AI assistant wanted it at machine speed.
 
-In the weeks following its high-profile $250M Series B (co-led by Index Ventures and Benchmark, at a $2.5B valuation), Instinct — an AI personal-assistant app — was asked by a Principal at Better Tomorrow Ventures to book a table at 4 Charles Prime Rib, a West Village steakhouse where reservations are gone within seconds of release.
+Instinct — an AI personal-assistant app that recently raised a high-profile $250M Series B (co-led by Index Ventures and Benchmark, at a $2.5B valuation) — was asked by a Principal at Better Tomorrow Ventures to book a table at 4 Charles Prime Rib, a West Village steakhouse where reservations are gone within seconds of release.
 
 Per CNN Business, the assistant pinged Resy's platform hundreds of times every hour while searching for an opening. Resy's anti-bot defenses read that as an attack and locked him out of his own account — access was later reinstated.
 
@@ -88,10 +88,13 @@ Before you connect an AI agent to your booking system, CRM, ad accounts, or sche
 |---|---|
 | **@resy** | Platform directly involved and quoted in the source reporting; public company account, factual anchor of the story. |
 | **@instinct** (or Spear Street Technology's official handle, if distinct) | Maker of the AI assistant at the center of the story; public brand account, factual anchor. |
-| **@bettertomorrowventures** | The VC fund where the investor is a Principal — tagging the firm (not the individual) keeps attribution accurate to his professional role without naming a private individual. |
 | **@indexventures** and **@benchmark** | Co-leads of Instinct's Series B, an approved fact directly referenced in the caption; relevant to the funding context of the story. |
 
 **Note on Bahr-de Stefano:** He is a private individual, not a public company account. Per the brief's instruction to use judgment, he is **not tagged directly** in the post or caption — the story refers to him by role/context only ("a Principal at Better Tomorrow Ventures," "the investor," "he"), consistent with respecting his privacy while preserving factual accuracy.
+
+**Note on Better Tomorrow Ventures:** Per QC correction, @bettertomorrowventures is deliberately NOT tagged, even though the firm name appears in body copy — tagging the firm alongside the role description would make the private individual materially easier to re-identify via the firm's small team page, and would drag an uninvolved third party into a personal story without their consent. The firm name stays in text only.
+
+**IMPORTANT — before publish:** All four remaining handles (@resy, @instinct or Spear Street Technology's real handle, @indexventures, @benchmark) are unverified guesses and must be confirmed against the platforms' actual official accounts before this post goes live. Do not tag with unverified handles.
 
 ---
 
@@ -117,7 +120,7 @@ Before you connect an AI agent to your booking system, CRM, ad accounts, or sche
 **Caption:**
 A venture capitalist wanted a dinner reservation. His AI assistant wanted it at machine speed.
 
-In the weeks following its high-profile $250M Series B (co-led by Index Ventures and Benchmark, at a $2.5B valuation), Instinct — an AI personal-assistant app — was asked by a Principal at Better Tomorrow Ventures to book a table at 4 Charles Prime Rib, a West Village steakhouse where reservations are gone within seconds of release.
+Instinct — an AI personal-assistant app that recently raised a high-profile $250M Series B (co-led by Index Ventures and Benchmark, at a $2.5B valuation) — was asked by a Principal at Better Tomorrow Ventures to book a table at 4 Charles Prime Rib, a West Village steakhouse where reservations are gone within seconds of release.
 
 Per CNN Business, the assistant pinged Resy's platform hundreds of times every hour while searching for an opening. Resy's anti-bot defenses read that as an attack and locked him out of his own account — access was later reinstated.
 
@@ -129,4 +132,4 @@ Before you connect an AI agent to your booking system, CRM, ad accounts, or sche
 
 **Hashtags:** #AIAgents #DigitalTrust #PlatformRisk #BuilderLessons #StartupTech
 
-**Tags:** @resy, @instinct, @bettertomorrowventures, @indexventures, @benchmark (Bahr-de Stefano not tagged — private individual, referenced by role only)
+**Tags:** @resy, @instinct, @indexventures, @benchmark — all four unverified, confirm official handles before publish. Better Tomorrow Ventures named in copy only, not tagged. Bahr-de Stefano not tagged — private individual, referenced by role only.
