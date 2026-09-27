@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base with an extremely subtle fine-grain texture. A single thin, crisp energy-gold (#C79A4B) vertical hairline runs from roughly one-fifth down the canvas to near the bottom edge, precisely centered horizontally, dividing the composition into two quiet halves. No shapes, icons, or text on either side of the line -- both halves are calm, empty negative space reserved for large headline typography to be added afterward. Flat vector/print-chart aesthetic, not photographic. Lighting: even, no dramatic shadow, composed and premium mood like a business-magazine explainer graphic. Brand palette: deep navy, one gold hairline only. No illegible text, no fake logos, no human figures or faces, no hands, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base with subtle fine-grain texture. A single thin energy-gold (#C79A4B) horizontal hairline runs across the vertical middle third of the canvas, from safe-margin edge to safe-margin edge, with one small plain gold circle marker resting on the line slightly left of center. Nothing else on the line -- no icon detail, no text. Generous empty space above and below the line for body copy to be added afterward. Flat vector/print-chart aesthetic. Lighting: even, calm, procedural mood, like a timeline graphic in a business explainer. Brand palette: deep navy base, single gold line and marker only. No illegible text, no fake logos, no human figures or faces, no hands, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base. A two-column ledger composition: the left half of the canvas is a solid flat steel-gray (#3C4A59) panel filling the full column height within the safe margins, with crisp clean edges; the right half of the canvas is empty deep navy with only a thin ghosted steel-gray outline suggesting a second, not-yet-filled column. A single thin gold (#C79A4B) hairline runs vertically at the boundary between the two columns. No text, no icons, no logos anywhere in the composition -- both the filled left panel and the empty right column are reserved as negative space for a column header and bullet-list copy to be added afterward. Flat vector/print-chart aesthetic. Lighting: even, composed, calm. Brand palette: deep navy, steel gray, single gold divider line. No illegible text, no fake logos, no human figures or faces, no hands, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base. A two-column ledger composition, mirrored from a matching prior slide: the right half of the canvas is a solid flat charcoal/near-black (#141B22) panel filling the full column height within the safe margins, outlined by a fine energy-gold (#C79A4B) hairline border, visually heavier and denser than a plain gray panel; the left half of the canvas is empty deep navy with only a thin ghosted steel-gray outline suggesting a first, now-quiet column. A single thin gold hairline runs vertically at the boundary between the two columns. No text, no icons, no logos anywhere -- both panels are reserved as negative space for a column header and a four-line bullet list to be added afterward. Flat vector/print-chart aesthetic. Lighting: even, composed, slightly more weighted/serious mood than the previous slide, conveyed only through the denser charcoal fill, not through any dramatic imagery. Brand palette: deep navy, charcoal, gold outline. No illegible text, no fake logos, no human figures or faces, no hands, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base. Two small ledger-column swatches sit side by side in the upper portion of the canvas, condensed and reduced in scale compared to prior slides: a flat steel-gray (#3C4A59) rectangle on the left, a charcoal (#141B22) rectangle with a thin gold (#C79A4B) outline on the right, both with generous empty space around them. Below them, a single thin gold horizontal bridge line spans between the two swatches and continues toward the lower half of the canvas, which is left entirely empty for body copy to be added afterward. Flat vector/print-chart aesthetic. Lighting: even, calmer and lighter-feeling than the previous two slides, more open negative space overall. Brand palette: deep navy, steel gray, charcoal, gold bridge line. No illegible text, no fake logos, no human figures or faces, no hands, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base, mostly empty negative space. Centered in the upper-middle area, a single abstract shield-like glyph (a simple rounded-top shield silhouette, no emblem or text inside it) is split vertically down its exact center by a thin energy-gold (#C79A4B) hairline into two asymmetric halves: the left half of the shield rendered thin, small, and set slightly back in steel-gray (#3C4A59); the right half rendered noticeably larger, thicker, and heavier in charcoal (#141B22) with a gold outline. The glyph is simple and flat, not detailed or realistic, and occupies only a modest portion of the upper canvas. The lower two-thirds of the canvas is left completely empty for a large pull-quote headline to be added afterward. Flat vector/editorial-chart aesthetic. Lighting: even, serious, restrained mood. Brand palette: deep navy, steel gray, charcoal, gold. No illegible text, no fake logos, no human figures or faces, no hands, no literal insurance paperwork, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Premium business-media editorial background, 1080x1350 portrait, deep navy (#0E1B2A) full-bleed base. In the upper-middle area, a single simple flat document/contract glyph -- a plain rounded-corner rectangle with three short generic horizontal rule lines inside it suggesting clauses, no legible text or letterforms -- rendered in warm white (#F4F1E9) outline with one of the three rule lines underlined by a short energy-gold (#C79A4B) accent segment. The glyph is modest in scale and simple, not ornate. Generous empty space fills the rest of the canvas, especially the lower half, for CTA copy and the JustPreneur wordmark to be added afterward. Flat vector/print-chart aesthetic. Lighting: even, calm, conclusive/resolved mood. Brand palette: deep navy, warm white outline, single gold accent. No illegible text, no fake logos, no human figures or faces, no hands, no bookmark ribbon icon, no golf equipment or golf-course imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  }
+]
