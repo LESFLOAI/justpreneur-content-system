@@ -10,11 +10,11 @@ Prepared by: Content Copywriter agent
 
 ## 1. Headline Options
 
-1. "Callaway Approved It. Good Good Lost Everything."
+1. "Callaway Reportedly Approved It. Good Good Lost Everything."
 2. "The Co-Branding Trap Every Founder Should Know"
 3. "Approval Isn't Protection: What Good Good's Collapse Teaches Builders"
 
-**Recommended headline:** Option 1 — "Callaway Approved It. Good Good Lost Everything."
+**Recommended headline:** Option 1 — "Callaway Reportedly Approved It. Good Good Lost Everything."
 Reason: it's concrete, sets up the split-ledger visual immediately, and creates the tension the carousel resolves — without editorializing or assigning blame.
 
 ---
@@ -22,12 +22,12 @@ Reason: it's concrete, sets up the split-ledger visual immediately, and creates 
 ## 2. Slide-by-Slide Copy
 
 **Slide 1 — Cover**
-> Callaway Approved It.
+> Callaway Reportedly Approved It.
 > Good Good Lost Everything.
 
 **Slide 2 — Setup**
 > Late August 2026: a co-branded ad from Callaway and Good Good goes live.
-> Callaway signed off on it before it aired.
+> According to multiple reports, Callaway had signed off on it before it aired.
 > Within weeks, it becomes a crisis — for one brand, not both.
 
 **Slide 3 — Callaway column**
@@ -38,7 +38,7 @@ Reason: it's concrete, sets up the split-ledger visual immediately, and creates 
 
 **Slide 4 — Good Good column**
 > GOOD GOOD
-> — Lost its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor)
+> — Stepped away from its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor)
 > — "Big Break x Good Good" debut season shelved by Golf Channel
 > — Retail distribution pulled
 > — Two executives exited
@@ -67,7 +67,7 @@ Reason: it's concrete, sets up the split-ledger visual immediately, and creates 
 
 A co-branded campaign has two authors — and one insurance policy.
 
-In late August 2026, a Callaway x Good Good ad went live. Callaway had approved it before launch. When the fallout came, it landed almost entirely on Good Good: a lost PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor), a shelved TV debut season (Golf Channel has a 2027 season planned), pulled retail distribution, and two executive exits. Callaway pledged $1M to anti-violence-against-women organizations and moved forward. Co-founder Garrett Clark remains with the company and posted a video apology.
+In late August 2026, a Callaway x Good Good ad went live. According to multiple reports, Callaway had approved it before launch. When the fallout came, it landed almost entirely on Good Good: it stepped away from its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor), a shelved TV debut season (Golf Channel has a 2027 season planned), pulled retail distribution, and two executive exits. Callaway pledged $1M to anti-violence-against-women organizations and moved forward. Co-founder Garrett Clark remains with the company and posted a video apology.
 
 Approval isn't protection. If you're building a co-branded campaign, negotiate who owns the crisis — not just who owns the creative.
 
@@ -97,13 +97,13 @@ Save this before your next partnership conversation.
 
 ## Copy Approval Block
 
-**Headline:** Callaway Approved It. Good Good Lost Everything.
+**Headline:** Callaway Reportedly Approved It. Good Good Lost Everything.
 
 **Slides:**
-1. Callaway Approved It. Good Good Lost Everything.
-2. Late August 2026: a co-branded ad from Callaway and Good Good goes live. Callaway signed off on it before it aired. Within weeks, it becomes a crisis — for one brand, not both.
+1. Callaway Reportedly Approved It. Good Good Lost Everything.
+2. Late August 2026: a co-branded ad from Callaway and Good Good goes live. According to multiple reports, Callaway had signed off on it before it aired. Within weeks, it becomes a crisis — for one brand, not both.
 3. CALLAWAY — Dropped the partnership / Pledged $1M to anti-violence-against-women organizations / Moved forward
-4. GOOD GOOD — Lost its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor) / "Big Break x Good Good" debut season shelved by Golf Channel / Retail distribution pulled / Two executives exited
+4. GOOD GOOD — Stepped away from its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor) / "Big Break x Good Good" debut season shelved by Golf Channel / Retail distribution pulled / Two executives exited
 5. Not every door closed. Golf Channel has a 2027 season planned. Co-founder Garrett Clark remains with the company and posted a video apology.
 6. Here's the trap: A co-branded campaign has two authors. But one insurance policy — the smaller brand's. Approval from a bigger partner buys speed. Not protection.
 7. Before you co-brand anything: Negotiate crisis terms — not just creative approval. Who absorbs the fallout is usually decided before the content ever airs. Save this. Audit your next partnership agreement.
@@ -111,7 +111,7 @@ Save this before your next partnership conversation.
 **Caption:**
 A co-branded campaign has two authors — and one insurance policy.
 
-In late August 2026, a Callaway x Good Good ad went live. Callaway had approved it before launch. When the fallout came, it landed almost entirely on Good Good: a lost PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor), a shelved TV debut season (Golf Channel has a 2027 season planned), pulled retail distribution, and two executive exits. Callaway pledged $1M to anti-violence-against-women organizations and moved forward. Co-founder Garrett Clark remains with the company and posted a video apology.
+In late August 2026, a Callaway x Good Good ad went live. According to multiple reports, Callaway had approved it before launch. When the fallout came, it landed almost entirely on Good Good: it stepped away from its PGA Tour title sponsorship (the event is now listed as the Austin Championship, pending a new sponsor), a shelved TV debut season (Golf Channel has a 2027 season planned), pulled retail distribution, and two executive exits. Callaway pledged $1M to anti-violence-against-women organizations and moved forward. Co-founder Garrett Clark remains with the company and posted a video apology.
 
 Approval isn't protection. If you're building a co-branded campaign, negotiate who owns the crisis — not just who owns the creative.
 
