@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base with a subtle steel-gray gradient toward the lower edge. In the lower half of the composition, two small simple ring/circle outlines sit side by side, unconnected, rendered in a clean flat vector/data-product style (not photorealistic) -- one ring in cool steel-gray, one ring in warm energy-gold, both quiet and understated, no arrows or lines between them yet. Generous empty space in the upper two-thirds of the canvas for headline and subtext to be added afterward. Lighting: even, calm, composed mood. Brand palette: deep navy, steel gray, warm white, muted gold. No readable text of any kind, no fake logos, no human figures, no hands, no event or concert imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, mostly empty and quiet. In the lower-right corner only, a small, subdued version of two unconnected rings (steel-gray and muted gold), rendered smaller and pushed into the corner as a minor continuity element -- this slide's composition should otherwise be almost entirely open negative space to accommodate a dense, editorial numbers-and-text layout added afterward. Lighting: even, restrained, analytical mood, like a financial-news graphic. Brand palette: deep navy, steel gray, warm white, muted gold. No readable text, no numbers, no fake logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. In the lower half of the composition, two clearly distinguished circular nodes positioned side by side, unconnected: on the left, a cool steel-gray ring with small evenly-spaced tick marks around its outer edge suggesting a ledger or transaction rhythm (abstract only, no numbers or text); on the right, a warm energy-gold circle with a soft radial glow, like gentle warm light diffusing outward, evoking an owned live experience without depicting any literal candle, stage, or crowd. Generous empty space in the upper two-thirds for body copy. Lighting: even, with a slightly warmer glow around the gold node only. Brand palette: deep navy, steel gray, warm white, muted gold. No readable text, no fake logos, no human figures, no literal concert or candle imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. Two nodes, same size and position as a continuing motif -- steel-gray ticked ring on the left, warm gold glow circle on the right, still unconnected. The steel-gray ring is actively emitting a fine scatter of small particle dots that drift inward toward the center of the frame, visualizing accumulating data points; the particles are abstract, uniform, and non-numeric (no digits, no labels). The gold node remains calm and unchanged. Generous empty space in the upper two-thirds for body copy. Lighting: even, with subtle motion-suggestion in the particle trail. Brand palette: deep navy, steel gray, warm white, muted gold. No readable text, no numbers, no fake logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. Two continuing nodes, same position, now connected for the first time by a single clean curved ribbon/arrow flowing from the steel-gray node to the gold node, carrying small particle dots along its path. Where the particles arrive, the gold node glows slightly brighter than before, visualizing signal becoming input. Generous empty space in the upper two-thirds for body copy. Lighting: even, with a gentle brightening at the point of contact on the gold node. Brand palette: deep navy, steel gray, warm white, muted gold accent on the connecting ribbon. No readable text, no numbers, no fake logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. The same connected loop as a continuing motif, rendered visibly thicker and brighter to convey compounding scale, still flowing from the steel-gray node to the gold node. A second, larger inbound stream of abstract particles enters the composition from off-frame (upper-right), widening like a funnel as it feeds into the steel-gray node -- representing new transaction volume, rendered purely as abstract geometric particles with no motorsport, racing, checkered-flag, car, or red color cues of any kind. Generous empty space in the upper half for a longer body-copy block. Lighting: even, slightly more energetic than prior slides to convey growth, still controlled and editorial, not flashy. Brand palette: deep navy, steel gray, warm white, muted gold. No readable text, no numbers, no fake logos, no human figures, no vehicle or racing imagery, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. A fully completed flywheel loop -- steel-gray node, gold node, thick glowing connecting ribbon between them -- rendered large and centered in the composition, both nodes at their brightest state, positioned in the mid-to-lower frame at moderate opacity so it reads as a strong backdrop rather than competing with foreground text. One oversized decorative quotation-mark glyph in muted gold, positioned in the lower-third area to anchor where a pull quote will be placed afterward. Generous empty space across the canvas for a body-copy block (upper third) and a large pull-quote block (lower half) to be added afterward. Lighting: even, warm, conclusive, confident mood. Brand palette: deep navy, steel gray, warm white, energy gold. No readable text, no fake logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, mostly empty and quiet. A single faint, ghosted/very-low-opacity version of a completed flywheel loop (steel-gray node, gold node, connecting ribbon) positioned subtly in the lower third of the composition, rendered at low contrast against the navy so it reads as a quiet closing echo rather than a focal element -- no particles, no motion marks, no bright glow. Generous empty space across the whole canvas for a reflective body-copy block and CTA line to be added afterward. Lighting: even, calm, quiet mood. Brand palette: deep navy, steel gray, warm white, faint muted gold. No readable text, no fake logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  }
+]
