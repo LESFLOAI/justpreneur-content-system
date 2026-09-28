@@ -22,3 +22,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-26 10:00 AM | 2026-09-26 | draft ready — needs local finish | instinct-resy-agent-trust |
 | 2026-09-27 10:00 AM | 2026-09-27 | draft ready — needs local finish | good-good-golf-leadership-crisis |
 | 2026-09-28 10:00 AM | 2026-09-28 | draft ready — needs local finish | fever-demand-data-flywheel |
+| 2026-09-28 9:00 PM | 2026-09-28 | draft ready — needs local finish | ranbir-kapoor-flux-theory-infrastructure |
