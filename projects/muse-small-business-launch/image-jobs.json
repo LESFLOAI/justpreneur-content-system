@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base with a faint architectural blueprint grid of thin steel-gray lines across the full canvas. One rough, hand-drawn-looking gold (#C9A227) path line cuts diagonally across the lower half of the composition, imperfect and organic rather than ruler-straight, like a worn desire path across a lawn. Generous empty space in the upper two-thirds of the canvas for headline and subheadline to be added afterward. Lighting: even, soft, calm and composed editorial mood. Brand palette: deep navy, steel gray grid lines, warm white negative space, single gold path line. No readable text of any kind, no logos, no human figures, no hands, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base with the same faint architectural blueprint grid of thin steel-gray lines across the full canvas, but clean and undisturbed -- no path, no line, no markings cutting across it. A single small neutral warm-white node/dot sits near the center of the grid, understated. Generous empty space in the upper two-thirds for body copy to be added afterward. Lighting: even, quiet, static mood -- more still than a cover slide. Brand palette: deep navy, steel gray grid, warm white single dot, no gold yet. No readable text, no logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, same continuing faint blueprint grid. A sketchy, informal gold (#C9A227) path now cuts diagonally across the grid, hand-drawn and imperfect in line quality, with three small unlabeled warm-white dot markers spaced along its length. Generous empty space in the upper two-thirds for body copy to be added afterward. Lighting: even, slightly more energetic than the previous slide but still controlled and editorial. Brand palette: deep navy, steel gray grid, warm white markers, gold path. No readable text or numbers, no icons, no logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, same continuing blueprint grid and sketchy gold path from the previous slide. A small checkpoint/gate glyph -- two simple parallel vertical bars, like a minimal turnstile mark, rendered in warm white with a thin gold outline -- sits directly on the path partway along its length. No red color, no alarm iconography, no stop-sign shapes -- calm and procedural. Generous empty space in the upper half for body copy, with extra vertical breathing room since this is a key guardrail beat. Lighting: even, still, slightly more deliberate weight than earlier slides without melodrama. Brand palette: deep navy, steel gray grid, warm white gate glyph, gold path. No readable text, no logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, same continuing blueprint grid and gold path, composition pulled back slightly wider than previous slides. Thin survey/viewfinder-style corner bracket marks in warm white appear at two corners of the frame, as if the path is being observed or surveyed from above -- no literal eye, camera, or magnifying-glass icon. Generous empty space in the upper two-thirds for body copy. Lighting: even, calm, observational mood. Brand palette: deep navy, steel gray grid, warm white corner brackets, gold path. No readable text, no icons, no logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base, same continuing blueprint grid. The previously sketchy gold path is now redrawn as a clean, straight, paved gold (#C9A227) line -- a formalized sidewalk replacing the worn trail -- with a short, evenly spaced row of small neutral warm-white node dots placed along its length. The nodes must remain entirely abstract and unlabeled: no logos, wordmarks, app icons, or brand likenesses of any specific software company anywhere in the image. Generous empty space in the upper two-thirds for body copy. Lighting: even, confident, more resolved/orderly mood than earlier slides. Brand palette: deep navy, steel gray grid, warm white nodes, gold paved line. No readable text, no logos or trademarks of any kind, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, full-bleed deep navy (#0E1B2A) or steel-gray (#3C4A59) field with an extremely subtle, near-invisible ghost of the paved path motif barely perceptible in the background -- no visible grid lines, no nodes, no gate glyph, essentially a quiet empty field. The composition should feel like a reflective breather page in a print magazine: minimal, spacious, almost entirely empty of graphic elements so a large reflective quote can be placed on top afterward. Lighting: even, subdued, no gradients that would compete with text. Brand palette: deep navy or steel gray base only, no gold, no white shapes. No readable text, no icons, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8",
+    "prompt": "Premium editorial background graphic, 1080x1350 portrait, deep navy (#0E1B2A) base. A low-opacity, ghosted echo of the paved gold path motif from earlier slides sits in the lower third of the composition, rendered at very low opacity/contrast against the navy so it reads as a quiet closing callback rather than a focal element. One oversized decorative quotation-mark glyph in energy gold (#C9A227) is positioned in the lower-third area to anchor where a pull quote will be placed afterward. Generous empty space across the whole canvas for a body-copy block (upper half) and a large pull-quote block (lower third) to be added afterward. Lighting: even, calm, conclusive mood. Brand palette: deep navy, steel gray, warm white, gold accent for the quotation mark and ghosted path only. No readable text, no logos, no human figures, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  }
+]
