@@ -26,4 +26,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-29 10:00 AM | 2026-09-29 | draft ready — needs local finish | carnegie-deli-lease-not-brand |
 | 2026-09-29 9:00 PM | 2026-09-29 | draft ready — needs local finish | seven-years-platform-became-exit |
 | 2026-09-30 10:00 AM | 2026-09-30 | draft ready — needs local finish | restaurant-isnt-open-yet |
-</content>
+| 2026-09-30 9:00 PM | 2026-09-30 | draft ready — needs local finish | muse-small-business-launch |
