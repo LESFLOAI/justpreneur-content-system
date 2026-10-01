@@ -27,3 +27,5 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-29 9:00 PM | 2026-09-29 | draft ready — needs local finish | seven-years-platform-became-exit |
 | 2026-09-30 10:00 AM | 2026-09-30 | draft ready — needs local finish | restaurant-isnt-open-yet |
 | 2026-09-30 9:00 PM | 2026-09-30 | draft ready — needs local finish | muse-small-business-launch |
+| 2026-10-01 10:00 AM | 2026-10-01 | draft ready — needs local finish | char-the-chicken-format-decision |
+</content>
