@@ -63,7 +63,7 @@ Beats 7 and 8 intentionally reuse the same background asset (no new generation n
 ## 4. Typography direction
 
 - **Kinetic body text (all beats):** bold grotesk/sans (the family already established across JustPreneur Reels — e.g., a Neue-Haas-Grotesk-Condensed-style weight), sentence case, warm white, centered or lower-third per §3.
-- **Beat 1's "$110B" figure:** rendered as a larger, extra-bold numeral treatment within the same sentence, in energy gold, so the dollar figure reads as the visual anchor of the hook.
+- **Beat 1's "$110B" figure:** rendered as a larger, extra-bold numeral treatment within the same sentence, in energy gold, so the dollar figure reads as the visual anchor of the hook. QC correction: attach a small "(EV)" micro-label immediately after the figure (smaller type size, same gold color, e.g. "$110B(EV)") so the enterprise-value qualifier is visible in beat 1 itself, not delayed until beat 2's full "(enterprise value)" spell-out.
 - **Broadcast-style name/title cards (beats 3, 4):** name in bold warm white (e.g., "David Ellison"), role/credential directly beneath in smaller gold all-caps letter-spaced type (e.g., "VISION, STRATEGY, CREATIVE, TECH" / "EX-CHAIRMAN/CEO, MATTEL — DAY-TO-DAY OPERATIONS & INTEGRATION"), set on a short solid or 80%-opacity navy bar for a clean, legible chyron look.
 - **"SKYDANCE — PENDING CLOSE" marker (beats 2, 5, 6):** condensed grotesk, all-caps, set inside a dashed or bracketed container, fill at ~50–60% gray opacity against the navy background so it visibly reads as "not fully real yet" — never full-opacity warm white or gold, which would read as a confirmed, finished brand.
 - **Beats 7–8 lesson lines:** same grotesk family, heaviest available weight, largest optical size used anywhere in the piece (these are the thesis statements — they should be the most dominant single lines in the whole Reel), warm white, centered.
@@ -88,7 +88,7 @@ Beats 7 and 8 intentionally reuse the same background asset (no new generation n
 
 - Clean, flat-lit, graphic-design-forward treatment throughout (not photographic/cinematic) — this is a data/org-chart explainer, so backgrounds should read as premium motion-graphics plates, not lifestyle photography.
 - Icon motifs (compass, lightbulb, circuit-nodes, gear, checklist, interlocking-nodes) rendered as simple, bold, line-based or softly-lit 3D-icon graphics — never cluttered, never more than 2–3 icons visible at once per lane.
-- Abstract company marks (for Paramount/WBD references in beats 2, 5, 6) are generic geometric emblem shapes only — e.g., a simple abstract peak/triangle form for one side and a simple abstract ring/arc form for the other — with no resemblance to either company's actual logo, wordmark, or brand colors.
+- Abstract company marks (for Paramount/WBD references in beats 2 and 6) are generic geometric emblem shapes only — a simple abstract hexagon form for one side and a simple abstract rounded-square form for the other — chosen specifically to avoid echoing either company's actual trade-dress iconography (no peak/mountain or globe/ring motifs), with no resemblance to either company's actual logo, wordmark, or brand colors.
 - No text, logos, or real identifiable people/faces generated inside any AI image — all copy, names, titles, and the "SKYDANCE — PENDING CLOSE" marker text are added in the design/motion tool afterward per this brief. AI-generated backgrounds supply motif, mood, and negative space only.
 - No depiction of any Mattel/toy branding or imagery anywhere in the piece.
 
@@ -171,6 +171,6 @@ No copy has been altered, trimmed, or paraphrased from the approved text above �
 
 ## Open design decisions for local finish
 
-- **Abstract mark shapes for Paramount/WBD (beats 2, 5, 6):** confirm the chosen generic peak/triangle and ring/arc shapes read as "two distinct media companies" at a glance without drifting toward either company's actual brand identity — review on first generation before finalizing across all three beats.
+- **Abstract mark shapes for Paramount/WBD (beats 2 and 6):** confirm the chosen generic hexagon and rounded-square shapes read as "two distinct media companies" at a glance without drifting toward either company's actual brand identity (QC flagged the original peak/triangle and ring/arc shapes as echoing Paramount's and Discovery's real trade-dress iconography — corrected to hexagon/rounded-square) — review on first generation before finalizing across both beats.
 - **"SKYDANCE — PENDING CLOSE" wording:** this exact bracket/stamp wording is a design recommendation to satisfy the "not yet real" constraint; confirm it reads clearly at Reel playback speed (on screen only a few seconds per appearance) and isn't so small it gets lost against the gray-on-navy treatment.
 - **Reel length:** beat timings in the approved copy sum to 58 seconds across 9 beats as given; confirm final cut doesn't drift past 60 seconds in edit.
