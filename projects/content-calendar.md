@@ -30,3 +30,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-10-01 10:00 AM | 2026-10-01 | draft ready — needs local finish | char-the-chicken-format-decision |
 | 2026-10-01 9:00 PM | 2026-10-01 | draft ready — needs local finish | elevenlabs-valuation-lagging-indicator |
 | 2026-10-02 10:00 AM | 2026-10-02 | draft ready — needs local finish | scarcity-vs-demand-undiscountable-tier |
+| 2026-10-02 9:00 PM | 2026-10-02 | draft ready — needs local finish | skydance-split-job-on-purpose — TIME-SENSITIVE: "pending close" framing accurate only through ~Oct 5, 2026 evening (merger expected to close Oct 6, 2026); prioritize for next `/justpreneur-finish` run; if it slips past Oct 5, 2026, re-verify the Approved Facts Block before publishing. |
