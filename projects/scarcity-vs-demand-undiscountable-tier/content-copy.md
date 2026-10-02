@@ -63,7 +63,7 @@ Q3 2026: Class A asking rents hit $85.45/sf — an all-time high, beating pre-pa
 
 But look at the trophy tier. In April 2026, HBeyond signed a 10-year lease at 9 West 57th St for $327.50/sf — at the time, the highest office rent on record in Manhattan, topping One Vanderbilt's $320/sf (The Real Deal / Commercial Observer). By June 2026, the landlord was seeking as much as $400/sf for what's left in the building — an ask, not a done deal (The Real Deal).
 
-Same city. Same window of time. $85 vs. $327.50 closed vs. $400 asked.
+Same city. $85 vs. $327.50 closed vs. $400 asked.
 
 That gap isn't about demand — the whole market has demand. It's about scarcity engineered within a defined tier. Trophy space can't be substituted, so it never has to discount.
 
