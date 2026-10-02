@@ -29,4 +29,4 @@ The Scheduler agent appends rows here as slots open, fill, and post. Status is o
 | 2026-09-30 9:00 PM | 2026-09-30 | draft ready — needs local finish | muse-small-business-launch |
 | 2026-10-01 10:00 AM | 2026-10-01 | draft ready — needs local finish | char-the-chicken-format-decision |
 | 2026-10-01 9:00 PM | 2026-10-01 | draft ready — needs local finish | elevenlabs-valuation-lagging-indicator |
-</content>
+| 2026-10-02 10:00 AM | 2026-10-02 | draft ready — needs local finish | scarcity-vs-demand-undiscountable-tier |
