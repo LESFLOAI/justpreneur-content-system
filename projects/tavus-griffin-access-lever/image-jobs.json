@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "1080x1350 vertical Instagram portrait. Abstract editorial cover graphic for a business/tech analysis post. Deep navy (#0B1628) background filling the full frame. In the lower 45% of the frame, a stylized split-portrait silhouette viewed in profile or three-quarter angle: left half rendered as a warm, naturalistic human photographic texture with soft studio lighting; right half of the same silhouette rendered as a faint translucent wireframe/particle mesh suggesting synthetic video generation, in steel gray with a single thin energy-gold contour line tracing the jaw and profile edge. The silhouette must be anonymous/generic, not a recognizable real person, no face detail beyond the implied outline, no eyes or mouth rendered in sharp detail. Moody, cinematic, low-key lighting with a single soft gold rim light along the profile edge. The entire upper 50% of the frame must remain empty, flat deep-navy negative space with no texture, gradient banding, or objects, reserved for a two-line bold headline and a short gold subhead to be added afterward. No text, no logos, no watermarks, no UI elements, no hands, no duplicate figures, no clutter. Palette strictly deep navy, steel gray, warm white highlight, and energy gold accent only. Premium, restrained, modern business-media aesthetic, not a motivational poster, not a sci-fi poster.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-launch",
+    "prompt": "1080x1350 vertical Instagram portrait. Editorial dossier-style background graphic, deep navy backdrop. Center-right area shows a minimal abstract video-call interface mockup: a soft-edged steel-gray rounded-rectangle grid of 2x2 empty video panels, with faint gold corner brackets on one tile suggesting an active AI video call, rendered as a clean UI illustration, not a screenshot of any real app, no logos, no readable text or labels inside the tiles. A subtle thin horizontal waveform/signal line motif in energy gold runs faintly across the lower third of the frame, suggesting full-duplex audio. No human faces, no real people, no identifiable likenesses anywhere in the image. Lighting is flat, even, cool, and clean, like a tech-editorial diagram rather than a dramatic photo. Leave the top 35% and the bottom 20% of the frame as clean, empty deep-navy space reserved for a headline, a date label, and a two-line body caption to be added afterward. No text, no logos, no watermarks, no clutter, no small decorative icons. Palette strictly deep navy, steel gray, warm white, energy gold accent only.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-48-percent-stat",
+    "prompt": "1080x1350 vertical Instagram portrait. Clean analytical infographic background, deep navy base. Center of frame: a single large rounded steel-gray card/panel with a thin 1px energy-gold border, occupying roughly the middle 45% of the frame vertically, left intentionally blank and empty inside (no numerals, no text, no icons) so an exact statistic can be added afterward in a design tool. Directly below the card, a small empty steel-gray pill/tag shape with a thin gold outline, also left blank, sized for a short caption like 'self-reported'. Do not render any numbers, percentages, checkmarks, trophies, stars, badges, seals, or ribbons anywhere in the image; this must read as neutral and analytical, not celebratory or award-like. In the upper third, a faint minimal line-drawing of a simple countdown-clock/timer icon in thin gold outline, small, positioned off to one side, not centered, not oversized, representing a one-minute call. Flat, even, clinical lighting, no dramatic shadows. No human figures, no faces, no confetti, no light bursts, no glow halos. No text, no logos, no watermarks, no clutter. Palette strictly deep navy, steel gray, warm white, energy gold accent only.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-benchmark-bars",
+    "prompt": "1080x1350 vertical Instagram portrait. Minimal editorial data-visualization background, deep navy base. Center-lower area contains a simple two-group bar-chart illustration with four vertical bars total, grouped in two pairs, rendered in flat steel-gray and flat energy-gold at varying neutral heights suggesting a comparison, with no numbers, no axis labels, no legend text, and no gridlines carrying numbers, left intentionally unlabeled so exact figures can be added afterward. No trophy, medal, checkmark, star, or winner iconography anywhere. No glow, no spotlight, no celebratory confetti. Lighting is flat, even, and clinical, like a printed analyst report, not a glossy award graphic. Leave the top 30% of the frame and a thin strip at the very bottom as clean empty deep-navy space for a headline and a small caption tag to be added afterward. No text, no logos, no watermarks, no human figures, no clutter, no small decorative icons. Palette strictly deep navy, steel gray, warm white, energy gold accent only.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-closed-door",
+    "prompt": "1080x1350 vertical Instagram portrait. Editorial metaphor image, deep navy background. Center composition: a single minimalist closed door or vault-style gate rendered in flat steel-gray with a thin energy-gold outline, slightly ajar by only a sliver of warm white light escaping at the edge, symbolizing restricted or closed access. The door has no handle shaped like a button, no signage, no readable text, no logo plate, no push/pull icon. Do not render this as a call-to-action button, app icon, or clickable-looking UI element; it must read as an architectural door/gate illustration, not a digital button. Moody, low-key lighting with a single narrow beam of warm white light coming through the gap, the rest of the scene dim and underlit. Leave the top 30% and bottom 25% of the frame empty, flat deep-navy space for a headline and a short bulleted list to be added afterward. No text, no logos, no watermarks, no people, no hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-empty-room",
+    "prompt": "1080x1350 vertical Instagram portrait. Cinematic editorial photo-style illustration, deep navy and steel-gray tones throughout. Composition: a single empty chair or empty podium/lectern positioned off-center in a dim, mostly empty room, lit by one narrow overhead spotlight beam in warm white light with a faint gold-tinted edge, the rest of the room falling into soft dark-navy shadow, suggesting an inaccessible setting that nobody outside can observe directly. No people, no silhouettes of people, no audience. No microphone logo, no brand signage, no readable text on any surface. Lighting is moody and restrained, not dramatic or horror-toned. Leave the top 25% and bottom 30% of the frame as clean, uncluttered deep-navy negative space reserved for a pull-quote and body text to be added afterward. No text, no logos, no watermarks, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7-two-path-diagram",
+    "prompt": "1080x1350 vertical Instagram portrait. Minimal editorial diagram illustration, deep navy background. Center composition: one thin energy-gold line/node at the top center branching downward into two separate thin steel-gray lines that diverge toward two empty rounded label-shapes near the bottom, left and right, each shape left intentionally blank with only a thin gold outline and no text or icons inside, so two short labels can be added afterward. The diagram should look like a clean flow-chart/branch diagram used in business journalism, not a technical engineering schematic; no arrows shaped like warning signs, no checkmarks, no lock or shield icons. Flat, even lighting, no shadows, no glow. Leave the top 25% of the frame and a margin around the diagram clean and empty for a headline and a supporting line of text to be added afterward. No text, no logos, no watermarks, no human figures, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8-closing",
+    "prompt": "1080x1350 vertical Instagram portrait. Editorial closing-frame graphic matching a premium business-media cover aesthetic, deep navy background filling the full frame, clean and largely empty. A single thin energy-gold horizontal rule line sits roughly two-thirds of the way down the frame, spanning most of the width but with margin on both sides, functioning as a quiet divider between a quote area above and a closing line below; no text rendered on or near the line itself. Optionally, very faint, low-opacity steel-gray fine line texture in the background corners only, extremely subtle, not distracting. No door, no chart, no icons, no human figures, no buttons, no app-store-style call-to-action shapes, no logos, no watermarks. The entire frame should feel calm, premium, and restrained, almost entirely negative space, reserved for a bold closing headline, a short supporting line, and a small wordmark to be added afterward. Palette strictly deep navy, steel gray, warm white, energy gold accent only.",
+    "width": 1080,
+    "height": 1350
+  }
+]
