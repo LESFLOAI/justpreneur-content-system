@@ -48,7 +48,7 @@
 **Header:** What Makes Symone Its Own Thing
 **Body:** Curry chicken salad sandwiches, patties, cod-and-rice porridge, soft serve, seasonal pastries, and La Cabra coffee. The space is designed by Marsollier Villacorta, reusing historic details of the PS1 schoolhouse building, with terrace dining. Café access is included with general museum admission — no separate ticket required.
 
-**Secondary note (supporting context only):** Instead of signing a standard commercial lease and shouldering build-out costs and foot-traffic risk alone, Francis's first restaurant opened inside an institution that already owns the building and guarantees visitors — the exact financial terms of that arrangement haven't been publicly disclosed.
+**Secondary note (supporting context only):** Opening inside a major cultural institution like MoMA PS1 is a different path than opening a standalone commercial restaurant — though the specific financial or lease arrangement between Francis and MoMA PS1 hasn't been publicly disclosed, so how costs, build-out, and foot traffic are actually shared isn't confirmed.
 
 ### Slide 7 — Takeaway / CTA
 **Header:** The Takeaway
@@ -61,7 +61,7 @@
 
 DeVonn Francis already had a working brand. Yardy — his Jamaican/Caribbean-rooted culinary studio, founded in 2017 — built his name.
 
-So when he got the chance to open his first standalone restaurant, inside MoMA PS1 no less, he didn't just put the Yardy name on the door.
+So when he got the chance to open what MoMA is billing as his first standalone restaurant, inside MoMA PS1 no less, he didn't just put the Yardy name on the door.
 
 He built Symone. A French-African café, named for his niece (per MoMA press materials), opening in the window MoMA has described as "early October 2026." Different menu language. Different format. Different brand.
 
@@ -105,7 +105,7 @@ What would you do: extend your brand, or build a second one?
 
 **Slide 5:** The Decision Point — A new format. A new venue. A new menu direction. Francis could have stretched Yardy's name to cover it. Instead, he built a second brand — distinct enough to stand on its own.
 
-**Slide 6:** What Makes Symone Its Own Thing — Curry chicken salad sandwiches, patties, cod-and-rice porridge, soft serve, seasonal pastries, and La Cabra coffee. The space is designed by Marsollier Villacorta, reusing historic details of the PS1 schoolhouse building, with terrace dining. Café access is included with general museum admission — no separate ticket required. (Secondary: Instead of signing a standard commercial lease and shouldering build-out costs and foot-traffic risk alone, Francis's first restaurant opened inside an institution that already owns the building and guarantees visitors — the exact financial terms of that arrangement haven't been publicly disclosed.)
+**Slide 6:** What Makes Symone Its Own Thing — Curry chicken salad sandwiches, patties, cod-and-rice porridge, soft serve, seasonal pastries, and La Cabra coffee. The space is designed by Marsollier Villacorta, reusing historic details of the PS1 schoolhouse building, with terrace dining. Café access is included with general museum admission — no separate ticket required. (Secondary: Opening inside a major cultural institution like MoMA PS1 is a different path than opening a standalone commercial restaurant — though the specific financial or lease arrangement between Francis and MoMA PS1 hasn't been publicly disclosed, so how costs, build-out, and foot traffic are actually shared isn't confirmed.)
 
 **Slide 7:** The Takeaway — Growth doesn't always mean stretching one brand further. Sometimes the smarter move is building a second one — made for the new context, not forced into the old one. CTA: Which would you do — extend your brand, or start a new one? Drop your answer below.
 
