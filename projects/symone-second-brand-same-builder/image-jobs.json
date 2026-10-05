@@ -1,0 +1,50 @@
+{
+  "status": "PROMPTS ONLY — IMAGES NOT YET GENERATED. No image-generation API key was available in this environment. Run scripts/generate_images.py with this file (or an updated copy) once a key is configured, e.g. via /justpreneur-finish.",
+  "project": "symone-second-brand-same-builder",
+  "format": "Instagram carousel, 7 slides, 1080x1350 portrait",
+  "jobs": [
+    {
+      "id": "slide-1-cover",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial background illustration, 1080x1350 vertical. Abstract warm scene evoking a chef-entrepreneur's dual world: soft-focus culinary-studio textures (warm plating, citrus, spice tones) blending into stylized museum-café architectural lines (arched windows, brick texture) in the upper half. Deep charcoal-espresso and terracotta-brass color grade, warm cinematic lighting with soft directional light from upper left, subtle film grain, matte premium magazine finish, slightly desaturated. No readable text, no logos, no people, no faces, no hands. Composition must leave a clear, uncluttered dark gradient zone across the bottom two-thirds of the frame for large headline and subhead text to be added afterward. Negative space protected in bottom 2/3. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-2-yardy",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial illustration, 1080x1350 vertical, top half of frame only needs rich detail. Warm abstract Caribbean culinary-studio mood: stylized citrus slices, scattered warm spices, terracotta and clay-toned ceramic textures, soft warm directional light, shallow-depth-of-field abstract food styling (no identifiable dish, no readable labels). Color grade: terracotta #B2512D, deep forest green #2E4A33, warm cream, touches of brass gold. Matte film-like grain, desaturated premium magazine finish. No people, no faces, no hands, no text, no logos. Leave the lower two-thirds of the frame as a clean, darker charcoal-terracotta gradient area with minimal texture so body copy can be placed there afterward. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-3-symone",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial illustration, 1080x1350 vertical. Abstract, stylized (NOT photorealistic-documentary) rendering of a generic schoolhouse-reuse museum-café terrace: arched brick windows, warm brick texture, simple outdoor terrace furniture silhouettes, soft green plant accents, café awning suggestion — entirely generic/invented architecture, not a depiction of any real identifiable building, no signage, no logos, no readable text anywhere. Color grade: steel gray #8A8A82, deep navy-charcoal #20242B, soft cream #E8D9C3, small brass-gold light accents. Soft late-afternoon light, matte premium magazine finish with subtle grain, slightly desaturated. No people, no faces, no hands. Leave the lower two-thirds of the frame as a clean dark navy-charcoal gradient zone for body copy to be added afterward. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-4-comparison-split",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial background illustration, 1080x1350 vertical, designed as a hard vertical two-panel split down the exact horizontal center (540px left / 540px right), with a thin vertical light-gold seam at the center line. LEFT HALF: abstract warm terracotta-toned texture — soft clay, citrus, spice-inspired abstract pattern, color grade terracotta #B2512D and warm cream, darker toward the top and bottom edges to support overlaid text. RIGHT HALF: abstract steel-gray and deep-navy toned texture — soft stone, brushed-metal, muted architectural line pattern, color grade steel gray #8A8A82 and navy #20242B, darker toward top and bottom edges to support overlaid text. Both halves share the same matte film-grain premium magazine finish and the same lighting direction so they read as one coherent frame split in two, not two unrelated images. No people, no faces, no hands, no readable text, no logos, no icons. Leave generous flat/low-detail dark zones at the very top (band for a shared header) and in the vertical-middle of each half (for stacked bullet text) so copy can be placed cleanly afterward. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-5-decision-point",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial abstract illustration, 1080x1350 vertical. A single soft light-trail or clean architectural line beginning in the upper portion of the frame and splitting smoothly into two diverging lines/paths of light flowing toward the lower half — rendered as elegant abstract light or ink-line art, not a literal road, not a literal fork utensil, not any recognizable object. Color grade: charcoal #1C1712 background, warm cream highlights, soft brass-gold #C8A24B glow along the lines. Minimal, calm, high-end editorial mood, soft matte grain, slightly desaturated, no clutter. No people, no faces, no hands, no text, no logos, no icons. Leave the lower half of the frame relatively dark and uncluttered for body copy to be placed afterward. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-6-proof-points",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial flatlay-style abstract illustration, 1080x1350 vertical. Soft, stylized textures suggesting pastries, a coffee cup silhouette, and warm bakery/café elements blending at the edges into a hint of brick/terrace architectural texture — generic and abstract, no readable text, no brand logos, no packaging labels, no real restaurant or coffee-brand identifiers. Warm cream, soft terracotta, and steel-gray color grade with brass-gold accent light. Matte premium magazine finish, subtle film grain, slightly desaturated, soft overhead natural light. No people, no faces, no hands. Leave a clear mid-to-lower darker gradient zone across the frame for a header plus two blocks of body copy (primary and a smaller secondary note) to be added afterward. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    },
+    {
+      "id": "slide-7-takeaway-cta",
+      "width": 1080,
+      "height": 1350,
+      "prompt": "Premium editorial abstract background illustration, 1080x1350 vertical. Minimal, calm closing-note composition: soft warm brass-gold light gradient radiating gently from the upper-center of the frame into a deep charcoal-espresso background, evoking quiet confidence and resolution. No objects, no people, no faces, no hands, no text, no logos, no icons — pure soft gradient and subtle matte film grain only, slightly desaturated. Composition must stay clean and uncluttered across the entire frame so a header, a body paragraph, and a call-to-action line can all be placed on top afterward with strong legibility. Avoid illegible text, fake logos, duplicate objects, malformed shapes, clutter, watermarks, small decorative icons."
+    }
+  ],
+  "layout_prompt_note": "See design-brief.md Section 8 for the exact text, placement, type treatment, and color handling to apply on top of each generated background once images exist. No exact copy should ever be rendered by the image-generation model itself — all headline/body/CTA text must be added by a design tool after generation, per JustPreneur Visual Director standard."
+}
