@@ -5,7 +5,7 @@
 **Format:** Instagram Carousel, 7 slides, 1080 x 1350 (portrait)
 **Working title:** disney-netflix-core-triage
 **Proposed posting slot:** 2026-10-06, 9:00 PM (per assignment — not re-confirmed by this brief; Scheduler/QC should verify this slot is still open)
-**Headline:** "Disney Didn't License Everything to Netflix. That's The Lesson."
+**Headline:** "Reportedly: Disney Didn't License Everything to Netflix. That's The Lesson." (hedge added per QC correction — the underlying deal is sourced to Variety/Reuters, not an official confirmation, and the cover slide is the one place this attribution was originally missing)
 
 ---
 
@@ -48,7 +48,7 @@ The carousel runs on a **two-device visual spine**:
 
 | Slide | Header (verbatim, if present) | Headline/Lead (verbatim) | Body copy (verbatim) | Visual motif | Text placement |
 |---|---|---|---|---|---|
-| 1 — Cover | — | "Disney Didn't License Everything to Netflix." / "That's The Lesson." | — | Vault door ajar, single dramatic light beam, mostly dark field | Centered, mid-frame, two-line stack, within safe margins |
+| 1 — Cover | — | "Reportedly: Disney Didn't License Everything to Netflix." / "That's The Lesson." | — | Vault door ajar, single dramatic light beam, mostly dark field | Centered, mid-frame, two-line stack, within safe margins |
 | 2 — The Deal | "The Deal" | Lead: "Disney and Netflix reportedly struck a new, multi-year, non-exclusive content-licensing deal" | Full remaining text: "— first reported by Variety on Oct 2, 2026, independently confirmed by Reuters the same day. Key detail: licensed titles stay simultaneously available on Disney+ and Hulu. Non-exclusive = reach, not giveaway." (final sentence set as a gold emphasis pull-line) | Two neutral abstract streaming-interface panels bridged by a light-beam connector (top ~35%) | Header top-left under wordmark; lead line large bold below motif; supporting detail smaller body size beneath; gold pull-line last |
 | 3 — What's Leaving the Vault | "What's Leaving the Vault" | Lead: "Starting Oct 4: 'Percy Jackson and the Olympians' (S1–2) + all 5 'Ice Age' films" | Full remaining text, line-broken for scannability: "each for a reported 3-month window — timed ahead of Season 3's Disney+ premiere (Nov 20) and 'Ice Age: Boiling Point' in theaters (Feb 5, 2027). Also reportedly coming: 'Will Trent' (Nov 3), 'Shifting Gears' (Dec 1), legacy library titles ('Felicity,' 'Revenge,' 'Fresh Off the Boat,' 'Army Wives,' 'This Is Us'), and non-franchise WDA/Pixar films ('Soul,' 'Elio,' 'Raya and the Last Dragon') in early 2027." | Vault interior, door open, warm light spilling, abstract glowing boxes/folders mid-exit (top ~35%) | Header top-left; lead line bold below motif; dense detail list in smaller body type, generous line spacing for scan-ability |
 | 4 — What's Notably Absent | "What's Notably Absent" | Lead: "None of the reported titles include Marvel, Star Wars, or core Pixar franchises." | Full remaining text: "No dollar terms for this deal have been disclosed — but the title list itself tells the strategy: promotional and legacy content moves." Pull-line in gold: "Flagship IP doesn't." | Vault door now mostly closed, one sealed inner chamber glowing behind a visible lock motif (top ~35%) | Header top-left; lead line bold below motif; supporting detail smaller body size; gold pull-line as closing emphasis |
@@ -154,14 +154,14 @@ Use this as the standing instruction for whoever assembles the final carousel in
 3. On slides 2, 3, 4, 6, 7: add the slide header exactly as it appears in the approved copy ("The Deal," "What's Leaving the Vault," "What's Notably Absent," "Translate This to Your Catalog," "Your Move") directly beneath the wordmark, small bold warm-white type.
 4. Set the exact lead line for that slide (per §3's "Headline/Lead" column) in bold grotesk, warm white, directly below the motif zone.
 5. Set the full remaining approved body copy for that slide in smaller regular-weight grotesk beneath the lead line, word-for-word — do not paraphrase, trim, or add qualifiers beyond what's approved. Apply the gold pull-line treatment only to the specific phrases called out in §3/§4 ("Non-exclusive = reach, not giveaway.", "Flagship IP doesn't.", "ARE the moat", "PROTECT or DISTRIBUTE").
-6. On slide 1: center the two-line headline exactly as approved — "Disney Didn't License Everything to Netflix." / "That's The Lesson." — with "The Lesson" in a subtle gold tint, no other copy on this slide.
+6. On slide 1: center the two-line headline exactly as approved — "Reportedly: Disney Didn't License Everything to Netflix." / "That's The Lesson." — with "The Lesson" in a subtle gold tint, no other copy on this slide.
 7. On slide 5: center the two lines — "This is asset triage." then the full supporting sentence — as the largest text in the carousel, with "ARE the moat" in gold caps exactly as it appears in the approved copy. No motif graphic on this slide (per §8).
 8. On slide 6: set the two "= protect" / "= distribute" statement lines stacked, with "protect" in gold and "distribute" in steel gray, then the closing pull-line smaller beneath.
 9. On slide 7: set the lead CTA line, then the body line with "PROTECT" (gold) and "DISTRIBUTE" (steel) rendered as short stamp-style words directly beneath the fork-and-stamps motif, positioned so each stamp word sits near its corresponding colored stamp icon in the image.
 10. Keep identical left/right margins (x: 70–1010px) and the wordmark position pixel-identical across all 7 slides so the carousel reads as one coherent set when swiped.
 
 **Exact on-screen copy, slide by slide (verbatim, no paraphrasing):**
-1. Cover: "Disney Didn't License Everything to Netflix. / That's The Lesson."
+1. Cover: "Reportedly: Disney Didn't License Everything to Netflix. / That's The Lesson."
 2. The Deal: "Disney and Netflix reportedly struck a new, multi-year, non-exclusive content-licensing deal — first reported by Variety on Oct 2, 2026, independently confirmed by Reuters the same day. Key detail: licensed titles stay simultaneously available on Disney+ and Hulu. Non-exclusive = reach, not giveaway."
 3. What's Leaving the Vault: "Starting Oct 4: 'Percy Jackson and the Olympians' (S1–2) + all 5 'Ice Age' films, each for a reported 3-month window — timed ahead of Season 3's Disney+ premiere (Nov 20) and 'Ice Age: Boiling Point' in theaters (Feb 5, 2027). Also reportedly coming: 'Will Trent' (Nov 3), 'Shifting Gears' (Dec 1), legacy library titles ('Felicity,' 'Revenge,' 'Fresh Off the Boat,' 'Army Wives,' 'This Is Us'), and non-franchise WDA/Pixar films ('Soul,' 'Elio,' 'Raya and the Last Dragon') in early 2027."
 4. What's Notably Absent: "None of the reported titles include Marvel, Star Wars, or core Pixar franchises. No dollar terms for this deal have been disclosed — but the title list itself tells the strategy: promotional and legacy content moves. Flagship IP doesn't."
