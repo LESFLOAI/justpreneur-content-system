@@ -32,7 +32,7 @@ Canvas: 1080 x 1350 px (portrait) for all 6 slides. Safe margins: 72px left/righ
 
 ### Slide 1 — Hook / Headline
 - Vertically centered composition on a deep-navy field.
-- Headline (two lines, exactly as copy): "Nobody Paid $13.5 Million For an Outcome." / "They Paid For a Guarantee." — "$13.5 Million" set in energy gold, rest in warm white.
+- Headline (two lines, exactly as copy): "$13.5 Million Wasn't Paid For an Outcome." / "Most Of It Was Paid For a Guarantee." — "$13.5 Million" set in energy gold, rest in warm white.
 - Nothing else on the slide except the wordmark. Let it breathe — this is the only slide with no supporting copy block, per copy deck direction.
 - Abstract court-line motif confined to bottom third, very low opacity, fading into the navy.
 

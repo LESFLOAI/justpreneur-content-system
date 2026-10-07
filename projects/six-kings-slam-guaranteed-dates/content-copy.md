@@ -10,16 +10,16 @@
 
 ## Cover Headline (Slide 1)
 
-**Nobody Paid $13.5 Million For an Outcome.
-They Paid For a Guarantee.**
+**$13.5 Million Wasn't Paid For an Outcome.
+Most Of It Was Paid For a Guarantee.**
 
 ---
 
 ## Slide-by-Slide Copy
 
 ### Slide 1 — Hook / Headline
-> Nobody Paid $13.5 Million For an Outcome.
-> They Paid For a Guarantee.
+> $13.5 Million Wasn't Paid For an Outcome.
+> Most Of It Was Paid For a Guarantee.
 
 (Design: headline only, no supporting text. Let it sit alone.)
 
@@ -76,13 +76,7 @@ Compare it to the 2025 US Open, where champion Carlos Alcaraz earned a verified 
 
 If you produce events, experiences, or content calendars: the lesson isn't "guarantee everyone." It's knowing which role you're actually paying for — performance, or the certainty that makes the calendar deliverable in the first place. This kind of leverage needs real distribution scale behind it. Most bookings don't need a $1.5M guarantee. But almost every producer has at least one slot where a no-show would cost more than the guarantee ever could.
 
-Save this for the next time you're negotiating a booking, a vendor, or a headline act.
-
 *(Appearance fee and purse figures per tournament organizers, as reported by multiple outlets — not independently audited financial filings. US Open prize figure per ATP Tour.)*
-
----
-
-## Call to Action
 
 Save this post and share it with a producer, promoter, or operator who's currently negotiating a booking — then ask: are we paying for performance, or for the certainty that makes the whole thing deliverable on schedule?
 
@@ -116,10 +110,9 @@ Note: Consider whether to tag all six players (Sinner, Alcaraz, Djokovic, Zverev
 
 **Recommended final language — ready for Visual Director:**
 
-- **Headline (Slide 1):** "Nobody Paid $13.5 Million For an Outcome. They Paid For a Guarantee."
+- **Headline (Slide 1):** "$13.5 Million Wasn't Paid For an Outcome. Most Of It Was Paid For a Guarantee."
 - **Slides 2–6:** as written above, verbatim.
-- **Caption:** as written above, verbatim, including the structural caveat and attribution line.
-- **CTA:** "Save this post and share it with a producer, promoter, or operator who's currently negotiating a booking — then ask: are we paying for performance, or for the certainty that makes the whole thing deliverable on schedule?"
+- **Caption:** as written above, verbatim, including the structural caveat, attribution line, and closing CTA.
 - **Hashtags:** #EventProduction #TalentBooking #ContentStrategy #BusinessOfSport #CreatorEconomy
 - **Tags:** per table above — all three organizational handles and both player handles require verification before publishing.
 
