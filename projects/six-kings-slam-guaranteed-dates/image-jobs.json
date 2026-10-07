@@ -1,0 +1,38 @@
+[
+  {
+    "id": "slide-1-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field. A faint, minimal abstract tennis-court boundary-line motif rendered as thin geometric lines in energy gold (#D4AF37) and steel gray (#6E7A85), concentrated only in the lower third of the frame, fading smoothly into pure flat navy toward the top two-thirds. Leave the entire upper two-thirds and center of the frame as clean, completely uninterrupted negative space for a large two-line headline to be added later. Mood: restrained, high-end, modern business-media editorial, like a premium financial magazine background. No texture noise, no gradients beyond the specified fade, no photographic elements. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, or athlete likenesses. No duplicate shapes, no malformed forms, no clutter, no small decorative icons, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field. A subtle ledger/calendar-grid pattern made of thin horizontal steel-gray (#6E7A85) rules at low opacity, confined to the right third of the frame only. The left two-thirds of the frame must remain completely open, clean negative space for large date numerals and supporting text lines to be added later. Mood: restrained, premium editorial, modern business-media tone. No texture noise, no calendar illustration or icon, no photographic elements. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, or athlete likenesses. No duplicate shapes, no malformed forms, no clutter, no small decorative icons, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field, divided conceptually into two open negative-space zones: an upper zone and a lower zone, both left completely clean and empty for typographic content to be added later (a list of names in the upper zone, stacked numeral lines in the lower zone). A faint abstract tennis-court boundary-line motif, rendered in thin gold (#D4AF37) and steel-gray (#6E7A85) lines at low opacity, runs only along the very top and very bottom bleed edges of the frame, not intruding into the central content zones. Mood: restrained, premium, modern business-media editorial. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, athlete likenesses, or portraits of any kind. No duplicate shapes, no malformed forms, no clutter, no small decorative icons, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field, almost entirely open, clean negative space from top to bottom, intended to hold a short headline and a paragraph of text to be added later. The only graphic accent is a single thin horizontal rule line in energy gold (#D4AF37), positioned at roughly the vertical midpoint of the frame, spanning most of the width within safe margins. Mood: minimal, quiet, restrained, premium editorial. No texture, no gradient beyond a flat navy field, no photographic elements, no imagery, no icons. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, or athlete likenesses. No duplicate shapes, no malformed forms, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field. A single thin vertical rule line in energy gold (#D4AF37) positioned exactly at the horizontal center of the frame, running most of the frame height within safe margins, visually dividing the canvas into two equal, completely open negative-space columns intended for a left/right text contrast to be added later. Open negative space also remains above and below the vertical line for a short lead-in line and a closing line. Mood: restrained, premium, modern business-media editorial, confident use of symmetry. No icons, no imagery, no photographic elements, no texture noise. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, or athlete likenesses. No duplicate shapes, no malformed forms, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-background",
+    "prompt": "Premium editorial background illustration, 1080x1350 portrait. Deep navy (#0B1B2B) base field. A faint horizontal ledger/data-table line pattern made of two to three thin steel-gray (#6E7A85) horizontal rules, confined to the central horizontal band of the frame only, suggesting a simple data table at low opacity. Completely open, clean negative space remains above the table band (for a lead-in line) and below the table band (for a closing caveat line), both to be filled with text later. Mood: restrained, premium, modern business-media editorial, calm and precise. No icons, no imagery, no photographic elements, no texture noise beyond the specified rules. Do not render any text, letters, or numerals. No logos or brand marks of any kind. No human figures, faces, silhouettes, or athlete likenesses. No duplicate shapes, no malformed forms, no clutter, no watermark.",
+    "width": 1080,
+    "height": 1350
+  }
+]
