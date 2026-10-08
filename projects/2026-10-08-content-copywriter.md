@@ -29,7 +29,7 @@ Other options considered, not recommended as primary:
 AWNY names Dhar Mann its first "Chief Creator Officer" — an event title, for AWNY 2026 (Oct 5-8) only.
 
 **Right column — THE INFRASTRUCTURE:**
-Behind the keynote stage, Mann is building something meant to outlast the week: Creator City.
+Behind the keynote stage, Mann has announced something meant to outlast the week: Creator City.
 
 ### Slide 3 — The Number
 **Left column — THE HEADLINE:**
@@ -59,7 +59,7 @@ The stage you're borrowing right now — is it pointing back to something you ow
 
 ## Final Caption
 
-Dhar Mann just became Advertising Week New York's first "Chief Creator Officer" — an event title for AWNY 2026 (Oct 5-8), not a new corporate role. He opened the show Oct 5 with Big Boy, a surprise Nick Cannon appearance, and the "$100 Million Creator Challenge": a stated 12-month goal for creator-brand business — not money already raised or secured.
+Advertising Week New York just named Dhar Mann its first "Chief Creator Officer" — an event title for AWNY 2026 (Oct 5-8), not a new corporate role. He opened the show Oct 5 with Big Boy, a surprise Nick Cannon appearance, and the "$100 Million Creator Challenge": a stated 12-month goal for creator-brand business — not money already raised or secured.
 
 The quieter headline: Creator City. A planned four-acre Dhar Mann Studios production campus in LA — announced, not yet built, targeting a Super Bowl weekend opening in Feb 2027.
 
@@ -94,7 +94,7 @@ What's your four acres — the thing you're building while everyone else is watc
 
 **Slides:**
 1. Cover — "The Stage Is Borrowed. The Land Is Owned." / Dhar Mann at Advertising Week New York, Oct 2026.
-2. The Role — Left: AWNY names Dhar Mann its first "Chief Creator Officer" — an event title, for AWNY 2026 (Oct 5-8) only. / Right: Behind the keynote stage, Mann is building something meant to outlast the week: Creator City.
+2. The Role — Left: AWNY names Dhar Mann its first "Chief Creator Officer" — an event title, for AWNY 2026 (Oct 5-8) only. / Right: Behind the keynote stage, Mann has announced something meant to outlast the week: Creator City.
 3. The Number — Left: The "$100 Million Creator Challenge" — Mann's stated 12-month goal for creator-brand business. Not money raised. Not closed. A target. / Right: Creator City: a planned four-acre Dhar Mann Studios production campus in LA. Announced. Not built yet.
 4. The Timeline — Left: The keynote stage — AWNY's platform, borrowed for four days, Oct 5-8, 2026. / Right: The studio campus — Mann's platform, targeting Super Bowl weekend, Feb 2027.
 5. Takeaway — Press moments are a visibility layer. They amplify what's already being built — they don't replace building it. The $100M goal gets the headlines. The four acres is the actual bet.
