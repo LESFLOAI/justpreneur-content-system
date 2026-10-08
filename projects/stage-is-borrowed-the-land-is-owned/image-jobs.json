@@ -1,0 +1,38 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "Editorial business-media photograph, 1080x1350 portrait. A confident male creator-entrepreneur in his late 30s stands mid-keynote on a large conference stage, lit by a single strong overhead spotlight, one arm gesturing outward toward an unseen audience, dressed in sharp modern business-casual (dark blazer, no tie). Environment: a premium industry-conference stage setting at night, evocative of a major advertising/media conference keynote, with soft bokeh of a packed audience and subtle stage lighting rigs visible in the background -- no readable signage, no logos, no event branding text anywhere in frame. Lighting: dramatic warm gold key spotlight from above, deep navy-blue ambient falloff into the background, cinematic contrast. Mood: energetic but composed, aspirational, high-stakes. Brand palette: deep navy, warm white highlights, energy gold spotlight glow -- overall cool navy frame punctuated by one warm light source. Composition: subject positioned center-right, generous open dark negative space in the lower-middle third and across the top third of the frame for text overlay. No illegible text, no fake logos or signage, no duplicate people, no malformed hands, no crowd faces in sharp focus, no clutter, no icons or graphic overlays rendered into the image itself.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-the-role",
+    "prompt": "Split-composition editorial illustration/photo-hybrid, 1080x1350 portrait, designed as two vertical halves divided by a clean vertical line down the center. LEFT HALF: a tightly cropped, warm-toned photograph of a spotlighted conference-stage podium and microphone, golden key light, soft bokeh audience in background, evoking a temporary live event stage -- no readable text or signage. RIGHT HALF: a cool-toned architectural rendering style image of an empty flat plot of land / early construction site at golden-hour dusk, survey stakes and a simple low-rise building foundation outline visible, evoking a long-term real-estate development -- steel-gray and navy tones, no readable signs or logos. Lighting: left half warm gold spotlight glow; right half cool blue-gray dusk light with architectural clarity. Brand palette: deep navy base throughout, gold accents on left, steel-gray/cool-blue accents on right. Composition: both halves leave open negative space in their upper third and lower third for text labels and body copy to be added afterward; center third of each half can carry the imagery. No illegible text, no fake logos, no people with malformed hands, no duplicate figures, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-the-number",
+    "prompt": "Split-composition editorial graphic background, 1080x1350 portrait, two vertical halves divided by a thin vertical line. LEFT HALF: abstract warm-toned background suggesting a spotlight beam and stage-light haze in gold and deep amber tones over a near-black navy base, subtle lens-flare glow, no figures, no text, no numerals rendered in the image. RIGHT HALF: abstract cool-toned background suggesting an architectural blueprint grid pattern faintly visible in steel-gray linework over a deep navy base, subtle drafting-line texture, no figures, no text, no numerals rendered in the image. Lighting: left half warm glowing light source upper-center; right half even cool architectural light, flat and precise. Brand palette: deep navy base, gold glow left, steel-gray blueprint lines right. Composition: both halves are largely open, soft, and textural -- deliberately leaving maximum negative space top-to-bottom for large numeral text and body copy to be overlaid afterward in a design tool. No illegible text, no fake logos, no people, no hands, no clutter, no icons, no watermark-like marks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-the-timeline",
+    "prompt": "Split-composition editorial graphic background, 1080x1350 portrait, two vertical halves divided by a thin vertical line. LEFT HALF: a softly blurred, warm-toned photographic background of a stage curtain or stage-light truss glowing gold against a dark navy backdrop, evoking something brief and temporary, no readable text, no people in sharp focus. RIGHT HALF: a softly blurred, cool-toned photographic background of a construction crane and steel scaffolding silhouette against a navy dusk sky, evoking something being built for the long term, no readable text, no people in sharp focus. Lighting: left half warm amber glow; right half cool blue dusk light with crisp silhouette edges. Brand palette: deep navy base throughout, gold glow left, steel-gray/cool-blue silhouette right. Composition: both halves keep the lower-middle band clear of complex detail so a horizontal timeline-bar graphic and short text can be added there afterward in a design tool; upper third of each half also left relatively open for a short headline line. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-takeaway",
+    "prompt": "Minimalist abstract editorial background, 1080x1350 portrait, deep navy (#0B1A2B) solid-to-subtle-gradient base with a very faint, soft radial glow of warm gold light positioned slightly below center, suggesting quiet afterglow rather than an active spotlight -- evoking a pause/exhale moment after a big event. No people, no objects, no architecture, no texture patterns, no text, no numerals, no icons anywhere in the frame. Composition: almost entirely open negative space across the full canvas so a large centered pull-quote and a smaller supporting line of text can be overlaid afterward in a design tool; the subtle gold glow should sit in the lower-middle area only, leaving the upper two-thirds clean and dark for maximum text contrast. Mood: calm, premium, contemplative. Brand palette: deep navy dominant, one soft warm gold glow accent only. No illegible text, no fake logos, no watermark-like marks, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-reflection-cta",
+    "prompt": "Ultra-minimalist abstract background, 1080x1350 portrait, solid or very subtly gradated deep navy (#0B1A2B) field occupying the vast majority of the frame, with a single thin horizontal gold line positioned in the lower third as the only graphic element, evoking quiet resolution/closure rather than decoration. No people, no objects, no texture, no gradients beyond a faint vignette, no text, no numerals, no icons. Composition: maximum negative space across the entire canvas, centered and symmetrical, so a short centered question and a smaller supporting line can be overlaid afterward in a design tool; the thin gold line should sit low enough to stay clear of the text zone, roughly in the bottom quarter of the frame. Mood: still, confident, reflective -- a 'save this' closing beat. Brand palette: deep navy dominant, one thin gold line accent only. No illegible text, no fake logos, no watermark-like marks, no clutter, no decorative icons.",
+    "width": 1080,
+    "height": 1350
+  }
+]
