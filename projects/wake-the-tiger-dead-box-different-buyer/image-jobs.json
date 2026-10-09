@@ -1,0 +1,56 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "Editorial business-media cover illustration, 1080x1350 portrait. Subject: a clean architectural blueprint-style floor-plan outline of a large single retail unit, bisected vertically down the center - left half rendered in cool, desaturated deep-navy and steel-gray line art (quiet, dormant, empty), right half rendered in warm, saturated gold-and-navy line art with a soft glowing immersive-art ambience (alive, vivid) - same outline shape on both halves, perfectly mirrored, symbolizing one footprint with two different lives. Composition: floor-plan centered and large, occupying the lower two-thirds of the frame, with generous empty dark-navy sky/negative space in the top third and a soft dark gradient across the very top and bottom for text legibility. Lighting: cool flat light on the left, warm glowing light on the right, dramatic but premium, editorial - not sci-fi, not neon-club. Brand palette: deep navy, steel gray, warm white, energy gold, with one additional warm accent glow strictly inside the right-hand floor plan only. Negative space: large clear area in the top third of the frame and a clear strip across the very bottom for text and logo - no text, no numbers, no letters, no logos, no signage anywhere in the image. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-before-kidzania-closed",
+    "prompt": "Editorial business-media photograph-style illustration, 1080x1350 portrait. Subject: the interior of a large, empty retail/entertainment unit - soaring ceiling, bare polished floor, faint ghost outlines where play structures and signage once stood (rendered abstractly, not as readable signage), a few shafts of cool daylight entering from clerestory windows. Mood: quiet, still, dormant - not decayed, not trashed, not creepy - simply vacant and waiting, neutral in tone. Composition: wide symmetrical interior view, vanishing point centered, lots of open floor space in the lower two-thirds, clear plain upper-wall area in the top third for text overlay. Lighting: soft, cool, overcast daylight, long soft shadows, slightly desaturated. Brand palette: deep navy and steel gray dominant, a single thin dim gold accent line on the floor as the only warm note. Negative space: clear plain upper third and a clear lower strip for text and logo. No visible text, numbers, logos, or brand signage of any kind. No illegible text, no fake logos, no people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-after-absurd-city-opening",
+    "prompt": "Editorial business-media concept-rendering illustration, 1080x1350 portrait. Subject: the same large interior shell as a 'before' companion image, same architectural proportions and camera angle, now reimagined as a glowing immersive-art environment - abstract oversized sculptural light installations, painterly saturated color washes, geometric glowing forms suspended in the space - styled clearly as a concept visualization / architectural rendering, not a documentary photo of a finished, crowded, operating venue. No people present, no grand-opening crowd, to avoid implying the event has already occurred. Composition: same wide symmetrical interior view and vanishing point as the 'before' image, open floor space in the lower two-thirds, clear plain upper-wall area in the top third for text overlay. Lighting: warm, vivid, glowing ambient light, saturated golds and one secondary accent hue (e.g. magenta or teal) used only within the light installations. Brand palette: deep navy base with energy gold and warm accent glow dominant. Negative space: clear plain upper third and clear lower strip for text and logo. No visible text, numbers, logos, or brand signage of any kind, no people, no crowd, no readable UI or wayfinding maps. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-what-changed",
+    "prompt": "Editorial business-media illustration, 1080x1350 portrait. Subject: an abstract split composition - left side a small, soft-edged motif suggesting family/children's play (simple abstract shapes like a toy block or balloon silhouette, no readable text or brand marks), right side a small soft-edged motif suggesting adult immersive art (an abstract glowing sculptural form), both motifs modest in scale and positioned low in the frame, with the same ghost floor-plan outline from slides 2-3 running faintly across the full width behind both as a connecting watermark line. Composition: large clear negative space across the top two-thirds of the frame for a substantial headline and body copy block; visual motifs confined to the bottom third only. Lighting: moody deep-navy background with soft directional light on each motif, cool on the left, warm on the right. Brand palette: deep navy base, steel gray, warm white, energy gold accent on the right-hand motif only. Negative space: top two-thirds fully clear for text, bottom strip for logo. No visible text, numbers, logos, or signage. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-track-record",
+    "prompt": "Editorial business-media concept illustration, 1080x1350 portrait. Subject: a moody, abstract immersive-art corridor or chamber - glowing sculptural light forms receding into the distance, evoking an established, successful immersive attraction (suggesting Wake The Tiger's original Bristol site) without depicting any specific real building or signage. Composition: motif confined to the lower half of the frame as a glowing horizon-like band, with a large clear dark-navy area across the top half for a headline and multiple lines of supporting copy. Lighting: warm, confident, glowing gold and amber light with deep navy shadow, premium and atmospheric, not garish or neon-club. Brand palette: deep navy base, energy gold dominant accent, warm white highlights. Negative space: top half fully clear for text, bottom strip clear for logo. No visible text, numbers, logos, badges, or signage of any kind (no B Corp badge rendering). No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-the-lesson",
+    "prompt": "Editorial business-media illustration, 1080x1350 portrait. Subject: a single abstract architectural outline (echoing the recurring floor-plan motif) rendered faintly in thin gold line-art against a deep navy background, with a soft diagnostic visual cue - a simple abstract magnifying-lens-shaped glow or a soft circular highlight - resting over one corner of the outline, symbolizing diagnosis/evaluation rather than literally depicting a magnifying glass object. Composition: motif small and placed in the lower third or lower corner, large open negative space above and across the frame for a multi-line headline and body copy. Lighting: calm, even, moody deep-navy ambient light with one soft gold glow point. Brand palette: deep navy, steel gray, energy gold accent, warm white. Negative space: top two-thirds and most of the frame clear for text; motif kept small and quiet so it never competes with the copy. No visible text, numbers, logos, or signage. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7-the-play",
+    "prompt": "Editorial business-media illustration, 1080x1350 portrait. Subject: the recurring floor-plan outline motif shown once more, now rendered as a single clean gold line-art shape centered low in the frame, with a subtle visual suggestion of 'change of ownership' - two soft overlapping glow tones (one cool navy, one warm gold) meeting at the outline's edge, symbolizing the same footprint being reinterpreted, without any literal key, handshake, or figurative icon. Composition: motif occupies roughly the bottom third, large clear dark-navy negative space fills the top two-thirds for a short, punchy headline and two supporting lines. Lighting: balanced, moody, premium, soft gradient from cool to warm across the outline. Brand palette: deep navy base, energy gold and steel gray accents, warm white. Negative space: top two-thirds fully clear for text, bottom strip clear for logo. No visible text, numbers, logos, or signage. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8-final-takeaway",
+    "prompt": "Editorial business-media illustration, 1080x1350 portrait. Subject: a wide, modern shopping-centre exterior or atrium at dusk, rendered in an abstract/painterly architectural style (not a specific identifiable real building, no readable signage), with soft anonymized crowd silhouettes of varied, diverse people walking through an open plaza in the foreground, suggesting 'a new customer base' arriving. The recurring floor-plan outline appears faintly as a thin gold watermark line integrated into the architecture's glass facade reflection. Composition: architecture and crowd silhouettes occupy the lower half of the frame, large clear dusk-navy sky area across the top half for a two-line headline. Lighting: warm dusk light, glowing windows, gold and navy twilight palette, premium and cinematic, not garish. Brand palette: deep navy, energy gold, warm white, steel gray. Negative space: top half fully clear for text, bottom strip clear for logo. No visible text, numbers, logos, storefront signage, or brand marks of any kind. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-9-cta-closing",
+    "prompt": "Editorial business-media illustration, 1080x1350 portrait. Subject: a calm, minimal deep-navy background with the recurring floor-plan outline rendered very faintly and small as a subtle centered watermark, surrounded by generous open space - a restrained, quiet closing composition rather than a busy visual, appropriate for hosting a longer block of closing copy plus a disclaimer line. Composition: motif small and centered, vast open negative space on all sides for multiple paragraphs of text plus a prompt/question line. Lighting: soft, even, moody ambient navy glow with a single soft gold highlight on the outline. Brand palette: deep navy dominant, energy gold accent only on the thin outline, warm white implied for text. Negative space: nearly the entire frame clear for text; motif minimal and unobtrusive. No visible text, numbers, logos, or signage. No illegible text, no fake logos, no duplicated people, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  }
+]
