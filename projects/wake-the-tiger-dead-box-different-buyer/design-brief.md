@@ -131,7 +131,7 @@ See `image-jobs.json` in this same folder for the structured version. Full promp
 
 Apply identically across all 9 slides unless noted: JustPreneur wordmark bottom-center, 64px above the bottom safe-margin line, in warm white (on navy backgrounds) — consistent size/weight every slide. All text blocks respect the 96px safe margin on every edge.
 
-- **Slide 1**: Headline (two lines, bold, warm white, left-aligned, upper-middle of frame, over the dark gradient at top of the bisected floor-plan art): "SAME 80,000 SQUARE FEET. / COMPLETELY DIFFERENT BUSINESS." Directly beneath, smaller italic/regular support line in steel gray or muted gold: "Westfield London, Unit 5001 — before and after." JustPreneur wordmark bottom-center.
+- **Slide 1**: Headline (two lines, bold, warm white, left-aligned, upper-middle of frame, over the dark gradient at top of the bisected floor-plan art): "SAME ~80,000 SQUARE FEET. / COMPLETELY DIFFERENT BUSINESS." Directly beneath, smaller italic/regular support line in steel gray or muted gold: "Westfield London, Unit 5001 — before and after." JustPreneur wordmark bottom-center.
 
 - **Slide 2**: Eyebrow label top-left, all-caps gold, letter-spaced: "KIDZANIA — CLOSED". Beneath it, smaller warm white line: "Westfield London, Unit 5001, Ariel Way". Mid-lower block in warm white, regular weight: "UK operator Edutainment Operations Limited announced closure Jan 2, 2024. Entered creditors' voluntary liquidation Jan 11, 2024." Final short line, slightly larger/bold: "The unit sat empty." JustPreneur wordmark bottom-center.
 

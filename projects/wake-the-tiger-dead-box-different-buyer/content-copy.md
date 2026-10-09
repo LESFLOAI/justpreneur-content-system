@@ -8,18 +8,18 @@ Status: Draft for Visual Director handoff
 
 ## 1. Headline Options
 
-1. **"Same 80,000 Square Feet. Completely Different Business."**
+1. **"Same ~80,000 Square Feet. Completely Different Business."**
 2. "KidZania Died Here. A Festival Crew Just Bet the Building Was Never the Problem."
 3. "What a Failed Kids' Attraction Teaches About Reviving Dead Assets"
 
-**Recommended headline (Option 1):** *"Same 80,000 Square Feet. Completely Different Business."*
+**Recommended headline (Option 1):** *"Same ~80,000 Square Feet. Completely Different Business."*
 Rationale: It states the diagnostic thesis in the first line, works as a strong static cover even with sound off, and stays neutral toward the liquidated operator (no "died"/mockery framing) per the approved tone.
 
 ---
 
 ## 2. Cover Headline (Slide 1)
 
-**SAME 80,000 SQUARE FEET.
+**SAME ~80,000 SQUARE FEET.
 COMPLETELY DIFFERENT BUSINESS.**
 
 Support line (small, under headline):
@@ -30,7 +30,7 @@ Support line (small, under headline):
 ## 3. Slide-by-Slide Copy
 
 **Slide 1 — Cover**
-SAME 80,000 SQUARE FEET.
+SAME ~80,000 SQUARE FEET.
 COMPLETELY DIFFERENT BUSINESS.
 *Westfield London, Unit 5001 — before and after.*
 
@@ -93,7 +93,7 @@ Save this for your next audit.
 
 ## 4. Final Caption
 
-KidZania closed here in January 2024. A different business is about to move into the exact same 80,000 sq ft at Westfield London — betting the real estate was never the problem.
+KidZania closed here in January 2024. A different business is about to move into the same ~80,000 sq ft at Westfield London — betting the real estate was never the problem.
 
 Wake The Tiger (founded by members of the Boomtown Fair festival team) opens Absurd City in that unit on October 15, 2026. Same shell. Different buyer.
 
@@ -124,7 +124,7 @@ Secondary: **Share** with someone sitting on a "dead" venue, platform, or audien
 |---|---|---|
 | @wakethetiger | Official brand account of the company opening Absurd City — the direct subject of the post. | Reasonably confident exists — verify exact handle before publishing. |
 | @westfieldlondon | Official account for the shopping centre hosting Unit 5001 — the named location in the post. | Reasonably confident exists — verify exact handle before publishing. |
-| @boomtownfair | Wake The Tiger's founders are reported as members of the Boomtown Fair festival team — relevant lineage/audience crossover. | Flag for verification — handle not confirmed. |
+| @boomtownfair | Wake The Tiger's founders are members of the Boomtown Fair festival team — relevant lineage/audience crossover. | Flag for verification — handle not confirmed. |
 | @bcorporation | Official certifying body referenced in Slide 5's B Corp claim. | Flag for verification — exact regional/global handle not confirmed. |
 
 No other accounts met the confidence bar for inclusion; do not tag unverified handles at publish time without a manual check.
@@ -133,7 +133,7 @@ No other accounts met the confidence bar for inclusion; do not tag unverified ha
 
 ## Copy Approval Block
 
-**Recommended headline:** "Same 80,000 Square Feet. Completely Different Business."
+**Recommended headline:** "Same ~80,000 Square Feet. Completely Different Business."
 
 **Final slide copy:** As written in Section 3 above (Slides 1–9).
 
