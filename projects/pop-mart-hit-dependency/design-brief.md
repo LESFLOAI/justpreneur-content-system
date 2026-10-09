@@ -3,11 +3,13 @@
 **Angle:** Diversification Is a Decision, Not a Reaction
 **Status:** DRAFT MODE — no images generated yet (no image-gen API key in this environment). Prompts below are final and ready for `/justpreneur-finish` to execute locally.
 
+**QC note (2026-10-09):** Slide 4's conceptual framing and matching headline/copy text were corrected during final QC review — it now represents the verified May 2026 event (Morgan Stanley and Deutsche Bank cutting their 2026 growth estimates) rather than an unverified second stock-price crash. The underlying abstract image-generation prompt for Slide 4 is unchanged (it never specified a literal stock price and contains no numbers/text), but the surrounding narrative description and the Section 11 layout text have been updated to match the corrected copy. See `qc-report.md` for full rationale.
+
 ---
 
 ## 1. Overall Creative Concept
 
-Treat this as an editorial financial-media explainer, not a toy/pop-culture post — closer to a Bloomberg or Economist "anatomy of a story" chart feature than a fan graphic. The visual spine of the carousel is an abstract **timeline-and-concentration** motif: a single dominant wedge/shape that visibly shrinks across the carousel, paired with stock-chart line language for the two "fear" moments. Because we cannot use Pop Mart/Labubu trademarks or character likenesses, dependency is represented entirely through abstract data-design metaphors (pie wedges, a faceless rounded-box silhouette, line charts, a timeline rail) — never through anything resembling the actual toy, its packaging, or brand marks.
+Treat this as an editorial financial-media explainer, not a toy/pop-culture post — closer to a Bloomberg or Economist "anatomy of a story" chart feature than a fan graphic. The visual spine of the carousel is an abstract **timeline-and-concentration** motif: a single dominant wedge/shape that visibly shrinks across the carousel, paired with downward-trend line-chart language for the two "confidence erodes" moments. Because we cannot use Pop Mart/Labubu trademarks or character likenesses, dependency is represented entirely through abstract data-design metaphors (pie wedges, a faceless rounded-box silhouette, line charts, a timeline rail) — never through anything resembling the actual toy, its packaging, or brand marks.
 
 Mood: confident, analytical, slightly cinematic — navy "boardroom at night" tone with gold used sparingly as the "signal" color (the number that matters, the decision point). This keeps the series premium and distinguishes it from generic motivational-template carousels.
 
@@ -30,7 +32,7 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 ## 3. Exact Placement — Slide by Slide
 
 **Slide 1 — Cover**
-- Headline (full, 2 lines, centered or left-aligned, largest type on the slide): "Pop Mart Cut Its Biggest Risk Before Anyone Called It a Risk"
+- Headline (full, 2 lines, centered or left-aligned, largest type on the slide): "Pop Mart's Biggest Risk Was Shrinking Before Anyone Called It a Risk"
 - No supporting copy needed (cover carries headline only).
 - Graphic: fractured rounded-box silhouette + faint diagonal timeline rail, placed center/lower-center, well clear of headline.
 - JustPreneur wordmark: bottom center, gold.
@@ -44,14 +46,14 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 
 **Slide 3 — March 2026 Scare**
 - Headline: "March 2026: The First Scare"
-- Supporting copy: "Pop Mart's stock falls roughly 20–23% on fears the Labubu craze is cooling. Headlines call it a warning sign."
+- Supporting copy: "Pop Mart's stock falls roughly 20–23% on fears its growth is slowing. Headlines call it a warning sign."
 - Graphic: jagged downward stock-line/candlestick drop motif, red-gold on navy, "panic" visual energy (sharper angles, small warning-adjacent motion lines — no literal siren/alert icons).
 - JustPreneur wordmark: bottom center.
 
 **Slide 4 — May 2026 Scare**
-- Headline: "May 2026: It Happens Again"
-- Supporting copy: "Another drop in the same 20–23% range. Same headline: 'Pop Mart is too dependent on one toy.'"
-- Graphic: same stock-drop template as Slide 3 (see Section 8 pairing rule) — same line weight, same angle severity, same color treatment, so the two slides read as "the same pattern repeating."
+- Headline: "May 2026: Wall Street Piles On"
+- Supporting copy: "Morgan Stanley cuts its 2026 growth estimate to 13% — about half of Pop Mart's own 20% guidance. Deutsche Bank models an outright revenue decline."
+- Graphic: same downward-trend template as Slide 3 (see Section 8 pairing rule) — same line weight, same angle severity, same color treatment. This slide represents a second wave of eroding confidence — this time analyst sentiment/estimate cuts, not a reported share-price move — so the visual grammar echoes Slide 3 ("doubt returns, from a different direction") without asserting the share price fell by the same amount twice.
 - JustPreneur wordmark: bottom center.
 
 **Slide 5 — Aug 21, 2026 Earnings Caution**
@@ -70,8 +72,8 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 
 **Slide 7 — Final Takeaway**
 - Headline: "Before, Not Because"
-- Supporting copy: "That shift was already in the books before the August caution made headlines. This wasn't a company reacting to bad news. It was a company already mid-plan."
-- Graphic: abstract timeline rail with a dotted "decision point" marker positioned clearly to the left of a small newspaper/headline-abstract icon (a plain rectangle with horizontal lines, no real masthead) — visually stating "decision came first, headline came second."
+- Supporting copy: "That shift was already in the books before the August caution made headlines. This wasn't a reaction to bad news — the numbers show the change was already underway."
+- Graphic: abstract timeline rail with a dotted "decision point" marker positioned clearly to the left of a small newspaper/headline-abstract icon (a plain rectangle with horizontal lines, no real masthead) — visually stating "the shift came first, the headline came second."
 - JustPreneur wordmark: bottom center.
 
 **Slide 8 — Call to Action**
@@ -87,7 +89,7 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 
 - **Headline font:** bold geometric/grotesque sans serif (e.g., a Söhne/Inter/Neue Montreal-style face) — tight letter spacing, all slides same family and weight for consistency.
 - **Headline size:** large enough to read at thumbnail size on a phone — minimum effective cap-height target ~70–90px at this resolution; max 2 lines; never shrink to fit more words — copy is already short.
-- **Hero numerals (38.1%, ~26%, 20–23%, CNY 2–5bn, 20%):** set in the same bold family as headlines, not a decorative numeral font, so they stay unambiguous at a glance. Numerals on Slides 2 and 6 must match in point size and weight exactly.
+- **Hero numerals (38.1%, ~26%, 20–23%, CNY 2–5bn, 20%, 13%):** set in the same bold family as headlines, not a decorative numeral font, so they stay unambiguous at a glance. Numerals on Slides 2 and 6 must match in point size and weight exactly.
 - **Supporting copy:** same family, regular/medium weight, smaller size, generous line-height (1.3–1.4x) for mobile legibility.
 - **JustPreneur wordmark:** consistent lockup across all 8 slides — same type treatment, same size, same color (gold on navy), same vertical position from the bottom edge.
 - All exact text (headlines, numerals, supporting copy, wordmark, follow handle) is to be added by the design/layout tool after image generation — per brand policy, do not rely on the image model to render legible exact text.
@@ -100,7 +102,7 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 - **Steel gray** (#5B6472) — secondary graphic color (the "remainder" wedge, muted chart lines, supporting-copy text).
 - **Warm white** (#F5F2EC) — headline text default, supporting copy on darker graphic areas.
 - **Energy gold** (#D9A94C / #E6B655) — accent/signal color reserved for: hero numerals (38.1%, ~26%), key graphic elements (dominant wedge, buyback arrow, compass), and the JustPreneur wordmark. Gold must never be used so widely that it loses its "this is the number that matters" signaling function.
-- **Red-gold accent** (muted brick/rust, e.g. #B4553A) — used only on Slides 3 and 4 for the stock-drop line, to connote the "fear" moments without resorting to alarm-red that would clash with the premium palette.
+- **Red-gold accent** (muted brick/rust, e.g. #B4553A) — used only on Slides 3 and 4 for the downward-trend line, to connote the "confidence erodes" moments without resorting to alarm-red that would clash with the premium palette.
 
 ---
 
@@ -127,7 +129,7 @@ Focal hierarchy order on every slide: (1) headline number/phrase → (2) abstrac
 
 1. **Fixed template skeleton** (Section 2) applies to all 8 slides — same zones, same JustPreneur wordmark position/size/color.
 2. **Numeral parity (Slides 2 & 6):** "38.1%" and "~26%" must be set at identical font size, weight, color (gold), and equivalent placement within their respective headline zones. Neither may be rendered smaller, thinner, lower-contrast, or more peripheral than the other. The pie-wedge graphics on Slides 2 and 6 must use the same circle size/position so the two slides function as a visual before/after pair.
-3. **Fear-pair matching (Slides 3 & 4):** identical graphic template (same stock-drop line style, color, angle severity, composition) — these two slides should look like the same template reused, reinforcing "this happened twice."
+3. **Fear-pair matching (Slides 3 & 4):** identical graphic template (same downward-trend line style, color, angle severity, composition) — Slide 3 depicts the verified March share-price decline (~20–23%); Slide 4 depicts the verified May analyst-estimate downgrades (Morgan Stanley to 13%, Deutsche Bank to a projected decline). These two slides should look like the same template reused, reinforcing "confidence erodes again, this time in Wall Street's own numbers" — not a claim that the share price fell by the same amount twice.
 4. **Event distinction (Slide 5):** must be visually distinct from Slides 3/4 — calmer, architectural "ledger" composition instead of a jagged panic-drop line, per Section 3.
 5. **Color discipline:** gold reserved for hero numerals/signal elements and the wordmark on every slide; red-gold reserved only for Slides 3 and 4.
 6. **No slide may introduce icons, labels, dates-as-captions, or production marks beyond what's specified above** (no slide numbers, no citation marks, no extra logos).
@@ -158,7 +160,7 @@ See `projects/pop-mart-hit-dependency/image-jobs.json` for the structured versio
 "Abstract financial-editorial stock-chart illustration, 1080x1350 portrait. Deep navy background. Center composition: a single jagged downward-sloping line chart with 4–5 sharp angular drops, rendered in muted brick-red/rust-gold, with a subtle thin steel-gray grid of 3–4 faint horizontal lines behind it suggesting a chart backdrop (no axis labels, no numbers). Sense of sudden motion/falling conveyed through the line's sharp angles only, not through alarm icons or sirens. Flat editorial vector illustration style, moody and tense but still premium, not cluttered. Generous empty negative space in the top 400px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism."
 
 **Slide 4 — May 2026 Scare**
-"Abstract financial-editorial stock-chart illustration, 1080x1350 portrait, identical visual template to a 'first market scare' slide: deep navy background, center composition of a single jagged downward-sloping line chart with 4–5 sharp angular drops in the same muted brick-red/rust-gold color, same thin steel-gray grid backdrop, same line weight and angle severity, same flat editorial vector illustration style and tense-but-premium mood, so it reads as a repeat of the same pattern. Generous empty negative space in the top 400px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism."
+"Abstract financial-editorial downward-trend chart illustration, 1080x1350 portrait, using the identical visual template to a 'first confidence-erodes' slide: deep navy background, center composition of a single jagged downward-sloping line chart with 4–5 sharp angular drops in the same muted brick-red/rust-gold color, same thin steel-gray grid backdrop, same line weight and angle severity, same flat editorial vector illustration style and tense-but-premium mood, so it reads as a second wave of the same pattern of doubt. Generous empty negative space in the top 400px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter."
 
 **Slide 5 — Aug 21, 2026 Earnings Caution**
 "Abstract financial-editorial 'boardroom ledger' illustration, 1080x1350 portrait, deliberately calmer and more architectural than a stock-panic graphic. Deep navy background. Center composition: a single line chart that flattens out smoothly (gentle, controlled, straight-edged segments rather than jagged drops) rendered in warm white, paired beside it with a simple abstract upward arrow icon in energy gold suggesting a buyback/stabilizing action. Clean geometric, architectural flat-vector style, orderly grid lines faintly visible behind (no labels). Mood: composed, deliberate, corporate-calm rather than alarmed. Generous empty negative space in the top 400px and bottom 150px, plus a clear mid-lower band for two lines of supporting text. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism."
@@ -180,13 +182,13 @@ Apply this to every generated background using the design tool (not the image mo
 
 | Slide | Headline (exact) | Hero numeral (gold, if any) | Supporting copy (exact) | Wordmark/handle |
 |---|---|---|---|---|
-| 1 | Pop Mart Cut Its Biggest Risk Before Anyone Called It a Risk | — | — | JustPreneur |
+| 1 | Pop Mart's Biggest Risk Was Shrinking Before Anyone Called It a Risk | — | — | JustPreneur |
 | 2 | FY2025: One Character, One-Third of Revenue | 38.1% | Labubu drove 38.1% of Pop Mart's total revenue in FY2025. One blind-box character carrying more than a third of the company. | JustPreneur |
-| 3 | March 2026: The First Scare | — | Pop Mart's stock falls roughly 20–23% on fears the Labubu craze is cooling. Headlines call it a warning sign. | JustPreneur |
-| 4 | May 2026: It Happens Again | — | Another drop in the same 20–23% range. Same headline: "Pop Mart is too dependent on one toy." | JustPreneur |
+| 3 | March 2026: The First Scare | — | Pop Mart's stock falls roughly 20–23% on fears its growth is slowing. Headlines call it a warning sign. | JustPreneur |
+| 4 | May 2026: Wall Street Piles On | — | Morgan Stanley cuts its 2026 growth estimate to 13% — about half of Pop Mart's own 20% guidance. Deutsche Bank models an outright revenue decline. | JustPreneur |
 | 5 | Aug 21, 2026: The Caution | — | On its earnings call, Pop Mart says it may fall short of its 20% growth target, citing an overseas sales slowdown. The board also approves a CNY 2–5 billion share buyback. | JustPreneur |
 | 6 | The Number Nobody Was Watching | ~26% | By H1 2026, Labubu's share of revenue is already down to roughly 26% — cut by nearly a third from FY2025's 38.1%. | JustPreneur |
-| 7 | Before, Not Because | — | That shift was already in the books before the August caution made headlines. This wasn't a company reacting to bad news. It was a company already mid-plan. | JustPreneur |
+| 7 | Before, Not Because | — | That shift was already in the books before the August caution made headlines. This wasn't a reaction to bad news — the numbers show the change was already underway. | JustPreneur |
 | 8 | The Real Lesson | — | Diversification isn't a headline reaction. It's a decision made on a schedule — before you need it to save you. / Follow @justpreneur_hq for the next breakdown. | JustPreneur (larger) |
 
 Layout tool instructions:
