@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "Abstract premium financial-editorial background illustration, 1080x1350 portrait. Deep navy background. Center-lower composition: a single large, faceless, rounded-square blind-box silhouette (plain geometric shape, no face, no character design, no brand marks, no logos) shown visibly cracking/fragmenting along one edge, with a few small fragments drifting away, rendered in warm white and steel gray with a thin gold outline. A faint thin gold diagonal line (timeline rail) runs behind it from lower-left to upper-right. Flat vector/editorial illustration style, soft gradient lighting, confident and analytical mood, generous empty negative space in the upper half and bottom 150px for text and logo to be added later. No text, no letters, no numbers, no logos, no real toy character likeness, no packaging, no photorealistic rendering, no clutter, no extra icons, no malformed shapes, no duplicate elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-fy2025-baseline",
+    "prompt": "Abstract financial-editorial data-graphic illustration, 1080x1350 portrait. Deep navy background. Centered in the lower two-thirds: a clean circular pie chart outline, steel-gray circle with one large wedge (approximately 38% of the circle) filled in energy gold, thin warm-white outline on the circle. Minimalist, architectural, flat vector style, no 3D bevels. Soft ambient gradient lighting. Large clear negative space above the circle (top 400px) and inside/around the gold wedge for a numeral to be added later, and clear bottom 150px for a logo. No text, no numbers, no percentage signs, no labels, no logos, no icons, no toy imagery, no photorealism, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-march-scare",
+    "prompt": "Abstract financial-editorial stock-chart illustration, 1080x1350 portrait. Deep navy background. Center composition: a single jagged downward-sloping line chart with 4-5 sharp angular drops, rendered in muted brick-red/rust-gold, with a subtle thin steel-gray grid of 3-4 faint horizontal lines behind it suggesting a chart backdrop (no axis labels, no numbers). Sense of sudden motion/falling conveyed through the line's sharp angles only, not through alarm icons or sirens. Flat editorial vector illustration style, moody and tense but still premium, not cluttered. Generous empty negative space in the top 400px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-may-scare",
+    "prompt": "Abstract financial-editorial stock-chart illustration, 1080x1350 portrait, using the identical visual template to a 'first market scare' slide: deep navy background, center composition of a single jagged downward-sloping line chart with 4-5 sharp angular drops in the same muted brick-red/rust-gold color, same thin steel-gray grid backdrop, same line weight and angle severity, same flat editorial vector illustration style and tense-but-premium mood, so it reads as a repeat of the same pattern. Generous empty negative space in the top 400px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-earnings-caution",
+    "prompt": "Abstract financial-editorial 'boardroom ledger' illustration, 1080x1350 portrait, deliberately calmer and more architectural than a stock-panic graphic. Deep navy background. Center composition: a single line chart that flattens out smoothly (gentle, controlled, straight-edged segments rather than jagged drops) rendered in warm white, paired beside it with a simple abstract upward arrow icon in energy gold suggesting a buyback/stabilizing action. Clean geometric, architectural flat-vector style, orderly faint grid lines visible behind (no labels). Mood: composed, deliberate, corporate-calm rather than alarmed. Generous empty negative space in the top 400px and bottom 150px, plus a clear mid-lower band for two lines of supporting text. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-hidden-number",
+    "prompt": "Abstract financial-editorial data-graphic illustration, 1080x1350 portrait, using the same template as a prior 'pie chart baseline' slide for direct visual comparison: deep navy background, centered in the lower two-thirds a clean circular pie chart outline of the identical size and position, steel-gray circle with one wedge filled in energy gold -- this wedge visibly smaller than before, approximately 26% of the circle. Thin warm-white outline on the circle. Minimalist flat vector style, soft ambient gradient lighting, same visual weight and prominence as the comparison slide. Large clear negative space above the circle (top 400px) and inside/around the gold wedge for a numeral to be added later, and clear bottom 150px for a logo. No text, no numbers, no percentage signs, no labels, no logos, no icons, no toy imagery, no photorealism, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7-before-not-because",
+    "prompt": "Abstract financial-editorial timeline illustration, 1080x1350 portrait. Deep navy background. Center composition: a thin horizontal gold timeline rail running left to right, with one solid dot marking a 'decision point' positioned clearly to the left side of the rail, and a small plain abstract rectangle icon (a few simple horizontal lines suggesting a generic headline/document, no real masthead, no logo) positioned to the right side of the rail, connected by a faint dotted gold line showing the decision came before the headline. Flat editorial vector style, calm and confident mood, warm white and steel gray secondary elements. Generous empty negative space in the top 350px and bottom 150px. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8-cta",
+    "prompt": "Abstract premium closing illustration, 1080x1350 portrait. Background: smooth gradient from deep navy at the top to a slightly warmer navy-gold tone at the bottom. Center-lower composition: a simple abstract compass or upward-pointing arrow motif rendered in energy gold with a thin warm-white outline, calm and conclusive in feeling, minimalist flat vector style. Large clean empty negative space across the top 450px and a secondary clear band in the lower third for two short lines of text and a logo. No text, no numbers, no logos, no brand marks, no toy imagery, no photorealism, no clutter, no extra icons, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  }
+]
