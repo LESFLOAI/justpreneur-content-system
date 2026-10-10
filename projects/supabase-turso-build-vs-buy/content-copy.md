@@ -21,6 +21,7 @@ Or find the team that already built it.
 **Slide 4 — The Buy Decision**
 On October 2, 2026, Supabase chose to buy.
 It agreed to acquire Turso — a SQLite-based cloud database startup already built around this exact use case.
+Financial terms were not disclosed.
 
 **Slide 5 — Who/What They Acquired**
 The deal brings in Turso's Rust-rewritten database, its founder Glauber Costa, and the Turso team.
@@ -45,7 +46,7 @@ Supabase didn't wait for a roadmap to catch up with its own data.
 
 By October 2026, the company says close to 70% of new databases on its platform were being spun up by AI agents, not people — up from a company-reported "more than 60%" only four months earlier.
 
-Instead of spending the next two quarters building for that shift, Supabase bought it: agreeing to acquire Turso, the SQLite-based cloud database startup, bringing founder Glauber Costa and the Turso team in-house, with Turso's platform continuing to operate.
+Instead of spending the next two quarters building for that shift, Supabase bought it: agreeing to acquire Turso, the SQLite-based cloud database startup, bringing founder Glauber Costa and the Turso team in-house, with Turso's platform continuing to operate. (Financial terms of the acquisition were not disclosed.)
 
 The move landed in the same breath as a new $150M funding round led by GIC, with CapitalG, IronArc, and SquarePeg — just four months after Supabase's $500M Series F valued the company near $10.5B.
 
