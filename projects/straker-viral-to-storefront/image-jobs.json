@@ -1,0 +1,62 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. A cast-iron SoHo storefront facade at dusk, large street-level windows, door fully closed, warm amber light glowing softly from within but no people visible inside or outside. Empty sidewalk in the foreground. A few soft, distant camera-flash light flares blur in the far background across the street, hinting at press/event energy nearby without showing any crowd. Cinematic, shallow depth of field, warm practical lighting (window glow, faint string-light bokeh), deep navy dusk sky above. Generous empty negative space in the upper third (top 450px) and bottom 300px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no signage, no readable storefront name, no people, no crowd, no photorealistic faces, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-timeline-part1",
+    "prompt": "Premium editorial still-life photograph, 1080x1350 portrait. Deep navy background. Center-lower composition: a single ornate brass key resting on a polished marble bar top, lit by one warm spotlight from above-left creating a soft shadow. In the soft-focus background, a gentle warm golden glow suggests a phone or screen light, fully abstract and blurred -- no visible device shape, no UI, no icons. Cinematic shallow depth of field, brass and marble tones, warm amber highlights against the cool navy base. Generous empty negative space in the top 400px and bottom 300px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no screens, no legible UI, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-timeline-part2",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. View through a dusty cast-iron-framed storefront window into a dim, empty bistro interior: a few wooden chairs stacked in the far corner, a single shaft of warm light cutting across old tile flooring, visible dust motes in the light beam. No signage, no readable text anywhere, no menu boards, no logos. Muted brass and warm-wood tones against a cool navy-shadowed interior, quiet and slightly melancholic but elegant, cinematic shallow depth of field. Generous empty negative space in the top 400px and bottom 300px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-event-reveal",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. An elegant cocktail lounge interior mid-setup for a private event: a row of empty champagne coupes catching warm candlelight on a marble bar, a softly blurred blank step-and-repeat backdrop panel visible in the background (no logos, no pattern, no text on it), a single velvet rope stanchion with gold cord in the foreground, slightly out of focus. No people anywhere in frame. Warm gold and amber practical lighting against a deep navy ambient background, cinematic shallow depth of field, sense of anticipation before a gathering begins. Generous empty negative space in the top 350px and bottom 350px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no readable signage, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-who-was-in-the-room",
+    "prompt": "Premium editorial still-life photograph, 1080x1350 portrait. Foreground, in sharp focus: a single elegant embossed place card or invitation card (blank, no legible text) resting on a polished marble tabletop, with a few scattered rose-gold confetti pieces and soft warm candlelight. Background, intentionally far out of focus: two or three fully blurred, faceless silhouetted figures on a softly lit carpet, indistinct and anonymous, with gentle camera-flash bokeh scattered around them -- no recognizable features, no identifiable clothing details, no logos on any backdrop. Warm gold tones against a deep navy base, cinematic shallow depth of field. Generous empty negative space in the top 380px and a clear mid-lower band for a dense list of names to be added later. No text, no letters, no numbers, no logos, no recognizable faces, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-overlooked-move",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. Deep navy ambient background. Center composition: a single fully set, empty place setting (plate, folded linen napkin, one wine glass -- no person) illuminated by one warm spotlight beam from directly above. A second, visibly separate and slightly warmer spotlight beam crosses the frame diagonally from off-camera, overlapping the edge of the first beam's light pool, visually suggesting one light source borrowing from another. Brass and linen tones, cinematic shallow depth of field, calm and confident mood. Generous empty negative space in the top 380px and bottom 320px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7-why-this-works",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. A single dark wooden door, slightly cracked open, with warm golden light spilling through the gap into a dim, visibly unfinished room beyond -- exposed brick wall, a step ladder silhouette in the far background, drop cloths faintly visible, no diners, no finished furniture, no people. The warm light from the gap is the brightest element in the frame, set against the cool navy-shadowed surroundings. Cinematic shallow depth of field, premium and slightly cinematic mood. Generous empty negative space in the top 380px and bottom 320px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8-transferable-lesson",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. A single open doorway with warm golden light pouring through into a darker foreground space, a narrow red-gold carpet runner leading from the camera's position through the doorway into the light. No people anywhere in frame. Clean, aspirational, cinematic composition, warm gold light against deep navy shadow, shallow depth of field. Generous empty negative space in the top 380px and bottom 300px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-9-honest-caveat",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait, desaturated and cooler-toned compared to a warmer companion image of the same subject. The same cast-iron SoHo storefront facade as a prior cover shot -- same proportions, same closed door -- but now rendered mostly in muted steel-gray and deep navy tones, almost no warm color anywhere except a single small, dim warm light glowing in one ground-floor window, the only true-gold accent in the frame. Empty sidewalk, quiet, paused, slightly overcast evening mood -- not alarming, not dramatic, simply muted and still. Cinematic shallow depth of field. Generous empty negative space in the top 420px and bottom 300px for text, a thin rail, and a logo to be added later. No text, no letters, no numbers, no logos, no signage, no readable storefront name, no people, no crowd, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-10-closing-cta",
+    "prompt": "Premium editorial photograph, 1080x1350 portrait. A pulled-back dusk street view of a generic SoHo block, several storefronts with warmly lit windows receding into the distance, cast-iron facades, string lights faintly visible overhead. One storefront window's golden glow is noticeably brighter and warmer than the others, drawing the eye toward it, as if that room is the one that's already full. No people, no signage, no readable text anywhere, no logos. Cinematic wide shot, shallow depth of field on the foreground buildings, deep navy dusk sky. Generous empty negative space across the top 450px and a clear lower-third band for two short text lines and a logo. No text, no letters, no numbers, no logos, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  }
+]
