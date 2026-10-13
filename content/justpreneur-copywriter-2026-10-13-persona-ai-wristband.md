@@ -40,7 +40,7 @@
 **On-screen text:**
 > Zach Yadegari co-founded Cal AI, a calorie-tracking app.
 >
-> MyFitnessPal acquired it in March 2026 — sale price undisclosed.
+> MyFitnessPal announced its acquisition of Cal AI in March 2026 — sale price undisclosed.
 >
 > Cal AI's reported annual revenue: $30M+ to $40M+.
 >
@@ -132,7 +132,7 @@ Save this for the next time you're tempted to chase speed before you've built so
 
 **Slide 2:** The Actual Timeline — March 2026: Cal AI acquisition announced (MyFitnessPal). October 8, 2026: Persona's $10M raise announced. The gap: ~7 months. Not 4.
 
-**Slide 3:** What Really Happened — Zach Yadegari co-founded Cal AI, a calorie-tracking app. MyFitnessPal acquired it in March 2026 — sale price undisclosed. Cal AI's reported annual revenue: $30M+ to $40M+. That's the asset he walked into his next raise with.
+**Slide 3:** What Really Happened — Zach Yadegari co-founded Cal AI, a calorie-tracking app. MyFitnessPal announced its acquisition of Cal AI in March 2026 — sale price undisclosed. Cal AI's reported annual revenue: $30M+ to $40M+. That's the asset he walked into his next raise with.
 
 **Slide 4:** Who Said Yes — And Why So Fast — Persona's $10M round was led by Vine Ventures, with Z Fellows founder Cory Levy and Collective Global participating. Some reports also name WHOOP and Eight Sleep among participants. This wasn't a cold network. It was a warm one — opened by a track record investors could verify.
 
