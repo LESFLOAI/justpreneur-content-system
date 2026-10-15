@@ -40,7 +40,7 @@ That number was published before a single flight landed."
 
 ### Slide 3 — The Post-Event Number
 **On-screen text:**
-"After the concerts, Bogotá's city government released a post-event economic balance (Oct 6–8, 2026) estimating **roughly $99,000 million COP** (~US$25.4M, wire-service conversion) in city-wide economic activity.
+"After the concerts, Bogotá's city government released a post-event economic balance (~Oct 6–8, 2026) estimating **roughly $99,000 million COP** (~US$25.4M, wire-service conversion) in city-wide economic activity.
 
 This is a modeled estimate — built from Ticketmaster Colombia and Mabrian data. Not an audited actual. No full methodology was published."
 
@@ -97,7 +97,7 @@ Build the capacity that flexes to the real outcome. Not the capacity sized to th
 
 ## 3. Final Caption
 
-Bogotá projected $126,054 million COP from BTS's two sold-out shows before a single ticket holder landed.
+Bogotá projected $126,054 million COP from BTS's two sold-out shows before a single flight landed.
 
 The post-event modeled estimate came in about 21% lower — roughly $99,000 million COP, built from ticketing and travel-flow data, not an audited actual.
 
@@ -148,3 +148,10 @@ No news-outlet handles are included because the Approved Facts Block does not na
 **Hashtags (5):** #ForecastDiscipline #StartupStrategy #CapacityPlanning #EntrepreneurMindset #BuilderLessons
 
 **Tags:** Per the table above — all flagged unverified, confirm each handle (and, for the BTS account, confirm relevance) before publishing.
+
+---
+
+## QC Amendment Log (applied by Quality Control, 2026-10-15)
+
+- Slide 3: "(Oct 6–8, 2026)" → "(~Oct 6–8, 2026)" to preserve the Approved Facts Block's "released **around** October 6–8, 2026" hedge, which had been dropped.
+- Final Caption: "before a single ticket holder landed" → "before a single flight landed," to match Slide 2's phrasing and remove an internal inconsistency (no factual error, but inconsistent imagery across the same claim).

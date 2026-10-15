@@ -80,9 +80,15 @@ Productive recognition/caution — "I would have built for the big number too" �
 Save/share the post and reassess how they size capacity (inventory, staffing, pricing, short-term leases) ahead of the next anchor event in their own market, treating modeled estimates as a range rather than a guarantee.
 
 ### Three headline options
-1. "Bogotá Projected $126 Billion From BTS. The Real Number Came In 21% Lower. Here's the Builder Lesson."
+1. "Bogotá Projected $126,054M COP From BTS. The Real Number Came In 21% Lower. Here's the Builder Lesson."
 2. "The Number Everyone Will Quote About BTS in Bogotá — and the Number They Won't."
 3. "Before You Build for the Big Projection, Look at What Actually Happened in Bogotá."
 
 ### Content format recommendation
 Carousel, 7-8 slides, scheduled for 2026-10-15, 9:00 PM.
+
+---
+
+## QC Amendment Log (applied by Quality Control, 2026-10-15)
+
+- "Three headline options" item 1: "$126 Billion" → "$126,054M COP." The bare "$126 Billion" (no currency specified) created a real misreading risk — it could be read as US$126 billion rather than ~126 billion Colombian pesos, an error of roughly 3,000x. This option was not the one selected downstream (content-copy.md correctly used Option 3, and had already independently fixed this same ambiguity in its own version of Option 1), but the brief itself is part of the reviewed package of record and is corrected here for consistency and future reuse safety.

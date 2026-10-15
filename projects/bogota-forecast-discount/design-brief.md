@@ -43,7 +43,7 @@ No slide should ever have two competing focal points. Numbers get their own visu
   - Wordmark: bottom-center, same position as Slide 1.
 
 - **Slide 3 — The Post-Event Number**
-  - Eyebrow (top): "POST-EVENT ESTIMATE — OCT 6–8, 2026 (modeled, not audited)"
+  - Eyebrow (top): "POST-EVENT ESTIMATE — ~OCT 6–8, 2026 (modeled, not audited)"
   - Headline number (center, same type size/position as Slide 2 for direct visual comparison): "~$99,000M COP"
   - Supporting copy: "Built from Ticketmaster Colombia and Mabrian data. A modeled estimate of city-wide economic activity — not a confirmed actual."
   - Visual: two abstract bars side by side at the bottom — a taller gold bar labeled implicitly by position as "Feb 2026" echo from Slide 2, and a visibly shorter steel-gray bar for this slide's figure — both bars kept as plain geometric shapes with no numbers baked into the image (exact numerals are added as text layer, not image text). Do NOT render the two bars as touching/merged or imply averaging; keep a clear gap between them.
@@ -148,7 +148,7 @@ Once the 8 background images are generated locally (via `/justpreneur-finish` ru
 3. Place text in this exact order and content, using the typography/color specs from Sections 4–5, positioned per the per-slide placement in Section 3:
    - **Slide 1:** Headline — "Before you build for the big projection, look at what actually happened in Bogotá." / Supporting line — "A builder's lesson from BTS's two sold-out nights at El Campín."
    - **Slide 2:** Eyebrow — "PRE-EVENT PROJECTION — FEBRUARY 2026" / Number — "$126,054M COP" / Body — "A projection of the economic impact of BTS's two sold-out Bogotá shows — published before a single flight landed."
-   - **Slide 3:** Eyebrow — "POST-EVENT ESTIMATE — OCT 6–8, 2026 (modeled, not audited)" / Number — "~$99,000M COP" / Body — "Built from Ticketmaster Colombia and Mabrian data. A modeled estimate of city-wide economic activity — not a confirmed actual."
+   - **Slide 3:** Eyebrow — "POST-EVENT ESTIMATE — ~OCT 6–8, 2026 (modeled, not audited)" / Number — "~$99,000M COP" / Body — "Built from Ticketmaster Colombia and Mabrian data. A modeled estimate of city-wide economic activity — not a confirmed actual."
    - **Slide 4:** Eyebrow — "INSIDE THE ~$99,000M COP ESTIMATE" / Four-line list — "Food & beverage — ~$39,108M COP"; "Lodging — ~$29,384M COP"; "Internal transport — ~$17,557M COP"; "Shopping & souvenirs — ~$12,976M COP" / proportional stacked-bar graphic drawn in the design tool (not AI-generated) using these exact figures.
    - **Slide 5:** Headline — "Two numbers. Two moments in time. Two different methodologies." / Body — "The post-event estimate landed about 21% below the pre-event projection — and both concerts sold out." / Closing line (gold) — "This isn't a story about underperformance. It's a story about what a projection is actually for." / "-21%" callout badge drawn in the gap between the two bars.
    - **Slide 6:** Eyebrow — "FLIGHT BOOKINGS — SEPT 30–OCT 4, 2026" / Number — "+46.6% YoY" / Body — "Mabrian data cited in the city's balance — a flight-booking signal, not a hotel number, and not the whole demand picture."
@@ -161,3 +161,9 @@ Once the 8 background images are generated locally (via `/justpreneur-finish` ru
 ---
 
 **Draft-mode note:** No images have been generated for this project. All content above is a complete, ready-to-execute brief. When image-generation credentials are available, run `/justpreneur-finish` to execute `scripts/generate_images.py` against `image-jobs.json` and then perform the Section 11 text-layout pass.
+
+---
+
+## QC Amendment Log (applied by Quality Control, 2026-10-15)
+
+- Slide 3 eyebrow (Section 3 and Section 11): "OCT 6–8, 2026" → "~OCT 6–8, 2026" to preserve the Approved Facts Block's "around October 6–8, 2026" hedge, matching the same correction made in content-copy.md.
