@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "1080x1350 vertical. A moody, cinematic wide shot of a generic abandoned small-town movie theater exterior at night, lit by pulsing red neon glow and thick atmospheric fog drifting across cracked pavement. The marquee is dark and blank (no readable text, no logos). Retro-80s neon accent lighting along the theater's edges, faint electrical flicker. Deep navy sky, red practical light sources only, no people, no characters, no readable signage, no text. Negative space in the upper third of the frame (clear dark navy/red gradient sky, no busy detail) reserved for a bold headline to be added later in layout. Brand palette: near-black navy #0A0E14, blood red #8A1220/#C8102E glow, warm white highlights. Cinematic, slightly desaturated, fine film grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements, no real brand names or show title treatments.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "1080x1350 vertical. A dark, generic old television or cinema screen glowing with red static/scan-line light, sitting alone in a dim navy-toned room, fog drifting at floor level. The screen shows only abstract red glow and soft static texture — no readable text, no logos, no characters, no faces. A single warm ember-like light source suggests a 'closing curtain' mood. Composition leaves a clear, uncluttered negative-space band in the left third of the frame for a kicker label and a short paragraph of text to be added in layout. Brand palette: navy #0A0E14, red glow #C8102E, warm white rim light. Cinematic, moody, fine grain, no flashing/strobe. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "1080x1350 vertical. A generic retro-1980s American diner interior at night, red and teal neon light spilling across empty vinyl booths and a checkerboard floor, soft fog/haze near the ceiling, a jukebox silhouette in the background (unbranded, no readable text or logos on it). Warm practical neon glow mixes red and teal for a 'portal between two worlds' feel. No people, no characters, no readable signage, no real restaurant branding. Composition keeps the left third of the frame open and uncluttered (soft dark negative space) for a kicker and short paragraph to be added in layout. Brand palette: navy #0A0E14 shadows, red #C8102E and teal #2DD4BF neon accents, warm white highlights. Cinematic, slightly desaturated except neon, fine grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "1080x1350 vertical. A top-down or three-quarter view of a stylized retro diner tray or tabletop with a ticket stub, a small food tray, and a drink glass arranged simply on a dark surface, lit by warm red-tinted practical light with a soft neon rim glow. All objects are generic/unbranded — the ticket stub and any surfaces are blank, no readable text, no logos, no price printed on anything. Fog/haze kept minimal here for clarity since this slide needs to feel organized and 'confirmed,' not murky. Composition leaves a clear, uncluttered horizontal negative-space band in the lower half of the frame for a short checklist of facts to be added in layout. Brand palette: navy #0A0E14, red accent #8A1220, warm white tabletop highlights. Cinematic but clean, minimal fog, fine grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "1080x1350 vertical. A dim, generic blank storefront or marquee silhouette almost entirely obscured by thick drifting red-tinted fog, so that its details are deliberately indistinct and unreadable — no address, no signage, no logos, no legible text of any kind, intentionally mysterious and unresolved. A single faint warm light suggests presence without revealing form. Composition keeps the upper two-thirds relatively open and foggy (soft negative space) for a kicker and several short stacked lines of text to be added in layout. Brand palette: navy #0A0E14, deep red fog #8A1220, muted steel-gray #6B7280 haze. Cinematic, heavy atmospheric fog, fine grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "1080x1350 vertical. A close, warm-toned shot of a corkboard with fine red string connecting several small blank photo-card silhouettes (anonymous, faceless, abstract card shapes — no real faces, no celebrities, no identifiable people), lit softly with the red fog receded and a warm gold practical light now dominant, suggesting a network or community made visible. No readable text on any card. Composition leaves a clear open negative-space zone in the upper third and lower third for a kicker and a two-line statement to be added in layout. Brand palette shifts here: navy #0A0E14 base, warm gold #D4AF37 key light, muted red #8A1220 only as a faint residual accent. Cinematic, calmer and more premium than earlier slides, fine grain, no fog murk. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "1080x1350 vertical. A single generic open doorway glowing with warm gold light spilling through it into a dark navy room, the last trace of red fog curling near the floor at the threshold but not dominating the frame — an inviting, forward-looking 'step through' mood rather than an ominous one. No people, no characters, no readable text or signage anywhere in the frame. Composition is clean and uncluttered, with generous open negative space centered in the frame (above, through, and below the doorway) for a single bold centered question to be added in layout. Brand palette: navy #0A0E14, warm gold #D4AF37 glow, faint red #8A1220 residual accent only at the floor. Cinematic, calm, premium, fine grain, no flashing light. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  }
+]
