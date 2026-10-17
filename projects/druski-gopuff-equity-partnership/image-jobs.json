@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slide-1-cover",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless backdrop only; headline/subhead/wordmark to be added by a design tool per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "A premium abstract business-media background, 1080x1350 portrait. Deep navy (#0B1C33) flat field dominating the frame, with one subtle thin diagonal energy-gold (#D9A431) seam line running from the lower-left corner to the upper-right corner, suggesting a quiet divide without splitting the image in two. Soft fine grain texture across the navy for depth. No text, no numbers, no letters, no logos, no wordmarks of any kind. No people, no faces, no silhouettes of recognizable figures, no hands. Generous empty negative space in the upper-middle two-thirds of the frame for a large headline, and a clear calm strip at the bottom-center for a brand mark. Lighting: soft, even, moody studio gradient, subtle gold glow emanating faintly from the diagonal seam. Mood: confident, premium, modern business-culture editorial, restrained and not flashy. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no faces, no clutter, no small decorative icons, no watermark."
+  },
+  {
+    "id": "slide-2-split-panel-lanes",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless backdrop with two abstract icons only; all headers/body text/micro-line/wordmark added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract vertical split-panel graphic, 1080x1350 portrait, for a business infographic. Left panel occupies about 40% of the width in a flat steel-gray (#5B6670) field; right panel occupies about 60% of the width in a deep navy (#0B1C33) field, divided by a crisp vertical energy-gold (#D9A431) seam line. In the left panel, a single simple abstract geometric icon: a generic rounded silhouette bust outline (completely non-identifiable, no facial features at all, just a smooth human-shaped outline) with a flat horizontal line beneath it suggesting a flat fee, rendered in warm-white (#F5F2EC) thin line-art style, centered in the upper-middle of the left panel. In the right panel, a single abstract geometric icon: two or three simple interlocking polygon shapes nesting together into one larger combined shape, suggesting merger and ownership, rendered in gold and warm-white line-art, centered in the upper-middle of the right panel. Both icons are simple, clean-stroke, consistent line weight, generous surrounding empty space. No text, no letters, no numbers, no logos anywhere in the image. No real faces, no recognizable people, no hands. Clear open space below each icon and along the bottom of the frame for headers and body copy to be added later. Lighting: even flat studio lighting, minimal shadow. Mood: clean, modern, editorial-infographic, premium business tone. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no watermark."
+  },
+  {
+    "id": "slide-3-the-deal",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless backdrop with one small supporting icon only; kicker + body copy added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract premium business-editorial background, 1080x1350 portrait, flat deep navy (#0B1C33) field. Near the top third of the frame, one small simple abstract geometric icon combining a rounded document outline and two simple interlocking line shapes suggesting a handshake/agreement, rendered in thin energy-gold (#D9A431) line art, modest in size, not dominating the frame. The rest of the canvas is calm open negative space in navy, with generous room in the center and lower-middle for several lines of body text to be added later. No text, no letters, no numbers, no logos, no real brand marks anywhere in the image. No people, no faces, no hands, no recognizable figures. Lighting: soft even gradient lighting, subtle vignette toward the edges. Mood: serious, factual, premium business-media tone, restrained minimalism. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no small decorative icons beyond the one specified, no watermark."
+  },
+  {
+    "id": "slide-4-what-he-brought",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless backdrop with asymmetric split and one icon only; labels/body/punch line/wordmark added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract asymmetric vertical split-panel graphic, 1080x1350 portrait. A narrow left strip, about 25% of the width, in flat steel-gray (#5B6670); a wide right field, about 75% of the width, in deep navy (#0B1C33) with a thin energy-gold (#D9A431) vertical seam dividing the two. In the right/main field, one abstract geometric icon of simple rounded building-block or module shapes stacking and combining into one larger structure, rendered in gold and warm-white (#F5F2EC) line art, positioned in the upper-middle area, clean consistent stroke weight. The left strip stays empty and plain. Generous open negative space throughout the lower half and center of the frame for text labels and body copy to be added later. No text, no letters, no numbers, no logos, no real brand names or trademarks anywhere in the image. No people, no faces, no hands, no recognizable figures. Lighting: even flat studio lighting with a soft gold glow near the central icon. Mood: constructive, premium, modern business-infographic tone. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no watermark."
+  },
+  {
+    "id": "slide-5-company-framing-quote",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless quote-card backdrop with one quotation-mark glyph only; quote/attribution/disclosure text added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract premium quote-card background, 1080x1350 portrait, flat deep navy (#0B1C33) field. Near the top of the frame, one large simple abstract geometric quotation-mark glyph (two clean rounded comma-like shapes side by side), rendered in energy-gold (#D9A431), bold but simple, not resembling any letter or logo. Below it, a large area of calm open negative space in the center of the canvas reserved for a short quote in large text, with additional open space beneath that for two lines of attribution/disclosure text, all to be added later. No actual text, letters, numbers, or logos anywhere in the generated image. No people, no faces, no hands, no recognizable figures of any kind. Lighting: soft directional light from above, subtle gold glow around the quotation-mark glyph, otherwise even and calm. Mood: editorial, authoritative, premium magazine-quote aesthetic. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no watermark."
+  },
+  {
+    "id": "slide-6-the-audition",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless horizontal split backdrop with two abstract non-identifiable silhouette marks only; text for both bands added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract horizontal split-panel graphic, 1080x1350 portrait. Top band, about 45% of the height, in flat steel-gray (#5B6670); bottom band, about 55% of the height, in deep navy (#0B1C33) with a thin horizontal energy-gold (#D9A431) seam dividing the two. In the top band, two simple abstract rounded silhouette marks side by side (completely generic, no facial features, no clothing detail, no identifying characteristics at all — just plain smooth human-shaped outline blobs of equal simple style), positioned beneath one small abstract spotlight-cone shape rendered in thin gold line art above them, suggesting a stage or audition moment without depicting any real or recognizable person. The bottom band stays open and empty. Generous negative space in both bands below and around the icons for text to be added later. No text, no letters, no numbers, no logos, no real names or brand marks anywhere in the image. No real faces, no identifiable features, no hands. Lighting: soft stage-like spotlight glow on the top band, calm even lighting on the bottom band. Mood: premium editorial, narrative, restrained. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated identical people beyond the two simple generic outlines specified, no malformed hands, no recognizable human faces, no clutter, no watermark."
+  },
+  {
+    "id": "slide-7-the-takeaway-checklist",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Textless backdrop with checklist bullet glyphs only (no words); kicker/checklist text/closing line/wordmark added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract premium business-editorial background, 1080x1350 portrait, flat deep navy (#0B1C33) field. Along the left-center of the frame, three small simple geometric checkmark or filled-square bullet glyphs stacked vertically with even spacing, rendered in energy-gold (#D9A431), clean consistent stroke weight, modest in size. To the right of each bullet glyph, open empty negative space reserved for a line of checklist text to be added later. Above the bullets, additional open space reserved for a short kicker label; below them, more open space reserved for a closing line of text. No text, no letters, no numbers, no logos anywhere in the generated image. No people, no faces, no hands, no recognizable figures. Lighting: even flat studio lighting, calm and clean. Mood: organized, actionable, premium business-infographic tone. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no watermark."
+  },
+  {
+    "id": "slide-8-cta",
+    "note": "IMAGES NOT YET GENERATED — DRAFT MODE. Simplest textless backdrop, maximum negative space for CTA lines and JustPreneur sign-off mark added later per design-brief.md Section 11.",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Abstract premium closing-card background, 1080x1350 portrait, flat deep navy (#0B1C33) field with a very subtle soft radial energy-gold (#D9A431) glow centered in the middle of the frame, fading gently into the navy toward all edges. No shapes, no icons, no silhouettes, no additional graphic elements beyond the soft central glow. No text, no letters, no numbers, no logos of any kind anywhere in the image. No people, no faces, no hands, no recognizable figures. The entire frame should read as calm, open negative space suitable for three centered lines of call-to-action text and a brand sign-off mark to be added later by a design tool. Lighting: soft, warm, inviting central glow, otherwise calm and even. Mood: premium, confident, simple closing-card tone, modern business-media finish. Negative prompt: no illegible text, no fake logos, no real brand marks, no duplicated people, no malformed hands, no human faces, no clutter, no decorative icons, no watermark."
+  }
+]
