@@ -64,7 +64,7 @@ A premium business-media visual essay built on a single recurring motif: a **ver
 
 ### Slide 6 — The Audition
 - Split panel, horizontal this time (top/bottom instead of left/right) for rhythm variation: top band labeled "THE AD" (steel gray), bottom band labeled "THE EQUITY" (navy/gold).
-- Top band text: "Druski previously appeared alongside Tom Brady in Gopuff's 'HARD PASS' campaign." — rendered as text only; represent the campaign with two abstract silhouette marks side by side under a spotlight-shaped geometric glyph (no likeness, no recognizable features, no real ad recreation).
+- Top band text: "Druski reportedly appeared alongside Tom Brady in Gopuff's 'HARD PASS' campaign." — rendered as text only; represent the campaign with two abstract silhouette marks side by side under a spotlight-shaped geometric glyph (no likeness, no recognizable features, no real ad recreation).
 - Bottom band text: "The ad got him in the room. The companies he already owned are what got him equity."
 - JustPreneur wordmark bottom-center.
 
@@ -146,7 +146,7 @@ Because headline and body copy must render with perfect accuracy (not left to im
 - **Slide 3:** Kicker "THE DEAL"; two body sentences exactly as written in copy (including "according to the company" and "has not been disclosed" at full, equal weight); JustPreneur wordmark bottom-center.
 - **Slide 4:** Labels "AD DEAL" / "INFRASTRUCTURE"; body paragraph exactly as written (including "Per Gopuff's announcement" at full weight); closing punch line bolded; JustPreneur wordmark bottom-center.
 - **Slide 5:** Quote "A true creative and commercial partnership."; attribution line "— Yakir Gola, Gopuff co-founder and co-CEO, per Gopuff's announcement"; disclosure line "A statement from the company, not an independent interview." at equal weight to attribution; JustPreneur wordmark bottom-center.
-- **Slide 6:** Top-band text "Druski previously appeared alongside Tom Brady in Gopuff's 'HARD PASS' campaign."; bottom-band text "The ad got him in the room. The companies he already owned are what got him equity."; JustPreneur wordmark bottom-center.
+- **Slide 6:** Top-band text "Druski reportedly appeared alongside Tom Brady in Gopuff's 'HARD PASS' campaign."; bottom-band text "The ad got him in the room. The companies he already owned are what got him equity."; JustPreneur wordmark bottom-center.
 - **Slide 7:** Kicker "IF YOU WANT EQUITY INSTEAD OF A CHECK, BRING:"; three checklist lines exactly as written; closing line "Attention gets you booked. Ownership gets you folded in."; JustPreneur wordmark bottom-center.
 - **Slide 8:** "Save this before your next brand pitch." / "Ask: 'What am I bringing besides my reach?'" / "Follow @justpreneur for more breakdowns like this." + JustPreneur sign-off mark, centered composition.
 

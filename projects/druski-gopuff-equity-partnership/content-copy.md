@@ -44,7 +44,7 @@ From Gopuff's announcement, co-founder and co-CEO Yakir Gola is quoted calling i
 (A statement from the company, not an independent interview.)
 
 ### Slide 6 — The Audition
-The deal builds on an earlier relationship: Druski previously appeared alongside Tom Brady in Gopuff's "HARD PASS" campaign.
+The deal reportedly builds on an earlier relationship: Druski previously appeared alongside Tom Brady in Gopuff's "HARD PASS" campaign.
 The ad got him in the room. The companies he already owned are what got him equity.
 
 ### Slide 7 — The Takeaway
@@ -67,7 +67,7 @@ Druski didn't just land an ad deal — according to Gopuff's own October 9, 2026
 
 The size of that stake isn't public. The terms aren't confirmed beyond Gopuff's statement. This is widely reported based on one company announcement — not independently verified deal terms.
 
-But the structure is the lesson: the "HARD PASS" campaign with Tom Brady got Druski in the door. The companies he already built are what got him a seat at the table.
+But the structure is the lesson: the "HARD PASS" campaign with Tom Brady reportedly got Druski in the door. The companies he already built are what got him a seat at the table.
 
 If you're pitching brands for a check, you're in the spokesperson lane. If you want equity, bring something the brand can fold into its business — not just your audience.
 
