@@ -36,7 +36,7 @@
 
 **Slide 5 — The timeline**
 > Hotel: targeting early 2027.
-> Members' Club: targeting Q2 2027.
+> Members Club: targeting Q2 2027.
 > Both are stated targets — neither date is confirmed.
 
 **Slide 6 — The price tag**
@@ -112,8 +112,13 @@ Note: No Jeremy King–affiliated accounts are tagged, and no King reaction or S
 Qualifications that must remain visible/intact in any visual adaptation:
 - 76 rooms (exact figure, not a range)
 - CEO name spelled exactly "Dillip Rajakarier"
-- Hotel opening = "early 2027" (target, not confirmed); Members' Club opening = "Q2 2027" (target, not confirmed) — kept as two distinct hedged dates
+- Hotel opening = "early 2027" (target, not confirmed); Members Club opening = "Q2 2027" (target, not confirmed) — kept as two distinct hedged dates
 - Membership fees stated as undisclosed — no price invented
 - No reference to an 18+ months/no-CEO/stalled-expansion narrative
 - No Jeremy King reaction or Simpson's-in-the-Strand mention
 - News peg is the Oct 7, 2026 Members Club reveal, not the March 2026 Wolseley Hotels brand launch
+
+---
+
+## QC Note (2026-10-18, Quality Control pass)
+Corrected "Members' Club" → "Members Club" in Slide 5 and in the qualifications list above, to match the official unapostrophized name used consistently everywhere else in this document (Slides 2, 4, and the caption) and to avoid a stray-apostrophe brand-name inconsistency. No other factual or wording changes made. See QC report for full findings.

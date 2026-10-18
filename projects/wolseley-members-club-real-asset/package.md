@@ -56,7 +56,7 @@ Visual identity across the carousel: a recurring **abstract private-club emblem*
 
 Applies to all 8 slides unless noted:
 
-- **JustPreneur wordmark:** fixed top-left, 72px from top edge, 72px from left edge, on slides 1–7. On slide 8 (closing/CTA-adjacent slide), move to bottom-center lockup, 100px from bottom edge, as the intentional closing-slide deviation (consistent with prior JustPreneur carousel convention).
+- **JustPreneur wordmark:** fixed top-left, 72px from top edge, 72px from left edge, on slides 1–7. On slide 8 (closing/CTA-adjacent slide), move to bottom-center lockup, 100px from bottom edge, as the intentional closing-slide deviation (consistent with prior JustPreneur carousel convention). **QC note:** this placement falls inside the ~250px bottom exclusion zone defined in Section 7 for critical text. Because the wordmark is a small, discrete brand mark (not a line of readable copy), this is treated as a documented, intentional exception — but it must be re-verified once real artwork exists (finish mode) to confirm it does not collide with Instagram's carousel dot-indicator/UI overlay, and nudged upward if any part of it risks being obscured or cropped.
 - **Headline / primary copy line(s):** upper-to-mid frame on slide 1 (cover convention: headline sits roughly in the vertical center-upper area, kicker directly beneath it in smaller type); on slides 2–8, primary copy sits in a clean horizontal band in the lower 35–45% of the frame, left-aligned, starting no less than 90px from the left margin.
 - **Supporting copy lines:** directly beneath the primary line in the same lower band, in reduced weight/size, maintaining at least 1.4x line-height for mobile legibility.
 - **Imagery/motif:** always occupies the upper 55–65% of the frame (or is centered within it), never overlapping the reserved text band, so no text ever sits on top of high-detail artwork.
@@ -99,7 +99,7 @@ No palette deviation needed for this story — the Members Club subject matter s
 ## 7. Instagram Safe-Margin Instructions
 
 - Minimum 72px clear margin on all four edges on every slide, no exceptions.
-- Keep all critical text (headline, body copy, "76," dates, "undisclosed," CEO name) out of the bottom ~250px of the frame to avoid overlap with Instagram's caption/UI chrome and the carousel dot indicator.
+- Keep all critical text (headline, body copy, "76," dates, "undisclosed," CEO name) out of the bottom ~250px of the frame to avoid overlap with Instagram's caption/UI chrome and the carousel dot indicator. **(Exception: the slide 8 JustPreneur wordmark, as a small discrete brand mark rather than a full line of critical copy, is deliberately placed within this zone per Section 3 — this exception must be re-verified against the actual carousel dot-indicator/UI overlay once real artwork exists.)**
 - Keep all critical text out of the top ~100px to avoid overlap with the IG username/header chrome on some devices.
 - JustPreneur wordmark placement (top-left on slides 1–7, bottom-center on slide 8) always respects the same 72–100px margin rule.
 
@@ -171,7 +171,7 @@ Use the approved copy verbatim from `content/justpreneur-copywriter-2026-10-18-w
 
 **Slide 5 (slide-5-the-timeline.png):**
 - Label the upper rail "Hotel: targeting early 2027." aligned to the first abstract timeline track.
-- Label the lower rail "Members' Club: targeting Q2 2027." aligned to the second abstract timeline track.
+- Label the lower rail "Members Club: targeting Q2 2027." aligned to the second abstract timeline track.
 - Add "Both are stated targets — neither date is confirmed." as a smaller hedge line beneath both rails.
 - Add JustPreneur wordmark top-left.
 - Do not merge the two dates into one line or imply they are the same milestone — keep them visually distinct per the approved-facts hedge requirement.
@@ -206,4 +206,12 @@ Use the approved copy verbatim from `content/justpreneur-copywriter-2026-10-18-w
 - [ ] Confirm no generated artwork contains a human figure/silhouette standing in for Dillip Rajakarier or Jeremy King.
 - [ ] Confirm no real logos/trademarks (Minor Hotels, Wolseley, Chatwal, Hyatt) appear anywhere in generated artwork.
 - [ ] Re-run mobile readability, safe-margin, and cross-slide consistency checks once real artwork exists.
+- [ ] Specifically re-check the slide 8 JustPreneur wordmark (bottom-center, 100px from bottom edge) against the real Instagram carousel dot-indicator/UI overlay — nudge upward if any clipping risk is visible (see Sections 3 and 7 QC notes).
 - [ ] Human publish confirmation obtained before posting — nothing in this draft authorizes publishing.
+
+---
+
+## QC Note (2026-10-18, Quality Control pass)
+Two corrections applied during QC:
+1. Fixed "Members' Club" → "Members Club" in Section 11, Slide 5 label, to match the official unapostrophized name used everywhere else in the copy file.
+2. Flagged and annotated an internal inconsistency between Section 3 (slide 8 wordmark at 100px from bottom edge) and Section 7 (critical text excluded from bottom ~250px for IG UI/dot-indicator overlap) — added an explicit documented exception in both sections and a new finishing-checklist item requiring real-pixel re-verification in `/justpreneur-finish`. No creative content, facts, or guardrails were otherwise altered.
