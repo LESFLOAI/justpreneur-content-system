@@ -3,7 +3,7 @@
 
 - **Status:** DRAFT ONLY — no image-generation API key available in this cloud environment. Prompts are written and ready for `/justpreneur-finish` to run locally. `scripts/generate_images.py` was NOT run. No image files exist yet.
 - **Format:** 8-slide Instagram carousel, 1080×1350px each (portrait default).
-- **Copy source (verbatim, unaltered):** approved copy block supplied directly for this assignment (8-slide carousel, "THE DEAL THAT NEVER HAPPENED STILL MOVED BILLIONS").
+- **Copy source (verbatim, unaltered):** approved copy block supplied directly for this assignment (8-slide carousel, "THE DEAL THAT NEVER HAPPENED STILL MOVED BILLIONS"). **QC note (2026-10-18): the Slide 5 quote below was corrected post-brief to restore the full, exact spokesperson quotation — see QC Corrections note at the end of this document.**
 - **Governing constraint:** this story must never visually imply the takeover was real, near-complete, or board-considered. The rumor/denial distinction must read clearly even to a fast-swiping thumb, without relying on color alone (per accessibility), and without exact stock-move numbers anywhere.
 
 ---
@@ -184,7 +184,7 @@ Use the approved copy verbatim from the assignment's copy block for every line b
 
 **Slide 5 (slide-5-the-denial.png):**
 - Add status tag "ON THE RECORD — OCT 12," solid pill, top-center.
-- Add quote line 'Starbucks spokesperson: "We don't comment on rumors and speculation, but we want to be clear we are not buying Chipotle."' in the heavier quote-styling treatment from Section 4.
+- Add quote line 'Starbucks spokesperson: "As a matter of policy, we don't comment on rumors and speculation, but we want to be clear we are not buying Chipotle."' in the heavier quote-styling treatment from Section 4. **(QC-corrected 2026-10-18 — restored the full, exact quote; the earlier draft of this line omitted the opening clause "As a matter of policy," while still presenting the text in quotation marks. Quoted material must match the Approved Facts Block verbatim.)**
 - Add secondary line 'Starbucks said it remains focused on its "Back to Starbucks" turnaround plan.'
 - Add closing line "Chipotle did not comment." in reduced weight.
 - Add JustPreneur wordmark top-left.
@@ -221,7 +221,7 @@ Use the approved copy verbatim from the assignment's copy block for every line b
 - [ ] Confirm no company logos, storefronts, cups, bowls, or any Starbucks/Chipotle-identifying shape appear in any generated artwork.
 - [ ] Confirm no human figure, silhouette, or likeness appears anywhere (no stand-in for Brian Niccol or any named person).
 - [ ] Confirm the two dates (Oct 8, Oct 12) appear only inside their respective status tags, not as separate standalone date stamps elsewhere on the slide.
-- [ ] Confirm all quoted language on Slide 5 matches the approved copy exactly, including the quotation marks and attribution ("Starbucks spokesperson").
+- [ ] Confirm all quoted language on Slide 5 matches the approved copy exactly, including the quotation marks and attribution ("Starbucks spokesperson") — **and specifically confirm the full clause "As a matter of policy," is present (QC flagged this as previously dropped; verify it has not regressed).**
 - [ ] Re-run mobile readability, safe-margin, and cross-slide consistency checks once real artwork exists.
 - [ ] Human publish confirmation obtained before posting — nothing in this draft authorizes publishing.
 
@@ -231,3 +231,11 @@ Use the approved copy verbatim from the assignment's copy block for every line b
 
 **Images generated this run:** None — draft mode, no image-generation API key available in this cloud environment. `scripts/generate_images.py` was NOT executed.
 **Next step for images:** Run locally via `/justpreneur-finish`, using the command in Section 10 above, once an image-generation API key is configured locally.
+
+---
+
+## QC Corrections Applied (Final QC pass, 2026-10-18)
+
+1. **Slide 5 quote (Section 11) corrected to the full, exact approved quotation.** The brief's layout instruction had dropped the opening clause "As a matter of policy," while still presenting the line in quotation marks as a direct quote. Restored to match the Approved Facts Block verbatim. (The companion correction to the copy draft itself — `2026-10-18_the-deal-that-never-happened_carousel.md` — was made in the same pass.)
+2. Pre-Finishing Checklist item on the Slide 5 quote amended to explicitly flag re-checking this clause once real artwork/layout exists.
+3. All other content in this brief and in `image-jobs.json` was audited against the Approved Facts Block and found accurate, properly attributed, and free of logo/likeness/trademark risk — no other changes were required.

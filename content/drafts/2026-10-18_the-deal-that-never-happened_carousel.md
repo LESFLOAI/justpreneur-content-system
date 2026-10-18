@@ -2,7 +2,7 @@
 **Slot:** 2026-10-18, 9:00 PM
 **Concept:** "The CEO Is the Asset" — Starbucks/Chipotle rumor
 **Format:** Instagram carousel, 8 slides
-**Status:** Final copy (autopilot — no options, ready for Visual Director)
+**Status:** Final copy (autopilot — no options, ready for Visual Director) — QC-corrected 2026-10-18
 
 ---
 
@@ -36,7 +36,7 @@ Reported in the days after (figures vary by source and timing):
 
 ### Slide 5 — The denial
 October 12, 2026 — Starbucks spokesperson:
-"We don't comment on rumors and speculation, but we want to be clear we are not buying Chipotle."
+"As a matter of policy, we don't comment on rumors and speculation, but we want to be clear we are not buying Chipotle."
 
 Starbucks said it remains focused on its "Back to Starbucks" turnaround plan. Chipotle did not comment.
 
@@ -63,7 +63,7 @@ Save this. Follow @justpreneur for how operators turn reputation into leverage.
 
 ## FINAL CAPTION
 
-Starbucks never bought Chipotle. There was no formal offer. No deal. But for four trading days, two of the biggest names in American fast-casual moved billions in value on a rumor — because of one man's resume.
+Starbucks never bought Chipotle. There was no formal offer. No deal. But within days, two of the biggest names in American fast-casual moved billions in value on a rumor — because of one man's resume.
 
 Brian Niccol ran Chipotle for six years before taking over as Starbucks CEO in September 2024. When the Financial Times reported Starbucks had explored a takeover, the market didn't wait for confirmation. It traded on the connection.
 
@@ -107,3 +107,10 @@ What's your track record saying about you right now — whether you're managing 
 **Tags:** @starbucks, @chipotle, @financialtimes, @cnbc
 
 **CTA:** Save this post. Follow @justpreneur for more on how reputation becomes leverage.
+
+---
+
+## QC CORRECTIONS APPLIED (2026-10-18)
+
+1. **Slide 5 quote restored to full, exact wording.** The draft had dropped the opening clause "As a matter of policy," from the approved spokesperson quote while still presenting it inside quotation marks. Quotations must match the Approved Facts Block verbatim or be marked with an ellipsis; the clause has been restored in full.
+2. **Caption, paragraph 1: removed the fabricated "four trading days" claim.** This specific figure does not appear in the Approved Facts Block and does not hold up: the report broke Thursday, Oct 8, 2026 and the denial came Monday, Oct 12, 2026, which spans only three U.S. trading days (Thu, Fri, Mon), not four. Replaced with "within days," which is accurate without inventing an unapproved, incorrect count.
