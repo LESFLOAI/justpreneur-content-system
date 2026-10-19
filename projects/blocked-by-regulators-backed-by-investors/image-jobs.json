@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "1080x1350 vertical premium business-editorial background. Deep navy (#0B1220) to charcoal gradient backdrop with a subtle soft studio light from upper left. A single thick, glowing energy-gold line (like a deal-flow path on a map or a signature stroke) sweeps diagonally from lower-left to upper-right across the frame, confident and unbroken, with a soft bloom/glow. Faint, barely visible abstract grid or ledger lines in steel gray in the background suggest financial/legal documents without any readable text. In the lower third, leave a large clean negative-space block (navy, minimal texture) for a bold headline and a smaller subhead beneath it. Top-left corner has quiet open space for a small wordmark. Mood: cinematic, high-stakes, premium Bloomberg/FT-style business editorial, serious but not corporate-stock-photo generic. No text, no logos, no numbers, no human figures, no flags, no national symbols, no government buildings. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small decorative icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2-review-opened",
+    "prompt": "1080x1350 vertical premium business-editorial background, same navy/steel/gold palette and lighting style as a cinematic deal-timeline series. The same thick gold line from the cover now travels forward but meets a translucent frosted-glass barrier or semi-transparent gate partway across the frame, its glow dimming and scattering into fine particles where it touches the barrier -- a visual metaphor for a regulatory review, not a literal wall or building. Abstract overlapping document/paper silhouettes in steel gray sit behind the barrier, suggesting paperwork under review, with no readable text on them. Soft dramatic side lighting, slightly cooler and more tense than the cover. Large clean negative-space area in the lower half (navy, low texture) reserved for headline-style copy. No text, no logos, no flags, no national emblems, no government buildings, no human figures, no numbers. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3-deal-unwound",
+    "prompt": "1080x1350 vertical premium business-editorial background, continuing the same navy/steel/gold cinematic palette. The thick gold line that was traveling forward is now snapped cleanly in two, the two severed ends drifting apart with fine glowing particles dispersing from the break point, like a torn financial contract rendered as light. A single muted amber-red accent glow (not red alarm, a restrained burnt-amber tone) marks the break point to signal disruption without reading as alarmist or political. Abstract paper/document fragments in steel gray float faintly near the break, with no readable text. Generous negative-space block in the lower third for bold headline copy. Mood: a decisive, serious turning point, not chaotic. No text, no logos, no flags, no government imagery, no human figures, no numbers. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4-backers-return",
+    "prompt": "1080x1350 vertical premium business-editorial background, same cinematic navy/steel/gold series style. The two severed ends of the gold line from the previous slide are now being drawn back together by several thinner converging gold threads arriving from different directions (suggesting multiple investors/backers reconnecting the deal), meeting at a single bright point of light where the lines rejoin. Faint abstract ledger-line or wireframe network texture in steel gray in the background. Warm, hopeful but still serious lighting, slightly brighter than slide 3. Clear negative-space block in the lower third reserved for bold headline copy. No text, no logos, no flags, no national symbols, no human figures, no numbers. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5-independent-again",
+    "prompt": "1080x1350 vertical premium business-editorial background, same cinematic series style. The reunited gold line now stands alone as a single strong, steady beam of light cutting across a dark navy backdrop, no longer following the exact path of the earlier broken line -- it now travels in a fresh, slightly upward direction, evoking a new independent start. A subtle warm dawn-like glow on the horizon line of the frame (soft gold-to-navy gradient at the bottom) reinforces a 'new chapter' mood. Minimal, calm composition with lots of breathing room. Large clean negative-space block in the lower half for supporting copy. No text, no logos, no flags, no human figures, no numbers. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6-new-raise",
+    "prompt": "1080x1350 vertical premium business-editorial background, same cinematic navy/steel/gold series style. Several bright gold lines of varying thickness converge from the edges of the frame and merge into one bold, thick upward-sloping beam of light rising toward the upper right corner, conveying strong fresh capital and renewed momentum. Soft lens bloom at the point of convergence. Faint abstract growth-chart grid lines in steel gray in the far background, extremely subtle, no numbers or labels. Confident, energetic but still premium and restrained lighting. Large negative-space block in the lower third for bold headline copy. No text, no logos, no flags, no human figures, no numbers. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7-lesson-quote-card",
+    "prompt": "1080x1350 vertical premium quote-card background in deep navy with a warm white soft vignette toward the center, evoking a modern business-editorial pull-quote slide (similar to a premium newsletter or Bloomberg Businessweek opinion page). A single thin, elegant energy-gold line arcs gently across the upper third of the frame like a horizon or minimal graph line, then fades into soft light -- restrained and sophisticated, not literal. Extremely generous negative space across the full middle and lower two-thirds of the frame for a large pull-quote headline and short supporting line. No background clutter, no texture overload. No text, no logos, no flags, no human figures, no numbers, no icons. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8-cta",
+    "prompt": "1080x1350 vertical premium business-editorial closing background, same navy/steel/gold series style as the rest of the carousel. Deep navy background with a single bold energy-gold line forming a soft, abstract open-ended loop or upward arc in the upper portion of the frame, suggesting continuation and invitation to engage rather than a closed ending. Clean, warm, inviting lighting. Large, clear negative-space block across the center and lower half of the frame reserved for bold call-to-action text and the JustPreneur wordmark. No text, no logos, no flags, no human figures, no numbers, no icons. Avoid: illegible text, fake logos, duplicate people, malformed hands, clutter, small icons, watermarks.",
+    "width": 1080,
+    "height": 1350
+  }
+]
