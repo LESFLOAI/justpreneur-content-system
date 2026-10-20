@@ -18,7 +18,7 @@ Chatbot Arena launches as a free, crowdsourced leaderboard — a UC Berkeley–l
 No investors. No revenue. Just a public scoreboard the whole industry trusted.
 
 **Slide 3 — May 2025: The Spinout**
-LMArena spins out as a company.
+LMArena spins out as a company (soon renamed Arena).
 Reported ~$100M seed round at a reported ~$600M valuation.
 The referee incorporates.
 
@@ -32,7 +32,7 @@ Self-reported, unaudited revenue run-rate: ~$30M annualized.
 The paid business is working.
 
 **Slide 6 — The Allegation**
-A preprint — "The Leaderboard Illusion" — led by Cohere Labs researchers with co-authors from Stanford, Princeton, Waterloo, MIT, the Allen Institute for AI, and the University of Washington alleges select proprietary labs got undisclosed private testing and preferential treatment on the leaderboard.
+A preprint — "The Leaderboard Illusion" — led by Cohere Labs researchers, with co-authors from six other institutions including Stanford and MIT, alleges select proprietary labs got undisclosed private testing and preferential treatment on the leaderboard.
 Peer-review status: unconfirmed. Arena has publicly disputed aspects of the findings.
 
 **Slide 7 — Oct 2026: Series B**
