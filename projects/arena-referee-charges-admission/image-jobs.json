@@ -1,0 +1,56 @@
+[
+  {
+    "id": "slide-1-cover",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 premium business-media background illustration, no text anywhere in the image. Deep navy (#0E1F33) background with a subtle dark steel-gray gradient toward the bottom edge. Center-upper composition: a minimalist, abstract geometric referee whistle rendered in energy-gold (#E8B74B) outline/line-art style, merged seamlessly with a small stylized turnstile or ticket-gate icon so the whistle's cord becomes a ticket-admission motif -- symbolic of 'a judge now charging admission.' Behind the icon, faint thin gold leaderboard bar-chart lines recede into the dark background like stadium lights, very low opacity, decorative only. Large clean negative space in the upper third and lower third of the frame for headline and subhead text to be added later. Composition is centered and symmetrical, generous breathing room, no clutter. Lighting is moody, high-contrast editorial spotlight style, single gold rim light on the whistle icon. Mood: serious, premium, modern business/tech journalism aesthetic -- think cover art for a finance magazine, not a motivational poster. No readable text, no logos, no fake brand marks, no people, no hands, no icons other than the described whistle/turnstile motif, no watermark, no clutter."
+  },
+  {
+    "id": "slide-2-2023-research-project",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial background illustration, no text anywhere in the image. Warm white (#FAF8F4) background with a slim deep-navy (#0E1F33) header band across the very top (about 15% of height). Centered mid-frame: a flat, minimalist illustration of an open leaderboard/scoreboard made of 5-6 simple rounded bar-chart columns in steel-gray (#8A94A6) and navy, abstract and generic (no logos, no real names, no readable labels on the bars). Overlaid subtly on the scoreboard, a thin gold line-art open padlock icon to signal 'free and public access.' Plenty of flat open negative space below the illustration and in the header band for text to be added afterward. Lighting is soft, even, bright editorial studio lighting, flat design feel rather than photoreal. Brand palette: navy, steel gray, warm white, with a single small gold accent on the padlock icon only. No readable text, no fake logos, no duplicate elements, no clutter, no people, no hands."
+  },
+  {
+    "id": "slide-3-may-2025-spinout",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial background illustration, no text anywhere in the image. Warm white (#FAF8F4) background, slim navy (#0E1F33) header band at top matching the series template. Center composition: the same abstract scoreboard/bar-chart icon from before, this time visually morphing on its right side into a simple flat corporate briefcase or building-outline icon rendered in navy with a thin gold outline, symbolizing a research project incorporating into a company. Leave a clearly empty rounded rectangle 'callout card' shape in gold-outline, positioned in the lower third, completely empty and flat (no numbers, no text) for a funding statistic to be added later. Soft even lighting, flat modern infographic style. Palette: navy, steel gray, warm white, single gold accent. No readable text, no fake numbers, no logos, no people, no clutter."
+  },
+  {
+    "id": "slide-4-sept-2025-pivot",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial split-screen background illustration, no text anywhere in the image. Warm white (#FAF8F4) background, slim navy header band at top. Composition divided by a thin vertical steel-gray hairline down the center: left half shows a small flat open padlock icon above a plain gray bar-chart scoreboard (muted, grayscale, labeled visually as 'free' through an open-lock icon only); right half shows a small flat closed padlock icon rendered in energy-gold above an identical bar-chart scoreboard now tinted with gold highlights and a tiny flat price-tag icon beside it, symbolizing a paid tier. Generous flat negative space above and below both icons for headline and body text. Soft even flat-design lighting, minimal shadow. Palette: navy, steel gray, warm white, gold accent only on the right/paid side. No readable text, no logos, no people, no clutter, no malformed icons."
+  },
+  {
+    "id": "slide-5-jan-2026-series-a",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial data-chart background illustration, no text or numbers anywhere in the image. Warm white (#FAF8F4) background, slim navy header band at top. Center-to-lower composition: a simple flat line chart in gold rising gently from lower-left to mid-right against a faint steel-gray grid, ending in a single gold dot marker (no axis labels, no numbers). Below the chart, an empty flat rounded rectangle in steel-gray outline reserved for a small 'self-reported, unaudited' caption tag to be added later, and a separate larger empty rounded card reserved for a funding headline stat. Soft even lighting, minimal flat-design shadows. Palette: navy, steel gray, warm white, gold accent line. No readable text, no numerals, no logos, no people, no clutter."
+  },
+  {
+    "id": "slide-6-the-allegation",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial background illustration with a slightly more tense, investigative tone, no text anywhere in the image. Warm white (#FAF8F4) background, slim navy header band at top. Center composition: the same flat bar-chart scoreboard icon as earlier slides, but now with a simple flat magnifying-glass icon in navy with a thin gold rim overlapping the top-right corner of the chart, symbolizing scrutiny and an allegation under review -- not a verdict. One or two of the bar-chart columns are rendered with a subtle diagonal hatch pattern instead of solid fill, suggesting 'disputed/unconfirmed' without using red, warning colors, or alarming iconography. Flat, restrained, serious editorial mood, not sensational. Generous negative space below for a list of research-institution names and body copy to be added later. Palette: navy, steel gray, warm white, single gold accent on the magnifying glass rim only. No readable text, no logos, no people, no gavel, no courtroom cliches, no clutter."
+  },
+  {
+    "id": "slide-7-oct-2026-series-b",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean editorial data-chart background illustration, no text or numbers anywhere in the image. Warm white (#FAF8F4) background, slim navy header band at top. Center-to-lower composition: a flat line chart in gold rising more steeply than the earlier 'Series A' chart, continuing from a lower-left point to a bold upper-right gold dot marker, on a faint steel-gray grid, no axis labels or numbers. Add a small flat upward-pointing gold arrow or chevron beside the final point to emphasize acceleration. Below the chart, leave two empty flat rounded rectangle cards in steel-gray outline -- one larger for a funding/valuation headline stat, one smaller for a 'self-reported, unaudited revenue run-rate' caption tag. Soft even flat lighting. Palette: navy, steel gray, warm white, gold accent line and arrow. No readable text, no numerals, no logos, no people, no clutter."
+  },
+  {
+    "id": "slide-8-our-read-editorial",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 background illustration that is deliberately visually distinct from the rest of a timeline series, no text anywhere in the image. Dominant warm amber/gold (#D9A441) background field, a clear departure from the navy-on-white template used elsewhere. A thin diagonal hazard-stripe style border frame in alternating navy and gold runs along all four edges of the canvas (like a caution border, restrained and clean, not cheap-looking) to visually flag 'this slide is different -- editorial opinion, not a timeline fact.' Centered near the top, leave a clean empty rounded pill/badge shape in navy outline reserved for a small 'EDITORIAL ANALYSIS' label to be added later. Below it, large open negative space in the middle of the frame for a bold editorial headline and body copy. At the very bottom, a simple flat icon of two overlapping circles (like a Venn diagram) in navy line-art, symbolizing a dual role, no text inside the circles. Flat, confident, slightly bolder and warmer mood than the rest of the series, signaling analysis rather than reported fact. Palette: energy gold field, deep navy ink and border, no steel gray. No readable text, no logos, no people, no clutter, no scales-of-justice or gavel cliches."
+  },
+  {
+    "id": "slide-9-takeaway-cta",
+    "width": 1080,
+    "height": 1350,
+    "prompt": "Vertical 1080x1350 clean, confident closing background illustration for a business-media Instagram carousel, no text anywhere in the image. Warm white (#FAF8F4) background transitioning to a deep navy (#0E1F33) band across the bottom third. In the navy band, a small flat bookmark or save icon in energy-gold line-art sits in the lower-center area, with ample empty space around it reserved for a short call-to-action line to be added later. In the upper two-thirds on the warm-white field, leave large clean negative space for a bold closing headline and a short body paragraph. A single thin gold horizontal rule sits just above the navy band as a visual divider. Flat, minimal, premium editorial close-out feel, optimistic but serious. Palette: warm white, deep navy, energy gold accent, no steel gray needed. No readable text, no logos other than reserved empty space, no people, no clutter, no generic motivational icons like trophies or lightbulbs."
+  }
+]
