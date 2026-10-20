@@ -52,7 +52,7 @@ Slide 2 (timeline) and Slide 7 (caveats) are the two data-dense slides and get l
 ### Slide 3 — What Looked Like Success
 - Masthead: wordmark + gold hairline.
 - Headline "FROM THE OUTSIDE: A WINNER" — top of content zone.
-- Body, stacked: "One shop in Queens → a multi-state chain." then "Reported at 38–45 stores at various points" in standard warm-white body weight, immediately followed by "(figures vary by source, not reconciled)" in the smaller steel-gray italic caveat treatment on its own line — the range must read as a reported range, never as a single bold hero numeral.
+- Body, stacked: "One shop in Queens → a multi-state chain." then "Reported at 38–39 stores as of mid-2026, and as many as 45 at an earlier point in 2024" in standard warm-white body weight, immediately followed by "(figures vary by source, not reconciled)" in the smaller steel-gray italic caveat treatment on its own line — the figures must read as individually attributed, never merged into a single bold hero numeral.
 - Closing beat: "Viral lines. Viral product. Viral brand." set as three short stacked phrases in a bolder display weight near the bottom of the content zone — the one moment in this slide allowed to feel punchy, since it's describing perception, not a disputed figure.
 - Imagery: full-bleed golden-hour photo of a queue outside an unbranded storefront, scrim-darkened top and bottom for text, breathing room in the middle for the photo's energy to show.
 
@@ -86,7 +86,7 @@ Slide 2 (timeline) and Slide 7 (caveats) are the two data-dense slides and get l
   1. "Peter Phillips's lawsuit (filed Sep 28, 2026, against the company, EHI, Nicolas Baizan, and Fred LeFranc) is unproven and unadjudicated."
   2. "The company separately raised questions about ~$900K in pre-closing expenses — allegations Phillips disputes as 'manufactured.'" (the word "manufactured" set in italics with its quotation marks, per the approved copy)
   3. "No source has established that the lawsuit caused the closures; the two events are close in time, not confirmed as linked."
-  4. "As of Oct 20, 2026, no on-record response from EHI, Danny Meyer, or USHG addressing the allegations has been found."
+  4. "As of Oct 20, 2026, no on-record response from EHI, Danny Meyer, or Union Square Hospitality Group (USHG) addressing the allegations has been found."
 - All four items set in navy at identical size/weight — this slide must not visually rank one caveat as more important or more certain than another.
 
 ### Slide 8 — CTA
@@ -206,7 +206,7 @@ For each slide, after the background image is generated, the following exact cop
 
 1. **Cover:** Headline "VIRAL DOESN'T PAY PAYROLL" + dek "Chip City closed 22 stores overnight. Here's what the headlines missed." + JustPreneur wordmark top-left.
 2. **The Timeline:** Headline "THE TIMELINE" + six ledger rows exactly as specified in Section 3 (2017 / 2022 / 2024 / Mar 2026 + source caveat / Sep 28, 2026 / Oct 1, 2026), gold dot-and-guide-line of uniform weight, no arrows, + JustPreneur wordmark top-left.
-3. **From the Outside: A Winner:** Headline "FROM THE OUTSIDE: A WINNER" + "One shop in Queens → a multi-state chain." + "Reported at 38–45 stores at various points" with "(figures vary by source, not reconciled)" in caveat styling + "Viral lines. Viral product. Viral brand." as the bolder closing beat + JustPreneur wordmark top-left.
+3. **From the Outside: A Winner:** Headline "FROM THE OUTSIDE: A WINNER" + "One shop in Queens → a multi-state chain." + "Reported at 38–39 stores as of mid-2026, and as many as 45 at an earlier point in 2024" with "(figures vary by source, not reconciled)" in caveat styling + "Viral lines. Viral product. Viral brand." as the bolder closing beat + JustPreneur wordmark top-left.
 4. **The Funding Reality:** Headline "THE OTHER SIDE OF THE LEDGER" + "~$17.5M in outside investment since 2022." + quote block ("Company president told staff, per reporting citing an internal email:" / "we no longer have the funding required to operate this business.") + separate inset ("A separate company statement cited 'significant macroeconomic headwinds.'") + JustPreneur wordmark top-left.
 5. **The Lesson:** Headline "GROWTH ISN'T THE SAME AS SURVIVAL" + pull-quote "A chain can expand, go viral, and still run out of runway." + "Scale funded by outside capital isn't the same as revenue that sustains itself." + "Capital has an expiration date. Retained revenue doesn't." (with "Retained revenue doesn't." given the gold underline) + JustPreneur wordmark top-left.
 6. **Reflection Prompt:** Headline "ASK IT OF YOUR OWN BUSINESS" + "Is your growth funded by customers — or by your next raise?" + "If the money stopped tomorrow, could you make payroll?" + JustPreneur wordmark top-left.
