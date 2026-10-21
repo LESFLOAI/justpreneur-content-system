@@ -1,4 +1,4 @@
-# JustPreneur Visual Design Brief — "Getty Images Didn't File for Bankruptcy. It Executed One."
+# JustPreneur Visual Design Brief — "The Vote Was Already Won Before the Public Knew There Was a Vote."
 
 **Getty Images prepackaged Chapter 11 story — "The Vote Was Already Won" angle — scheduled 2026-10-21, 9:00 PM**
 
@@ -61,7 +61,7 @@ Applies to all 8 slides unless noted:
 
 - **JustPreneur wordmark:** fixed top-left, 72px from top edge, 72px from left edge, on Slides 1–7. On Slide 8 (CTA/closing slide), move to bottom-center lockup paired with "@justpreneur," 100px from bottom edge — the documented closing-slide deviation consistent with prior JustPreneur carousel convention.
 - **Status tag pill (Slides 2–7 only; no tag on Slides 1 or 8):** fixed top-center, directly beneath the 72px top safe margin, above the headline/copy block, top edge at approximately y=110–130px. Same size and type treatment on every tagged slide; only fill (solid vs. dashed), border color (gold vs. steel), and the printed word change. Tag text, used exactly: "PRIVATE — OCT 12" (Slide 2), "PRIVATE — COMMITTED" (Slide 3), "PRIVATE — AGREED" (Slide 4), "BACKSTORY — JULY 2026" (Slide 5), "PUBLIC — NO RECOVERY" (Slide 6), "PUBLIC — OCT 20–21" (Slide 7).
-- **Headline / primary copy line(s):** on Slide 1, headline sits roughly center-to-lower-middle third in two stacked lines ("GETTY IMAGES DIDN'T FILE FOR BANKRUPTCY." / "IT EXECUTED ONE."), subtext directly beneath in smaller type. On Slides 2–7, the primary copy block sits in a clean band in the lower 40–55% of the frame (Slide 5 gets the largest reserved band, roughly 60–65%, given its text density), left-aligned or centered per slide, starting no less than 90px from the left margin. On Slide 8, pull-quote and CTA copy are centered in the lower-middle third.
+- **Headline / primary copy line(s):** on Slide 1, headline sits roughly center-to-lower-middle third in two stacked lines ("THE VOTE WAS ALREADY WON" / "BEFORE THE PUBLIC KNEW THERE WAS A VOTE."), subtext directly beneath in smaller type. On Slides 2–7, the primary copy block sits in a clean band in the lower 40–55% of the frame (Slide 5 gets the largest reserved band, roughly 60–65%, given its text density), left-aligned or centered per slide, starting no less than 90px from the left margin. On Slide 8, pull-quote and CTA copy are centered in the lower-middle third.
 - **Supporting copy lines:** directly beneath the primary line in the same lower band, reduced weight/size, at least 1.4x line-height for mobile legibility. On Slide 5 specifically, use a strict three-tier hierarchy (see Section 4) so four dense facts never compete visually with each other.
 - **Imagery/motif:** always occupies the upper 35–55% of the frame depending on slide (Slide 5's motif is deliberately smaller, upper 35–40%, to free space for text), never overlapping the reserved text band.
 - **Dates (Oct 12, July 2026, Sept 29/30, Oct 20–21):** rendered small, inside the relevant status tag where applicable ("PRIVATE — OCT 12," "PUBLIC — OCT 20–21"), or as part of the approved copy line itself on slides where the date is mid-sentence (e.g., Slide 6's "NYSE suspended Getty's stock Sept 29, 2026") — never as a separate standalone decorative date-stamp element.
@@ -78,7 +78,7 @@ Applies to all 8 slides unless noted:
 - **Slide 5 (densest slide) hierarchy — three strict tiers, enforced to protect mobile readability:**
   - Tier 1 (bold, largest body size): "July 2026: Getty walks from a $3.7B merger with Shutterstock."
   - Tier 2 (medium weight, one step down): "The UK regulator would only clear it if Shutterstock sold its editorial business. Getty said no. The US DOJ had already cleared the deal, no conditions."
-  - Tier 3 (lighter weight or steel-gray, smallest body size but never below the body floor): "Cost of the chase: $100M+ in sunk professional and financing fees over 18+ months." Do not label this a "breakup fee" anywhere in layout — the approved copy is explicit that this figure is sunk costs, not a breakup fee.
+  - Tier 3 (lighter weight or steel-gray, smallest body size but never below the body floor): "Cost of the chase, per Getty's CEO: $100M+ in sunk professional and financing fees over 18+ months." Do not label this a "breakup fee" anywhere in layout — the approved copy is explicit that this figure is sunk costs, not a breakup fee.
   - Generous line spacing (≥1.5x) between tiers on this slide specifically, since it carries the most information in the deck.
 - **Slide 6 (shareholder wipeout) copy treatment:** render every line at full body weight and full warm-white contrast — do not step any line down to the lighter "caveat" treatment used elsewhere in the deck. This is a stated fact with real consequence, not a qualifier, and must never visually read as less important than the slides around it.
 - **Minimum sizes:** headline ≥ 64px effective at 1080px width; body copy ≥ 40px effective; status tag text ≥ 28px effective. Err larger — this is a swipe-and-glance medium.
@@ -164,7 +164,7 @@ See Section 11 below for the separate layout/text-overlay instructions per slide
 Use the approved copy verbatim from the Copy Approval Block for every line below. Do not paraphrase, do not round figures, and do not alter percentages or dollar amounts.
 
 **Slide 1 (slide-1-cover.png):**
-- Add headline, two stacked lines: "GETTY IMAGES DIDN'T FILE FOR BANKRUPTCY." / "IT EXECUTED ONE." — centered in the lower-middle clean band, display sans, warm white.
+- Add headline, two stacked lines: "THE VOTE WAS ALREADY WON" / "BEFORE THE PUBLIC KNEW THERE WAS A VOTE." — centered in the lower-middle clean band, display sans, warm white. *(Headline swapped per QC from the original "Didn't File / Executed One" option — that line read alone/out of context, e.g. a cropped repost, is literally false since Getty did file. This line stays accurate even stripped of all other context.)*
 - Add subtext "The deal was signed nine days before the public ever heard 'Chapter 11.'" directly beneath, smaller weight, steel-gray or warm white.
 - Add JustPreneur wordmark top-left.
 
@@ -182,7 +182,7 @@ Use the approved copy verbatim from the Copy Approval Block for every line below
 
 **Slide 4 (slide-4-creditors-already-in.png):**
 - Add status tag "PRIVATE — AGREED," solid gold-bordered pill, top-center.
-- Add primary line "83.5% of unsecured noteholders agreed to eliminate $270M in senior unsecured notes."
+- Add primary line "~83.5% of unsecured noteholders agreed to eliminate $270M in senior unsecured notes."
 - Add secondary line "Secured lenders — ~89% of secured debt, 100% of revolving loans — agreed to extend maturities and cut interest costs."
 - Add JustPreneur wordmark top-left.
 
@@ -190,7 +190,7 @@ Use the approved copy verbatim from the Copy Approval Block for every line below
 - Add status tag "BACKSTORY — JULY 2026," dashed steel-outline pill, top-center.
 - Add Tier 1 line (bold, largest body size): "July 2026: Getty walks from a $3.7B merger with Shutterstock."
 - Add Tier 2 line (medium weight): "The UK competition regulator would only clear it if Shutterstock sold its editorial business. Getty said no. (The US DOJ had already cleared the deal, no conditions.)"
-- Add Tier 3 line (lighter weight/steel-gray, but still at the full body-copy size floor): "Cost of the chase: $100M+ in sunk professional and financing fees over 18+ months." Do not render or label this as a "breakup fee" anywhere — use the approved "sunk ... fees" language exactly.
+- Add Tier 3 line (lighter weight/steel-gray, but still at the full body-copy size floor): "Cost of the chase, per Getty's CEO: $100M+ in sunk professional and financing fees over 18+ months." Attribution to Getty's CEO added per QC (the Approved Facts Block sources this figure to a CEO statement, not an audited/filed number). Do not render or label this as a "breakup fee" anywhere — use the approved "sunk ... fees" language exactly.
 - Add JustPreneur wordmark top-left.
 - Use the full three-tier spacing from Section 4 — this is the densest slide in the deck; do not compress line spacing below the floor to fit more text.
 
@@ -204,7 +204,7 @@ Use the approved copy verbatim from the Copy Approval Block for every line below
 **Slide 7 (slide-7-public-timeline.png):**
 - Add status tag "PUBLIC — OCT 20–21," solid gold-bordered pill, top-center.
 - Add primary line "Oct 20: Vote solicitation opens on the plan."
-- Add secondary line "Oct 21: Getty files Chapter 11 in Delaware — $2.1B in total debt (as of 6/30/26)."
+- Add secondary line "Oct 21: Getty files Chapter 11 in Delaware — ~$2.1B in total debt (as of 6/30/26)."
 - Add closing line "Restructuring expected complete by year-end 2026."
 - Add JustPreneur wordmark top-left.
 
