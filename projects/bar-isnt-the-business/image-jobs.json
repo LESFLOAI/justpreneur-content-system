@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "1080x1350 vertical. Split-panel composition, vertical seam at the exact horizontal center. LEFT half: a warm, glowing Christmas pop-up cocktail bar interior — string lights, amber bottle glow, a few generic blurred patrons in soft bokeh, festive but editorial, not cluttered. RIGHT half: the same architectural bar space, but dim, nearly empty, cool steel-gray and navy toned, lights mostly off, a single faint practical light — deliberately withholding, quiet, unresolved. No readable text, no signage, no logos, no real venue branding anywhere. Clear open negative space in the upper third spanning both panels (soft gradient sky/ceiling, no busy detail) reserved for a bold two-line headline, and a narrower open band in the lower-middle of the right (dim) panel reserved for a one-line subhead. Brand palette: deep navy #0B1220, warm amber glow #E8A33D on the left panel only, steel gray #6B7280 and cool navy on the right panel, warm white highlights. Cinematic, shallow depth of field, light film grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "1080x1350 vertical. Full-bleed, single-panel shot of a packed Christmas-themed pop-up cocktail bar interior at night — dense string lights overhead, warm amber and red glow, a blurred line of generic patrons waiting near an entrance, festive garland, bottles on open shelving. Lively but still editorial-premium, not chaotic. No readable text, no signage, no logos, no real venue branding, no identifiable faces (patrons shown from behind or in soft bokeh only). Clear open negative space in the top ~22% of the frame (soft dark ceiling/ambient glow, minimal detail) reserved for a two-line kicker and a large standalone numeral treatment. Brand palette: deep navy #0B1220 shadows, warm amber #E8A33D and soft red string-light glow, warm white highlights. Cinematic, shallow depth of field, light film grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "1080x1350 vertical. Split-panel composition, vertical seam at center. LEFT half: a generic Santa-themed holiday pop-up bar interior — red and warm-white decor, string lights, a stylized but unbranded Santa-hat-and-stocking motif as decor (no readable text, no real logo), festive amber glow. RIGHT half: a generic Halloween-themed pop-up bar interior — deep purple-and-amber lighting, carved-pumpkin-style decor (unbranded, no readable text), moody fog accent, still warm and inviting rather than horror-themed. No maps, no pin markers, no location badges, no numbers rendered into the image on either side. No readable text, no signage, no logos, no real venue branding anywhere. Clear open negative space bridging both panels just below center (soft dark gradient, minimal detail) reserved for a short kicker line, plus two smaller open pockets low on the left and low on the right panel reserved for one short line of text each. Brand palette: deep navy #0B1220 base, warm amber #E8A33D (left) and warm amber with a touch of muted purple #5B4B8A (right), warm white highlights. Cinematic, shallow depth of field, light film grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements, no maps, no location pins or badges.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "1080x1350 vertical. Split-panel composition, vertical seam at center. LEFT half: a generic bartender shown only as a warm, backlit silhouette (no visible face, no identifiable likeness) pouring a cocktail at a bar counter, amber glow, soft bokeh of bottles behind. RIGHT half: rows of clean glassware (cocktail glasses, tumblers) neatly arranged on industrial factory shelving, cool navy-and-steel practical lighting, orderly and minimal, no logos or brand marks on any box or glass. No readable text, no logos, no real brand marks, no attempt at any real person's face or likeness anywhere in the frame — silhouette and back-lit staffage only. Clear open negative space spanning both panels in the upper-middle third (soft dark gradient, minimal detail) reserved for a two-line headline, and a narrower band just below it for a second line of body text. Brand palette: deep navy #0B1220, warm amber #E8A33D (left panel only), steel gray #6B7280 and cool white practical light (right panel), warm white highlights. Cinematic, shallow depth of field, light film grain. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements, no identifiable human face.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "1080x1350 vertical. Split-panel composition, vertical seam at center. LEFT half: a single clean cocktail glass sitting on a bar shelf, softly lit, shallow depth of field, a few other glasses blurred in the background, no logos or readable text on the glass or shelf. RIGHT half: stacked plain unbranded kraft shipping boxes in a warehouse-style space, cool practical overhead lighting, orderly stacking, no logos, no labels, no readable text or shipping marks of any kind on any box. No company logos, no brand lockups, no readable text anywhere in the frame — imagery must stay neutral and generic so it reads as objective reporting, not a company admission. Clear open negative space spanning both panels in the upper third (reserved for a short kicker) and a wider open band across the lower-middle (reserved for a longer body-copy paragraph). Brand palette: deep navy #0B1220, steel gray #6B7280, warm amber #E8A33D used sparingly only as a soft highlight on the glass (left panel), cool white practical light (right panel). Cinematic, shallow depth of field, light film grain, neutral/documentary mood. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter, no small decorative elements.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "1080x1350 vertical. Full-bleed solid deep-navy (#0B1220) background with two simple, clean, flat-style line-art icons rendered in energy gold (#D4AF37): a spotlight/stage-light icon positioned left-of-center, and a dollar-sign icon positioned right-of-center, both at matching scale, connected by a thin steel-gray (#6B7280) line or arrow suggesting a relationship between the two (attention flowing toward revenue) without any photographic imagery, logos, or real brand marks. No photography, no people, no glassware, no bar imagery on this slide — pure minimal iconography only, consistent with a slide that must visually read as interpretation/opinion rather than reported fact. Generous open negative space above the icons (reserved for a short kicker) and below the icons (reserved for several stacked lines of analysis text plus a smaller attribution/disclaimer line). No illegible text, no fake logos, no duplicate icons, no clutter, no small decorative elements, no gradients that reduce icon legibility.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "1080x1350 vertical. Full-bleed solid deep-navy (#0B1220) background with a very subtle, barely-visible soft gold radial glow centered in the frame (low-opacity, purely atmospheric, not a shape or icon) — no photography, no objects, no icons, no people, no bar or glassware imagery at all. The entire frame is intentionally clean, calm, and uncluttered open negative space, reserved for a large centered multi-line headline/body statement to be added in layout. No illegible text, no fake logos, no clutter, no small decorative elements, no borders or frames that would compete with the centered text.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8",
+    "prompt": "1080x1350 vertical. Full-bleed solid deep-navy (#0B1220) background with one small, simple flat line-art icon in energy gold (#D4AF37): a magnifying glass overlapping a minimal storefront silhouette (a simple peaked roof-and-door shape, fully generic, no signage, no readable text, no real storefront branding), positioned in the upper third of the frame, small and unobtrusive relative to the overall canvas. The rest of the frame is clean open negative space reserved for centered or left-aligned body text below the icon, plus the JustPreneur wordmark at the bottom. No illegible text, no fake logos, no duplicate icons, no clutter, no additional small decorative elements, no photography.",
+    "width": 1080,
+    "height": 1350
+  }
+]
