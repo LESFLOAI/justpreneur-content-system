@@ -35,11 +35,11 @@ Text: Every December, Miracle pop-up bars take over cocktail lists worldwide. In
 
 **Slide 3 — The spinoffs**
 Visual: Split panel — Santa-themed bar (left) / Halloween-themed bar (right).
-Text: The format spread. Sippin' Santa: 50+ locations in 2026. The Haunting: a Halloween spinoff now running in multiple countries — confirmed in the US and UK.
+Text: The format spread. Sippin' Santa: 50+ locations across the U.S. and Canada in 2026. The Haunting: a Halloween spinoff now running in multiple countries — confirmed in the US and UK.
 
 **Slide 4 — The founder behind all three**
 Visual: Split panel — bartender pouring a cocktail (left) / rows of glassware on a factory shelf (right).
-Text: One founder sits behind all three concepts: Greg Boehm. He also owns Cocktail Kingdom — a barware and glassware manufacturing company.
+Text: One founder sits behind all three concepts: Greg Boehm. He also founded Cocktail Kingdom — a barware and glassware manufacturing company.
 
 **Slide 5 — The industry read**
 Visual: Split panel — glass on a bar shelf (left) / shipping boxes of glassware (right).
@@ -61,9 +61,9 @@ Text: Audit your own business. What's your halo offer — and what's your Cockta
 
 ## Final Caption
 
-Every December, Miracle pop-up bars turn cocktail lists into a holiday spectacle — 150+ locations in 2026. Its sibling concept, Sippin' Santa, runs a separate network of 50+ locations in 2026. A newer spinoff, The Haunting, has taken the format into Halloween — now running in multiple countries, confirmed in both the US and UK.
+Every December, Miracle pop-up bars turn cocktail lists into a holiday spectacle — 150+ locations in 2026. Its sibling concept, Sippin' Santa, runs a separate network of 50+ locations across the U.S. and Canada in 2026. A newer spinoff, The Haunting, has taken the format into Halloween — now running in multiple countries, confirmed in both the US and UK.
 
-Behind all three: founder Greg Boehm, who also owns Cocktail Kingdom, a barware and glassware manufacturing company.
+Behind all three: founder Greg Boehm, who also founded Cocktail Kingdom, a barware and glassware manufacturing company.
 
 Industry trade press has long described the pop-up network as functioning like a distribution channel — putting Cocktail Kingdom glassware in front of bars and drinkers at a scale a manufacturer alone couldn't easily buy in advertising.
 
