@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Portrait 1080x1350 premium business-media background illustration, no text, no words, no letters anywhere in the image. Abstract empty stage/arena interior shot from mid-distance, completely empty of people. Deep navy (#0B1420) and steel-gray tones with converging warm energy-gold (#D9A440) spotlight beams crossing from upper edges toward a soft, low-detail, slightly darker negative-space zone in the lower-center two-thirds of the frame, reserved for headline text to be added later in a design tool. Subtle editorial film grain, moderate contrast, no HDR glow, no lens flare text artifacts. Mood: anticipatory, premium, confident, modern business-culture editorial aesthetic (like a high-end business magazine cover background), not a generic motivational gradient. Negative space: large clear low-detail band through the vertical center for headline and sub-line overlay. Strict exclusions: no people, no silhouettes, no faces, no crowd, no logos, no brand marks, no real venue signage, no readable text or lettering of any kind, no watermarks, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Portrait 1080x1350 photographic-style background, no text, no words, no letters anywhere in the image. Wide interior shot of a generic modern convention-hall space, viewed from an elevated rear angle so only anonymous crowd silhouettes are visible from behind/at a distance -- no faces, no identifiable individuals, no distinguishing clothing or styling, just generic dense human silhouette shapes implying scale. Deep navy and steel-gray color grade with warm gold rim lighting along the upper edges of the silhouettes. Lower third of the frame is a clean, low-detail, slightly darker band reserved for a stat callout to be added later. Editorial, slightly desaturated, moderate film grain, no sensational color. Mood: large-scale but orderly, premium business-editorial, not a concert-flyer look. Strict exclusions: no identifiable faces, no named or recognizable people, no logos, no signage, no brand marks, no readable text, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Portrait 1080x1350 photographic-style background, no text, no words, no letters anywhere in the image. Same generic convention-hall environment and camera angle as a prior comparison image, but with a visibly denser mass of anonymous crowd silhouettes (still no faces, no identifiable individuals, no distinguishing clothing) to suggest a larger gathering than before. Include a small abstract geometric bar-comparison graphic integrated subtly into the lower third of the frame: two simple rounded rectangular bars side by side, one steel-gray and shorter, one energy-gold and taller, no numbers or labels rendered on them. Deep navy and steel-gray grade, warm gold accent lighting. Lower band kept low-detail for a stat callout to be added later in layout. Strict exclusions: no faces, no identifiable people, no logos, no signage, no readable text or numerals baked into the image, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Portrait 1080x1350 photographic-style background, no text, no words, no letters anywhere in the image. A dark, mostly empty generic theater or stage interior, completely devoid of people, rows of empty seats fading into shadow, a single dim work-light glowing center-stage to convey absence and a pause between events. Deep navy and charcoal steel-gray tones, minimal warm gold accent only on the single worklight. Include a thin gold line rendered as a broken/dotted horizontal segment crossing the frame roughly two-thirds down, stylized as a simple abstract design element (not text, not a logo). Generous low-detail negative space in the upper half for a headline to be added later. Mood: quiet, empty, a deliberate pause, premium editorial restraint. Strict exclusions: no people, no silhouettes of people, no faces, no logos, no signage, no readable text, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Portrait 1080x1350 photographic-style background, no text, no words, no letters, no signage lettering anywhere in the image. Generic modern performing-arts-center exterior architecture at dusk, clean contemporary facade with large glass panels and geometric canopy, completely plain/unbranded (no marquee text, no signage, no readable lettering of any kind on the building), empty plaza in front with no people. Deep navy dusk sky, steel-gray architectural concrete, warm energy-gold accent lighting glowing from within the glass facade and along walkway lights. Low-detail clear band in the lower third reserved for a date/headline callout to be added later. Mood: anticipatory, premium, a single significant evening. Strict exclusions: no people, no real building likeness, no logos, no signage text, no readable lettering, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Portrait 1080x1350 photographic-style background, no words, no letters, no readable text anywhere in the image. Close-to-mid composition on a deep navy background featuring two abstract graphic elements only: first, a generic ticket-stub shape with a perforated edge line down the middle, rendered in warm cream/steel-gray tones with no text, no numbers, no logo printed on it; second, a bold circular or oval stamp-style graphic shape in energy-gold with a simple sunburst or ring border pattern (no letters inside it, purely geometric, implying an official seal without spelling any word). Generous clean navy negative space surrounding both elements for headline and body copy to be added later. Mood: confident, declarative, premium. Strict exclusions: no people, no faces, no real logos, no brand marks, no readable text or numerals rendered into the image, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Portrait 1080x1350 abstract background illustration, no text, no words, no letters, no numerals anywhere in the image. Soft deep navy gradient background with a very faint fine grid-line pattern suggesting a data dashboard. Centered horizontally in the middle third of the frame, a single row of exactly seven identical small rounded-square badge placeholder shapes, evenly spaced, each a plain flat steel-gray fill with a thin gold outline, completely blank with no logos, no letters, no icons, no color branding of any kind inside them -- purely generic placeholder badges implying a sponsor lineup without representing any real brand. Clear low-detail navy space above and below the badge row for headline and stat text to be added later. Mood: clean, analytical, premium business-report aesthetic. Strict exclusions: no real logos or brand marks of any kind, no readable text, no people, no watermarks, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8",
+    "prompt": "Portrait 1080x1350 abstract background illustration, no text, no words, no letters anywhere in the image. Clean deep navy field with a single horizontal gold line running across the middle of the frame that visibly transitions from a broken/dotted pattern on the left side into a solid unbroken bright energy-gold line on the right side, symbolizing a gap being filled with consistent connection points. Minimal, premium, lots of clear low-detail navy negative space above and below the line for headline, body copy, and a call-to-action line to be added later in layout. Subtle soft gold glow around the solid portion of the line only. Mood: resolved, confident, forward-looking, premium editorial close. Strict exclusions: no people, no faces, no logos, no brand marks, no readable text or lettering, no watermarks, no malformed hands, no clutter, no small decorative icons.",
+    "width": 1080,
+    "height": 1350
+  }
+]
