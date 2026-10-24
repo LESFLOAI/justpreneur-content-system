@@ -11,7 +11,7 @@
 
 **"Between the Big Events Is Where the Real Business Gets Built"**
 
-*(Headline direction options considered: "BravoCon Isn't Until 2027. Bravo Just Sold Out an Arena Anyway." and "The Real Lesson From Bravo Fan Fest: Never Let Your Audience Go Quiet" — both strong, both fine as alt covers or caption openers. Recommending the above because it leads with the transferable business lesson rather than the Bravo trivia, which tests better for a non-fan entrepreneurial audience and holds up without needing the brand names decoded first.)*
+*(Headline direction options considered: "BravoCon Isn't Until 2027. Bravo Just Sold Out Charleston Anyway." and "The Real Lesson From Bravo Fan Fest: Never Let Your Audience Go Quiet" — both strong, both fine as alt covers or caption openers. Recommending the above because it leads with the transferable business lesson rather than the Bravo trivia, which tests better for a non-fan entrepreneurial audience and holds up without needing the brand names decoded first.)*
 
 ---
 
@@ -33,7 +33,7 @@ Estimated/approximately 30,000 attendees — up from an estimated approximately 
 Neither number is an audited count.
 
 **Slide 4 — The Gap**
-Then: a 23-month gap.
+Then: roughly a two-year gap.
 At NBCUniversal's May 2026 upfront, Andy Cohen announced BravoCon returns in fall 2027 — no dates or venue announced yet.
 That's a long stretch for a fanbase to go quiet.
 
@@ -49,8 +49,8 @@ Those tapings, plus Fan Fest general admission and VIP tickets, are reported sol
 **Slide 7 — The Mechanics**
 At original on-sale, per the Charleston Post and Courier: GA $475, VIP $755, plus taxes and fees.
 Resale is running well above face value — a separate number, not the ticket price.
-Seven sponsors: Ally Bank, Colgate Optic White, Genesis, Planet Fitness, State Farm, Wayfair, Wendy's.
-Peacock is streaming main-stage panels live and on-demand.
+Seven sponsors, per Bravo/Peacock's own coverage (not an independently confirmed press release): Ally Bank, Colgate Optic White, Genesis, Planet Fitness, State Farm, Wayfair, Wendy's.
+Peacock is reportedly streaming main-stage panels live and on-demand.
 No revenue or profit figures have been disclosed by NBCUniversal/Bravo — this is what's publicly visible, not a financial statement.
 
 **Slide 8 — Takeaway + CTA**
@@ -62,9 +62,9 @@ The businesses that win long-term aren't the ones with the biggest flagship mome
 
 ## Final Caption
 
-BravoCon doesn't come back until fall 2027 — announced at NBCUniversal's May upfront, no dates or venue yet. Vegas 2025 drew an estimated/approximately 30,000 people, up from an estimated ~27,000 in 2023. That's a 23-month gap between flagship moments.
+BravoCon doesn't come back until fall 2027 — announced at NBCUniversal's May upfront, no dates or venue yet. Vegas 2025 drew an estimated/approximately 30,000 people, up from an estimated ~27,000 in 2023. That's roughly a two-year gap between flagship moments.
 
-So instead of waiting, Bravo built a bridge: Bravo Fan Fest Charleston, a one-day event happening today at North Charleston Performing Arts Center, with more than 40 Bravolebrities and two nights of sold-out Watch What Happens Live tapings leading into it. Fan Fest tickets ($475 GA / $755 VIP at original on-sale, per the Post and Courier) and the WWHL tapings are both reported sold out, per Bravo's own coverage and the venue listing. Seven sponsors are on board, and Peacock is streaming the panels.
+So instead of waiting, Bravo built a bridge: Bravo Fan Fest Charleston, a one-day event happening today at North Charleston Performing Arts Center, with more than 40 Bravolebrities and two nights of sold-out Watch What Happens Live tapings leading into it. Fan Fest tickets ($475 GA / $755 VIP at original on-sale, per the Post and Courier) and the WWHL tapings are both reported sold out, per Bravo's own coverage and the venue listing. Seven sponsors are on board per Bravo/Peacock's own coverage (not an independently confirmed press release), and Peacock is reportedly streaming the panels.
 
 No revenue numbers have been disclosed — we're not guessing at a figure. But the structure is the lesson: don't let the time between your big moments go dead. Build something smaller in the gap.
 

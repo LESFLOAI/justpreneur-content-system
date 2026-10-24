@@ -28,7 +28,7 @@ Reading order is always headline → stat/visual → supporting text, left-to-ri
 
 - **JustPreneur wordmark:** small, warm-white, letter-spaced caps lockup, top-center, 56px tall max, on every slide at y≈72–120px (quiet, consistent anchor — not a loud logo treatment). On Slide 1 it doubles as the top anchor above the headline; on Slide 8 it also repeats larger at the bottom as a sign-off above the CTA button-text, 48px tall, centered, y≈1230–1280px.
 - **Headline (per slide):** centered or left-aligned (left-aligned from Slide 2 onward to mimic an editorial timeline column; centered only on Slide 1 cover), starting at y≈430–480px on data slides, y≈520px on the cover, max width 900px (90px margin each side), heavy condensed caps.
-- **Stat numerals (27,000 / 30,000 / 23-month / $475 / $755 / 40+ / 7 / 4 episodes):** set as oversized tabular-numeral callouts, gold on navy, always paired immediately below/beside with their hedge qualifier in smaller warm-white or steel-gray type at no less than 32px — e.g. "ESTIMATED, ~27,000 ATTENDEES" never shrinks below legible size, and is never pushed into a corner footnote.
+- **Stat numerals (27,000 / 30,000 / $475 / $755 / 40+ / 7 / 4 episodes):** set as oversized tabular-numeral callouts, gold on navy, always paired immediately below/beside with their hedge qualifier in smaller warm-white or steel-gray type at no less than 32px — e.g. "ESTIMATED, ~27,000 ATTENDEES" never shrinks below legible size, and is never pushed into a corner footnote. The Slide 4 "roughly a two-year gap" line is deliberately NOT given this hard-numeral treatment (see Slide 4 direction) since no exact BravoCon 2027 date exists yet.
 - **Supporting body copy:** steel-gray or warm-white sans, 36–44px, max 2–3 lines per slide, bottom third, left-aligned, 90px side margins.
 - **Timeline rail + slide marker:** a 6px gold line with a filled dot per slide, running along the left margin (x≈90px) from Slide 2 to Slide 7, with the current slide's dot larger/filled gold and past/future dots smaller/outlined — gives swipe-through continuity without adding a literal "slide 3 of 8" label.
 - **Imagery:** fills the mid zone edge-to-edge (full bleed within the 1080 width, inset 60px top/bottom from the mid-zone boundaries) with a dedicated clear band (minimum 280px tall, low-detail/low-contrast area of the image) reserved for whichever stat chip or caption sits on top of it, so text is never laid over busy detail.
@@ -36,7 +36,7 @@ Reading order is always headline → stat/visual → supporting text, left-to-ri
 ## 4. Typography Direction
 
 - **Headline face (style direction, to be matched by designer's closest licensed equivalent):** a heavy geometric/grotesk display face in the family of Archivo Black, Druk, or Neue Machina — all caps, tight tracking (-1 to -2%), used only for headlines and the big stat numerals.
-- **Numerals specifically:** tabular/lining figures, slightly extra-bold even relative to the headline face, so "27,000," "$475," "23-MONTH" read like a data report, not a motivational quote card.
+- **Numerals specifically:** tabular/lining figures, slightly extra-bold even relative to the headline face, so "27,000" and "$475" read like a data report, not a motivational quote card.
 - **Body/support face:** a clean humanist sans (style direction: Inter, Söhne, or Graphik), regular/medium weight, sentence case, for all supporting copy and hedge-language lines — this is what keeps hedges ("estimated," "per the Post and Courier," "neither number is an audited count") readable at a normal reading size instead of shrinking them into disclaimers.
 - **Caption chips / labels** (e.g., "TEST RUN #1," "SOLD OUT," "RESALE — SEPARATE NUMBER"): small-caps, medium weight, inside a thin gold-outlined rounded rectangle, 28–32px — visible as a design element, not a tiny corner mark.
 - No script, no handwriting fonts, no more than two type families total across the whole carousel (one display, one text) to keep the system premium and consistent.
@@ -99,7 +99,7 @@ Full structured prompts are written to `projects/bravo-fanfest-gap-year-play/ima
 
 ### Slide 4 — The Gap
 - **Image:** dark, mostly empty theater/stage interior, single dim worklight, no people, visual emphasis on empty seats/empty stage to convey absence; the gold timeline rail rendered as broken/dotted segments crossing the frame.
-- **Text to add:** Headline "23-MONTH GAP." Body: "At NBCUniversal's May 2026 upfront, Andy Cohen announced BravoCon returns in fall 2027 — no dates or venue announced yet." Line: "That's a long stretch for a fanbase to go quiet."
+- **Text to add:** Headline "ROUGHLY A TWO-YEAR GAP" (softer, non-stat-numeral treatment — do not style as a hard audited figure like the other callouts, since exact BravoCon 2027 dates are not yet announced). Body: "At NBCUniversal's May 2026 upfront, Andy Cohen announced BravoCon returns in fall 2027 — no dates or venue announced yet." Line: "That's a long stretch for a fanbase to go quiet."
 
 ### Slide 5 — The Fix
 - **Image:** generic modern performing-arts-center exterior at dusk, marquee-style architecture (no real signage/text on the building), warm gold accent lighting, empty plaza (no crowd needed), clear band for date/headline overlay.
@@ -111,7 +111,7 @@ Full structured prompts are written to `projects/bravo-fanfest-gap-year-play/ima
 
 ### Slide 7 — The Mechanics
 - **Image:** abstract "data dashboard" background — soft navy gradient with a faint grid pattern, and a row of 7 identical blank rounded-square badge placeholders (plain geometric shapes, no logos/text/color branding) to represent sponsor count only.
-- **Text to add:** Headline "THE MECHANICS." Stat callouts: "$475 GA / $755 VIP — plus taxes & fees (original on-sale, per the Post and Courier)." Separate smaller chip: "Resale running well above face value — a separate number." Line: "7 sponsors." Line: "Peacock streaming main-stage panels live and on-demand." Line: "No revenue or profit figures disclosed."
+- **Text to add:** Headline "THE MECHANICS." Stat callouts: "$475 GA / $755 VIP — plus taxes & fees (original on-sale, per the Post and Courier)." Separate smaller chip: "Resale running well above face value — a separate number." Line: "7 sponsors, per Bravo/Peacock's own coverage (not an independently confirmed press release)." Line: "Peacock reportedly streaming main-stage panels live and on-demand." Line: "No revenue or profit figures disclosed."
 
 ### Slide 8 — Takeaway + CTA
 - **Image:** the gold timeline rail motif resolving from dotted into a solid unbroken gold line across a clean navy field, abstract and minimal, generous negative space top and bottom for headline/body/CTA.
