@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Abstract premium financial-editorial background, 1080x1350 vertical portrait. Deep navy (#0E1A2B) base. In the lower third, two thin minimal line-art graphs rendered as elegant flowing lines, nearly overlapping and both trending gently flat-to-slightly-upward, one in warm white (#F5F1E8) and one in muted brick red (#B8433A), kept subtle, low-contrast, and slightly out of focus so they read as atmosphere rather than a chart to analyze. No axis lines, no grid, no numbers, no labels. Large, clean, genuinely empty dark negative space across the upper two-thirds of the frame for a large headline and subhead to be added later. Mood: serious, confident, financial-press magazine cover, quiet tension beneath a calm surface. Palette restricted to deep navy, warm white, muted brick red, and energy gold (#C9A24A) accents only. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no fast-food branding, no clutter, no illegible marks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Abstract premium financial-editorial background, 1080x1350 vertical portrait. Deep navy (#0E1A2B) base with a single thin, confident, warm-white (#F5F1E8) line-art graph gently trending flat-to-upward across the lower third of the frame, no red line present on this slide, no axis, no grid, no numbers, no labels. Calm, solid, steady mood — everything looks fine. Large, clean, genuinely empty dark negative space across the upper two-thirds and a secondary band in the middle for three large stat numerals and a short attribution line to be added later. Palette restricted to deep navy, warm white, energy gold (#C9A24A) accents. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Abstract premium financial-editorial background, 1080x1350 vertical portrait. Deep navy (#0E1A2B) base. Two thin line-art graphs that begin close together in the upper area and visibly diverge: one line in warm white (#F5F1E8) continuing flat-to-slightly-upward, the other in muted brick red (#B8433A) breaking sharply downward toward the lower third of the frame, accompanied by a single small, simple downward-pointing red arrow or chevron glyph near the point where the red line breaks away. No axis, no grid, no numbers, no text labels. Large, clean, genuinely empty dark negative space in the upper half for a headline and a large hero stat numeral to be added later. Mood: the moment a confident story cracks. Palette restricted to deep navy, warm white, muted brick red, energy gold accents. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Abstract minimal financial-editorial background, 1080x1350 vertical portrait, calmer and quieter than the previous slide. Deep navy (#0E1A2B) base, mostly flat and empty, with two very small, delicate micro-arrow glyphs placed together in the lower-middle area of the frame — one small arrow pointing up in muted brick red (#B8433A, suggesting rising cost), one small arrow pointing down in steel gray (#8A94A6, suggesting discounting) — both tiny, understated, not a full chart or graph, just a quiet accent. Large, clean, genuinely empty dark negative space across the upper two-thirds for a headline and two short lines of body copy to be added later. Palette restricted to deep navy, warm white, steel gray, muted brick red. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Abstract minimal background, 1080x1350 vertical portrait, deep navy (#0E1A2B) flat base, no line-graph motif on this slide. A single thin vertical line runs top-to-bottom through the left-center of the frame, with two small circular marker points on it — the upper marker rendered in muted brick red (#B8433A), the lower marker rendered in energy gold (#C9A24A) — suggesting a simple two-point timeline, no dates, no text, no numbers on the markers themselves. Generous clean negative space to the right of the timeline line and above/below each marker for two short date-and-event lines of copy to be added later. Mood: sequential, consequential, cause-and-effect, calm but weighty. Palette restricted to deep navy, muted brick red, energy gold, warm white. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Abstract premium financial-editorial background, 1080x1350 vertical portrait. Deep navy (#0E1A2B) base. A minimal, abstract horizontal tick-mark strip resembling a mechanical odometer or tally counter, rendered in muted brick red (#B8433A) and warm white, positioned in the lower third of the frame, suggesting a number winding downward — no actual readable digits, purely abstract tick/segment marks, like a counter mid-spin. Behind it, very faintly, a single thin brick-red line-art graph at its lowest, most depressed point of the whole series, barely visible, low-contrast. Large, clean, genuinely empty dark negative space across the upper two-thirds for a headline and three stacked stat lines to be added later. Mood: contraction, attrition, things narrowing. Palette restricted to deep navy, muted brick red, warm white, steel gray, energy gold accents. No text, no words, no real numbers or digits, no logos, no restaurant imagery, no food, no people, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Abstract, deliberately calm and sparse background, 1080x1350 vertical portrait. Flat deep navy (#0E1A2B) base with no gradient drama, no line-graph motif, no red accent anywhere in this image — the quietest, most restrained slide in the series. Perhaps the faintest, almost imperceptible warm-white (#F5F1E8) soft vignette or glow, extremely subtle, otherwise entirely empty and calm. Large, clean, genuinely empty negative space across the full frame for a headline and four short lines of body copy to be added later, since this slide carries more text than the others and needs maximum visual quiet to stay legible. Mood: a deliberate pause, neutral, fact-stating, no alarm, no drama. Palette restricted to deep navy and warm white only — no gold, no red, no steel gray accents needed. No text, no words, no numbers, no logos, no icons, no restaurant imagery, no food, no people, no clutter whatsoever.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-8",
+    "prompt": "Abstract premium financial-editorial background, 1080x1350 vertical portrait, composition echoing slide 1 for bookend consistency but now static and resolved. Deep navy (#0E1A2B) base. Two thin line-art graphs, now fully separated and held still/frozen in their final diverged positions in the lower third of the frame: one line in warm white (#F5F1E8) resting flat-to-slightly-upward, the other in muted brick red (#B8433A) resting at its lowest point, both rendered calmly, not mid-motion, no arrows, no axis, no grid, no numbers. Large, clean, genuinely empty dark negative space across the upper two-thirds for a headline, a supporting paragraph, and a short call-to-action line to be added later. Mood: quiet, conclusive, the lesson has landed. Palette restricted to deep navy, warm white, muted brick red, energy gold accents. No text, no words, no numbers, no logos, no restaurant imagery, no food, no people, no clutter, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  }
+]
