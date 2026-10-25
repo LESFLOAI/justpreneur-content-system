@@ -95,27 +95,26 @@ Reading order every slide: Headline → stat/body → motif (reinforces, doesn't
 
 ### Slide 7 — "The Dispute (Unresolved)" — LIGHTER VISUAL TREATMENT
 **Headline (verbatim):** The Dispute (Unresolved)
-**Body (verbatim, broken into a two-column claim/counterclaim structure for readability):**
-- Meritage's position: the termination is invalid.
+**Body (verbatim, corrected to match QC-approved final copy — now five short lines, not four):**
+- Meritage's position: the termination is invalid; its franchise rights remain part of the bankruptcy estate.
 - Wendy's position: objects to some closures; claims ~$146.9–147M total owed — about $27.4M in fees, royalties, and damages, plus about $119.5M in continuing operations fees.
+- A separate $24.9M figure (deferred franchise fees) is part of that larger claim, not the total.
 - Separately: ~$155M in secured debt.
 - Status: unresolved.
 
 - **This is the explicit "lighten up" slide.** Drop the diverging-line motif and the signal-red accent entirely. Background: flat, calm deep navy or warm-white panel with no gradient drama, no chart motif, no red — the visual rest-stop of the carousel.
-- Layout: break the dense copy into four short, clearly separated lines (as above) rather than one paragraph — generous line spacing, smaller type size than other slides is acceptable here specifically because the line count is higher, but spacing must stay generous so it never feels cramped. "Status: unresolved" set alone at the bottom in steel gray, small-caps, quiet — a label, not a red alarm.
+- Layout: break the dense copy into five short, clearly separated lines (as above) rather than one paragraph — generous line spacing, smaller type size than other slides is acceptable here specifically because the line count is higher, but spacing must stay generous so it never feels cramped. "Status: unresolved" set alone at the bottom in steel gray, small-caps, quiet — a label, not a red alarm.
 - No icons, no arrows, no red on this slide — it is the deck's deliberate visual exhale before the final slide.
 - JustPreneur wordmark bottom-left.
 
 ### Slide 8 — Final Takeaway / CTA
 **Headline (verbatim):** Scale isn't a business model.
 **Body (verbatim):** A business can look large on the top line and still be dying store by store underneath. Watch unit economics — not growth metrics.
-**CTA (directional, not verbatim-approved copy — flagged below):** a short prompt inviting the reader to check their own per-unit margins.
+**CTA (QC-confirmed, verbatim copywriter-approved):** → Check your own per-location or per-client margins before you scale. Treat discounting as a last resort, not a default.
 
-- Layout: Text-forward, highest-contrast slide in the deck, mirroring Slide 1 for bookend consistency. Headline large, left-aligned, warm white or gold. Body directly beneath in a steady weight. CTA line set smaller beneath the body, in gold, as the final beat before the wordmark.
+- Layout: Text-forward, highest-contrast slide in the deck, mirroring Slide 1 for bookend consistency. Headline large, left-aligned, warm white or gold. Body directly beneath in a steady weight. CTA line set smaller beneath the body, in gold, as the final beat before the wordmark — two sentences, both included.
 - Visual: the diverging-line motif returns here fully resolved and still — both lines frozen in their final, separated positions (one flat/up in white, one sharply down in red), quiet and static rather than in motion, as the closing visual metaphor for the whole deck's thesis.
 - JustPreneur wordmark bottom-left.
-
-**Flag for Quality Control / Copywriter:** The task brief describes Slide 8's CTA only as a *direction* ("+ CTA to check own per-unit margins"), not as verbatim-approved copy. I have drafted a literal CTA line for the layout table in Section 12 ("Check your own per-unit margins before you scale further.") so nothing is lost, but this exact sentence has not been through copy approval and should be confirmed or replaced by the Copywriter/QC pass before this goes live. No other slide in this brief introduces any wording beyond what was supplied.
 
 ---
 
@@ -230,8 +229,8 @@ Use a design tool (Canva, Figma, or equivalent) to add the following verbatim te
 | 4 | Why It Happened | Rising beef costs. Heavier discounting to hold onto traffic. | Two lines, each its own beat, generous gap between them. |
 | 5 | The Breaking Point | Sept 16, 2026: Wendy's franchising subsidiary moves to terminate Meritage's franchise agreements, "effective immediately." / Sept 17, 2026: Meritage files for Chapter 11. | Two-point timeline layout; first date/line in signal red, second in warm white/gold. |
 | 6 | The Closures | 33 restaurants closed since late September. Up to 60 more could close by Nov 13, 2026. A buyer has proposed $18.6M for 42 of the restaurants — pending court approval. | "33" largest/red; "Up to 60 more" second-largest; buyer-proposal line smallest/steel gray, visually marked as pending/unresolved. |
-| 7 | The Dispute (Unresolved) | Meritage's position: the termination is invalid. / Wendy's position: objects to some closures; claims roughly $146.9–147 million total owed — about $27.4 million in fees, royalties, and damages, plus about $119.5 million in continuing operations fees. / Separately: roughly $155 million in secured debt. / Status: unresolved. | Four short lines, generous line-height, smaller type size permitted given density; no red, no icons; "Status: unresolved" set alone at bottom in quiet steel gray. |
-| 8 | Scale isn't a business model. | A business can look large on the top line and still be dying store by store underneath. Watch unit economics — not growth metrics. | CTA line beneath body (see flag below): "Check your own per-unit margins before you scale further." — **drafted/directional, not yet copy-approved verbatim; confirm exact wording with Copywriter/QC before publish.** |
+| 7 | The Dispute (Unresolved) | Meritage's position: the termination is invalid; its franchise rights remain part of the bankruptcy estate. / Wendy's position: objects to some closures; claims roughly $146.9–147 million total owed — about $27.4 million in fees, royalties, and damages, plus about $119.5 million in continuing operations fees. / A separate $24.9 million figure (deferred franchise fees) is part of that larger claim, not the total. / Separately: roughly $155 million in secured debt. / Status: unresolved. | Five short lines, generous line-height, smaller type size permitted given density; no red, no icons; "Status: unresolved" set alone at bottom in quiet steel gray. |
+| 8 | Scale isn't a business model. | A business can look large on the top line and still be dying store by store underneath. Watch unit economics — not growth metrics. | CTA line beneath body, QC-confirmed verbatim: "Check your own per-location or per-client margins before you scale. Treat discounting as a last resort, not a default." |
 
 ---
 
@@ -239,8 +238,7 @@ Use a design tool (Canva, Figma, or equivalent) to add the following verbatim te
 
 - No slide requests or implies any Wendy's trademark, logo, or official brand color system — this is covered editorially (the Wendy's franchise relationship is stated in text), never depicted as a logo/signage asset.
 - No fabricated court documents, case numbers, judge names, or docket citations are requested in any image — none were supplied in the approved copy, and none should be added by any downstream tool.
-- All financial figures in Section 12 are reproduced exactly as supplied in the task's approved copy; no figure has been rounded, recalculated, or altered by this visual brief. Slide 7's claim figures are presented explicitly as one party's claim ("Wendy's claims...") not as an adjudicated fact, consistent with the "unresolved" framing in the source copy.
-- Slide 8's CTA line is flagged above as directional, not verbatim-approved — flagged again here so Quality Control catches it before publish.
+- All financial figures in Section 12 are reproduced exactly as supplied in the task's approved copy; no figure has been rounded, recalculated, or altered by this visual brief. Slide 7's claim figures are presented explicitly as one party's claim ("Wendy's claims...") not as an adjudicated fact, consistent with the "unresolved" framing in the source copy. Slide 7 and Slide 8 text were corrected post-QC (2026-10-25) to restore the $24.9M subset-clarification sentence and the full two-sentence CTA — both now match the copywriter's approved final copy verbatim.
 - Signal red (#B8433A) is a deliberate, scoped palette extension requested by the strategy brief for "red/down iconography on the numbers slides" — confirm this reads as intended brand-appropriate (editorial-serious, not alarmist/clickbait) during QC review; it is used nowhere as a dominant background and never on Slide 7.
 
 ---
