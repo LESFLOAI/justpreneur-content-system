@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slide-1",
+    "prompt": "Abstract premium editorial background, 1080x1350 portrait. Deep navy (#0B1E33) base with a soft diagonal gradient toward a slightly lighter navy in the lower third. Thin, minimal gold (#C9A24C) line-art of two subtly overlapping/interlocking rings or loops positioned in the upper-right quadrant, rendered small and delicate, like foil-stamped linework, not a literal jewelry photo. Soft directional light from the upper left suggesting premium paper or brushed fabric texture with fine grain. Generous clean negative space across the upper-middle two-thirds of the frame for a large headline and sub-line. Mood: confident, editorial, business-magazine-cover energy. Brand palette: deep navy, warm white, energy gold, steel gray. No text, no logos, no people, no clutter, no illegible writing, no malformed shapes.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-2",
+    "prompt": "Abstract editorial 'memo page' background, 1080x1350 portrait. Warm white (#F6F2EA) base with a very subtle deep-navy thin-line geometric grid or ledger-line texture in the lower third, evoking a clean deal-document aesthetic without any readable text or numbers. A single small, delicate gold (#C9A24C) linked-rings line motif placed in the upper-right corner area, subtle and minimal. Soft, even, flat studio-style lighting (no harsh shadows) for a crisp, trustworthy, factual mood. Clear negative space in the upper half and middle band for a headline and two short paragraphs of body copy. Brand palette: warm white, deep navy, energy gold, steel gray accents. No text, no logos, no people, no numbers, no icons, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-3",
+    "prompt": "Abstract premium background, 1080x1350 portrait. Deep navy (#0B1E33) base with a soft radial glow of warm gold light emanating gently from the lower-center, as if illuminating a single important detail. Thin gold (#C9A24C) interlocking-rings line motif placed small and off-center in the upper portion of the frame. Fine fabric-like grain texture throughout. Generous clean negative space in the upper two-thirds for a headline and a short, punchy closing line. Mood: a quiet 'spotlight on the overlooked detail' feeling — intimate but still editorial and confident, not sentimental. Brand palette: deep navy, warm white, energy gold. No text, no people, no logos, no clutter, no illegible marks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-4",
+    "prompt": "Abstract premium background, 1080x1350 portrait. Deep navy (#0B1E33) base with the most gold-forward treatment in the set: soft brushed-gold (#C9A24C) gradient sweeping in from one side like a wash of foil light, fading back to navy toward the opposite edge. Small, delicate gold linked-rings line motif placed in the upper area as a quiet recurring mark. Fine grain/texture for a tactile, premium 'foil on dark paper' feel. Clear, calm negative space in the upper two-thirds for a bold pull-quote style headline and two supporting lines beneath. Mood: confident, declarative, pull-quote energy — like an editorial magazine spread highlighting the key insight. Brand palette: deep navy, energy gold, warm white. No text, no people, no logos, no clutter, no illegible marks.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-5",
+    "prompt": "Abstract premium background, 1080x1350 portrait. Deep navy (#0B1E33) base, more open and airy than the other slides — a wide, soft, almost minimal gradient with very little texture, as if giving visual room to pause and reflect. A single, very small and faint gold (#C9A24C) linked-rings line motif placed unobtrusively in the upper area. Soft, diffused light with no hard edges. Large, calm negative space across the full upper and middle two-thirds for a reflective direct-address headline and question. Mood: contemplative, spacious, inviting self-reflection, still premium and editorial, not soft or pastel. Brand palette: deep navy, warm white, a touch of steel gray. No text, no people, no logos, no clutter.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-6",
+    "prompt": "Abstract restrained background, 1080x1350 portrait. Base tone shifted toward steel gray (#8A94A6) blended into deep navy (#0B1E33) in the lower portion, the most muted and 'fine print with integrity' slide in the set — deliberately less gold, more neutral. Very subtle fine-line texture suggesting a clean legal/ledger document without any readable text or numbers. A tiny, faint gold (#C9A24C) linked-rings line motif placed subtly in the upper area for series consistency, but noticeably quieter than other slides. Even, flat lighting, no dramatic shadows. Clear negative space across the upper two-thirds for a headline and a short clarifying paragraph. Mood: careful, transparent, credible, calm — not alarming, not a disclaimer-stamp look. Brand palette: deep navy, steel gray, warm white, minimal gold. No text, no people, no logos, no clutter, no stamp or seal graphics.",
+    "width": 1080,
+    "height": 1350
+  },
+  {
+    "id": "slide-7",
+    "prompt": "Abstract premium editorial background, 1080x1350 portrait, composition mirroring slide 1 for bookend consistency. Deep navy (#0B1E33) base with a soft diagonal gradient toward a slightly lighter navy in the lower third. Thin, minimal gold (#C9A24C) line-art of two interlocking rings/loops positioned in the upper-right quadrant, matching slide 1's placement and scale. Soft directional light suggesting premium paper or brushed fabric texture with fine grain. Generous clean negative space across the upper-middle two-thirds for a headline and sub-line, plus a clear bottom-center band for the JustPreneur wordmark. Mood: confident, conclusive, inviting action, same editorial business-magazine energy as the cover. Brand palette: deep navy, warm white, energy gold, steel gray. No text, no logos, no people, no clutter, no illegible marks.",
+    "width": 1080,
+    "height": 1350
+  }
+]
