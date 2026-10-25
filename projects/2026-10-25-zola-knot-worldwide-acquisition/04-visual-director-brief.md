@@ -1,8 +1,8 @@
-# Visual Director Brief — "Acquired, Not Absorbed"
+# Visual Director Brief — "Deal Signed, Not Absorbed"
 **Project:** Zola / The Knot Worldwide Acquisition (2026-10-25-zola-knot-worldwide-acquisition)
 **Format:** 7-slide Instagram carousel, portrait 1080 x 1350
 **Target posting slot:** 2026-10-25, 10:00 AM
-**Status:** IMAGES NOT YET GENERATED — draft mode (no image-generation API key in this environment). Prompts below are ready to run later via `/justpreneur-finish`.
+**Status:** IMAGES NOT YET GENERATED — draft mode (no image-generation API key in this environment). Prompts below are ready to run later via `/justpreneur-finish`. QC-corrected 2026-10-25 — see QC note at end of file.
 
 ---
 
@@ -39,7 +39,7 @@ Canvas: 1080 x 1350. Safe margins: keep all text and the wordmark inside a 1080 
 
 **Slide-by-slide content mapping:**
 
-- **Slide 1 (Cover):** Headline = "Acquired, Not Absorbed" (large, top band). Sub-line = "What Zola's deal with The Knot Worldwide teaches about brand leverage" (medium weight, directly below). Optional subtext = "Most startups vanish into their acquirer. This one didn't." set smaller, italic-weight or light-weight, lower-middle. Motif glyph between sub-line and subtext. Wordmark bottom-center.
+- **Slide 1 (Cover):** Headline = "Deal Signed, Not Absorbed" (large, top band). Sub-line = "What Zola's deal with The Knot Worldwide teaches about brand leverage" (medium weight, directly below). Optional subtext = "Most startups vanish into their acquirer. This one didn't." set smaller, italic-weight or light-weight, lower-middle. Motif glyph between sub-line and subtext. Wordmark bottom-center.
 - **Slide 2 (Deal Facts):** Lead line = "The deal, in plain terms." Body = the two deal-facts paragraphs (acquirer/founders; Reuters date + advisers) set as a clean editorial "memo" block, left-aligned, with the Reuters date and law-firm names given slightly heavier weight (not color-coded, just weight) so they scan like a credibility ledger.
 - **Slide 3 (The Overlooked Clause):** Lead line = "The detail most headlines buried." Body = the three short lines ending in "Zola stays Zola." Treat "Zola stays Zola" as its own short pull-line in the largest weight on this slide — it's the emotional/strategic punch of the carousel.
 - **Slide 4 (The Entrepreneurial Lesson):** This is the pull-quote slide — give it the most gold-forward treatment. Lead line = "An acquirer doesn't keep your name as a courtesy." set large. Remaining two paragraphs set smaller beneath, still legible, left-aligned.
@@ -150,7 +150,7 @@ Each image is a pure abstract background (no text, no people, no logos) sized 10
 Use a design tool (e.g., Canva, Figma, Photoshop) to add all exact copy and the JustPreneur wordmark after the seven background images above are generated. Do not rely on the image model to render any of this text. Apply the margin, zone, and typography rules from Sections 3–5 uniformly. Exact text per slide:
 
 **Slide 1**
-- Lead line: "Acquired, Not Absorbed"
+- Lead line: "Deal Signed, Not Absorbed"
 - Sub-line: "What Zola's deal with The Knot Worldwide teaches about brand leverage."
 - Optional smaller sub-text: "Most startups vanish into their acquirer. This one didn't."
 - Wordmark: "JustPreneur" (bottom-center)
@@ -190,3 +190,9 @@ Use a design tool (e.g., Canva, Figma, Photoshop) to add all exact copy and the 
 - Wordmark: "JustPreneur" (bottom-center, may be set slightly larger as the final branding beat)
 
 No other text, labels, numbers, dates, icons, or marks should be added to any slide beyond what is listed above and the single recurring motif glyph described in Sections 2–3 and 10.
+
+---
+
+## QC Correction Note (applied 2026-10-25 by Quality Control agent)
+
+Slide 1's lead line and the project's working title originally read "Acquired, Not Absorbed." Quality Control changed this to "Deal Signed, Not Absorbed" to keep the carousel's single most-read line from implying the deal has already closed, per Hard Constraint 1 in the Approved Facts Block (02-strategist-angles.md). This brief's title (top of file), Section 3 Slide 1 mapping, and Section 11 Slide 1 exact-text block have all been updated so the text-overlay plan still matches `03-copywriter-final-copy.md` verbatim. No change was needed to the image-generation prompts (Section 10 / image-jobs.json) since they contain no text and were not affected by this wording fix.

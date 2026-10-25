@@ -3,27 +3,29 @@
 **Format:** 7-slide carousel
 **Target posting slot:** 2026-10-25, 10:00 AM
 **Author/Account:** JustPreneur (ntviral@gmail.com)
-**Status:** Ready for Visual Director
+**Status:** Ready for Visual Director — QC-corrected 2026-10-25 (see QC Correction Note near end of file)
 
 ---
 
 ## 1. Cover Headline
 
 **Recommended:**
-"Acquired, Not Absorbed: What Zola's Deal With The Knot Worldwide Teaches About Brand Leverage"
+"Deal Signed, Not Absorbed: What Zola's Deal With The Knot Worldwide Teaches About Brand Leverage"
 
 **Alternates considered (not recommended, kept for reference):**
 - "Zola Just Got Acquired — And Didn't Disappear. That's the Lesson."
 - "The Exit Every Founder Should Study: How Zola Kept Its Name After Being Acquired"
 
-Rationale for recommendation: most neutral on deal status ("acquired," not "got bought out" or anything implying close), and it foregrounds the strategic lesson (leverage) rather than just the event, which fits the primary takeaway.
+QC note on alternates: both alternates above use past-tense "acquired"/"got acquired," which implies the deal has already closed. If either is ever reconsidered, it must be reworded the same way the recommended headline was (see QC Correction Note) before use.
+
+Rationale for recommendation: avoids any language that could imply the deal has closed ("Deal Signed," not "acquired," "got bought out," or anything implying close — "signed" tracks the Approved Facts Block's own language, a signed definitive agreement), and it foregrounds the strategic lesson (leverage) rather than just the event, which fits the primary takeaway.
 
 ---
 
 ## 2. Slide-by-Slide Copy
 
 **Slide 1 — Hook (Cover)**
-> Acquired, not absorbed.
+> Deal signed, not absorbed.
 > What Zola's deal with The Knot Worldwide teaches about brand leverage.
 
 Subtext (optional, under 14 words): "Most startups vanish into their acquirer. This one didn't."
@@ -85,7 +87,7 @@ Brand identity and audience loyalty are long-term, negotiable assets — build t
 
 ## 4. Final Caption
 
-Zola just got acquired by The Knot Worldwide — and it didn't disappear.
+Zola just agreed to be acquired by The Knot Worldwide — and it isn't disappearing.
 
 Founded in 2013 by Shan-Lyn Ma and Nobu Nakaguchi, Zola is becoming The Knot Worldwide's 14th portfolio brand. But it's keeping its own name. That one clause says more about brand strategy than most acquisition headlines ever will.
 
@@ -129,7 +131,7 @@ Note: Handles above are best-guess account names based on brand/firm names; fina
 
 ## Copy Approval Block
 
-**Recommended Headline:** "Acquired, Not Absorbed: What Zola's Deal With The Knot Worldwide Teaches About Brand Leverage"
+**Recommended Headline:** "Deal Signed, Not Absorbed: What Zola's Deal With The Knot Worldwide Teaches About Brand Leverage"
 
 **Slide Copy:** As finalized in Section 2 (Slides 1–7) above.
 
@@ -140,6 +142,21 @@ Note: Handles above are best-guess account names based on brand/firm names; fina
 **Hashtags:** #BrandEquity #StartupExit #FounderLessons #BrandStrategy #MergersAndAcquisitions
 
 **Accounts to tag:** @zola, @theknotworldwide, @reuters, @permira, @gundersondettmer (handles pending verification)
+
+---
+
+## QC Correction Note (applied 2026-10-25 by Quality Control agent)
+
+**Issue found:** The original headline ("Acquired, Not Absorbed"), the Slide 1 lead line ("Acquired, not absorbed."), and the caption's opening line ("Zola just got acquired by The Knot Worldwide — and it didn't disappear.") used past-tense "acquired"/"got acquired." Hard Constraint 1 (from the Fact Verifier, carried in 02-strategist-angles.md) permits only "agreed to acquire" / "signed a definitive agreement" when describing the deal action, specifically to prevent implying the deal has closed. Past-tense "acquired" implies a completed transaction, which directly contradicts Slide 2 ("has agreed to acquire") and Slide 6 ("this deal has not closed") elsewhere in the same package — an internal consistency and factual-framing risk in the two most-read pieces of copy (headline and caption opener).
+
+**Correction applied:**
+- Headline changed to: "Deal Signed, Not Absorbed: What Zola's Deal With The Knot Worldwide Teaches About Brand Leverage"
+- Slide 1 lead line changed to: "Deal signed, not absorbed."
+- Caption opening line changed to: "Zola just agreed to be acquired by The Knot Worldwide — and it isn't disappearing."
+- Corresponding rationale text and Copy Approval Block updated to match.
+- A parallel correction was applied to `04-visual-director-brief.md` (Section 1 title reference, Slide 1 content mapping, and Section 11 Slide 1 exact-text block) so the design brief's text-overlay plan still matches this file verbatim.
+
+This correction has already been applied in this file (and in the visual director brief) by Quality Control before handback — no further action needed on this specific item before assembly.
 
 ---
 
@@ -154,3 +171,5 @@ Open questions: Exact verified Instagram handles for @theknotworldwide, @permira
 Risks or qualifications: None beyond standard handle-verification step; all hard constraints (1–7) were checked against final copy and satisfied
 Recommended next agent: Visual Director
 Approval required before continuing: No (autopilot — the orchestrator takes your Copy Approval Block straight to Visual Director)
+
+[Note: the "Decisions made" and "Risks or qualifications" lines above are the Copywriter's original self-assessment, preserved verbatim for the audit trail. Quality Control's independent review found that self-assessment was incomplete — see QC Correction Note above — the original headline/caption did NOT fully satisfy Hard Constraint 1 as claimed. This has been corrected in this file as of 2026-10-25.]
