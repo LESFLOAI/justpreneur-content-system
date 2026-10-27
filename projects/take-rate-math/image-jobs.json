@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slide-1-cover",
+    "prompt": "1080 x 1350px. Abstract premium business-editorial background, deep navy (#0B1B33) base. Three very subtle, soft-edged vertical bar-chart silhouettes of different heights rise from the lower third of the frame in low-opacity steel gray (#3D4652), hinting at a comparison concept without any numbers, labels, or logos on them. A faint fine-line grid texture sits behind the bars at very low opacity for a data/analytics feel. Soft single-source lighting from the upper right, subtle depth, no glare or harsh highlights. Mood: confident, analytical, premium — resembles a modern business-magazine cover, not a motivational template. No text, no numbers, no logos, no icons, no people, no coins or currency symbols. Large flat, genuinely uncluttered negative space across the full upper-to-middle band (roughly the top 60% of the frame) for a bold headline and subheadline to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [1],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-2-context",
+    "prompt": "1080 x 1350px. Clean warm white (#F6F2E9) editorial background with an extremely subtle paper-grain texture and a faint steel-gray (#3D4652) fine-line grid in the upper portion only, evoking a modern business-report page. Soft, even lighting, no harsh shadows, no gradients. Mood: clean, premium, analytical, like a page from a contemporary business publication. No text, no numbers, no icons, no logos, no people, no coins or currency symbols. Generous flat negative space through the full frame, especially the middle band, for a headline, a supporting line, and a simple two-figure split callout (90%/10%) to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [2],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-3-concept",
+    "prompt": "1080 x 1350px. Deep navy (#0B1B33) background with a single abstract motif: a thin steel-gray (#3D4652) circle or ring outline positioned in the lower-middle of the frame, suggesting \"a percentage of something\" without rendering any numbers, percentage signs, or pie-chart segments. Soft ambient lighting, minimal and restrained. Mood: thoughtful, analytical, slightly inquisitive — a \"pause and think\" visual beat between the setup and the data. No text, no numbers, no icons, no logos, no people. Large flat negative space across the upper two-thirds of the frame for a multi-line headline to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [3],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-4-comparison",
+    "prompt": "1080 x 1350px. Clean warm white (#F6F2E9) editorial background featuring three empty, unlabeled vertical bar-chart tracks of different heights arranged side by side in the lower-middle band of the frame, rendered as simple flat color-blocked shapes with no numbers, no percentage signs, and no platform names or logos anywhere on them. The tallest bar (left-most) is filled in energy gold (#D9A441); the other two bars are filled in steel gray (#3D4652) at two visibly different heights. Thin baseline rule beneath all three bars. Soft, even, shadow-free lighting for maximum legibility. Mood: precise, data-forward, editorial infographic — like a chart in a business magazine before captions are added. No text, no numbers, no logos, no icons, no people. Clear flat negative space above the bars for a headline and above/below each bar for stat labels (to be typeset afterward, including \"~\" and \"approximately\" qualifiers) in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [4],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-5-caveat",
+    "prompt": "1080 x 1350px. Deep navy (#0B1B33) background, visually distinct from the other navy slides in this set: a very large, soft-edged, translucent energy-gold (#D9A441) question-mark glyph is centered in the lower-middle band of the frame at low opacity (roughly 15-20%), rendered as a single clean typographic question mark shape, not clipart. A thin dashed steel-gray (#3D4652) rectangle outline sits just below the question mark, like an empty \"pending\" callout box with nothing written inside it. A faint diagonal hatch-line texture at very low opacity fills a narrow band near the bottom edge, reinforcing an \"unresolved/pending\" feeling. The composition must not lean toward either a \"yes\" or \"no\" answer — it should read as neutrally unresolved, not as confirming or denying anything. Soft, moody, slightly more shadowed lighting than the other slides to signal \"this one is different.\" Mood: alert but credible, \"there's a question mark here,\" not alarmist, not conspiratorial. No text, no numbers, no checkmarks, no X marks, no icons, no logos, no people. Clear flat negative space in the upper half of the frame for a headline and a \"NOT YET CONFIRMED\" flag label to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [5],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-6-insight",
+    "prompt": "1080 x 1350px. Clean warm white (#F6F2E9) editorial background with a single thin steel-gray (#3D4652) line graph sweeping gently across the lower-middle band of the frame, left to right, with one single point on the line highlighted as a small solid energy-gold (#D9A441) dot — representing \"your own number,\" not a market trend. No axis labels, no numbers, no gridlines beyond the single line itself. Soft, even lighting. Mood: clarifying, confident, \"here's the one number that matters.\" No text, no numbers, no icons, no logos, no people. Generous flat negative space across the upper two-thirds of the frame for a bold headline to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [6],
+    "status": "not_generated"
+  },
+  {
+    "id": "slide-7-cta",
+    "prompt": "1080 x 1350px. Deep navy (#0B1B33) background with a single bold horizontal energy-gold (#D9A441) accent bar positioned in the lower third of the frame, full content-width, flat and clean, no gradient, no glow effects beyond a soft subtle edge. Rest of the background is minimal navy with a very faint fine-line grid texture at low opacity, matching the cover slide's texture for series bookending. Soft, even lighting, confident and action-oriented mood — the \"close\" of the carousel. No text, no numbers, no icons, no logos, no people, no buttons or UI chrome rendered in the image. Clear flat negative space above the gold bar for a three-line action statement and below it for the JustPreneur lockup, to be added afterward in a design tool. No illegible text, no fake logos, no duplicate people, no malformed hands, no clutter.",
+    "width": 1080,
+    "height": 1350,
+    "used_on_slides": [7],
+    "status": "not_generated"
+  }
+]
