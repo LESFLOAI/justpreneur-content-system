@@ -65,10 +65,10 @@ Same hierarchy as the Reel, adapted to the 1080x1350 static frame: headline/stat
 
 | Slide | Text (verbatim) | Background job |
 |---|---|---|
-| 1 — Cover | "Rappi reported 84% of Colombia's lunch orders hit the same 4-hour window. That's the real story." | slide-1-cover-clock-skyline |
+| 1 — Cover | "Rappi reported that 84% of its corrientazo and executive-lunch orders hit the same 4-hour window. That's the real story." | slide-1-cover-clock-skyline |
 | 2 | "+160% YTD in corrientazo/executive-lunch orders on Rappi, 2026 vs. 2025 — from roughly 250,000 to over 660,000 orders, per Rappi." | slide-2-growth-counter |
 | 3 | "Growth was strongest in mid-sized cities — Villavicencio, Ibagué, Santa Marta — compared with Bogotá, per Rappi. These are growth-RATE percentages off undisclosed bases, not order-volume comparisons." | slide-3-colombia-map-arrows |
-| 4 | "2,000+ restaurants offer corrientazo on Rappi. 800+ price a full lunch under COP $19,900 — about US$6, per Rappi, October 2026." | slide-4-restaurant-counter |
+| 4 | "2,000+ restaurants offer corrientazo on Rappi. 800+ price a full lunch under COP $19,900 (~US$6, per Rappi, Oct. 2026)." | slide-4-restaurant-counter |
 | 5 | "84% of these orders land between 11:00 a.m. and 2:59 p.m., peaking around noon, per Rappi. A recurring, narrow demand window isn't a quirk — it's infrastructure waiting to be designed around. Predictability is the asset, not the price." | slide-5-clock-sweep-spike |
 | 6 — CTA | "Map your business's own 4-hour window. Is anything actually built around it yet?" | slide-6-minimal-frame-cta |
 
