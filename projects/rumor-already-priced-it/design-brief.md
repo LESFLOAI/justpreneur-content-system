@@ -44,7 +44,7 @@ All slides: one dominant graphic/photographic device placed to leave a large cle
 
 **Slide 4 — The Reaction**
 - Kicker "THE REACTION" top-left
-- Body copy block, y≈180–560px, left-aligned, max width ~860px: "The market barely moved." then "The stock reaction had already happened on Oct 26 — in response to the talks report, not the Oct 28-29 signing."
+- Body copy block, y≈180–560px, left-aligned, max width ~860px: "There was nothing new left to react to." then "The stock reaction had already happened on Oct 26 — in response to the talks report, not the Oct 28-29 signing."
 - Background/graphic device: the same split-chart plate, now two days further along — both lines flat and steady, muted/calm, visually quieter and less saturated than Slide 2's dramatic spike, communicating "nothing left to react to" purely through contrast with the earlier slide
 - Wordmark bottom-center
 
@@ -131,11 +131,11 @@ When images are generated, run a layout pass (design tool / Canva-style composit
 - **Slide 1 (cover):** Headline: "The Deal Was Priced Before It Was Signed" / Subhead: "A DoorDash–Instacart case study in signal control." / Wordmark: "JustPreneur"
 - **Slide 2:** Kicker: "THE RUMOR" / Body: "Oct 26, 2026: Reuters and WSJ report DoorDash is in 'advanced talks' to acquire Instacart." then "Instacart closes up ~7.9%. DoorDash closes down ~6.1%. Same day — reacting to the report, not a signed deal." / Wordmark: "JustPreneur"
 - **Slide 3:** Kicker: "THE SIGNATURE" / Body: "Two days later, the rumor became real." then "Oct 28, 2026: DoorDash signs a definitive agreement to acquire Instacart for $65.00/share — about $17B in equity value. A ~26% premium to Instacart's Oct 22 close." / Wordmark: "JustPreneur"
-- **Slide 4:** Kicker: "THE REACTION" / Body: "The market barely moved." then "The stock reaction had already happened on Oct 26 — in response to the talks report, not the Oct 28-29 signing." / Wordmark: "JustPreneur"
+- **Slide 4:** Kicker: "THE REACTION" / Body: "There was nothing new left to react to." then "The stock reaction had already happened on Oct 26 — in response to the talks report, not the Oct 28-29 signing." / Wordmark: "JustPreneur"
 - **Slide 5:** Kicker: "THE TERMS" / Body: "The terms, for the record." then "Cash-or-stock election: $65 cash, 0.3372 DASH shares, or a mixed option (capped at 25% stock, minimum 75% cash). Board unanimously approved; ~19% of Instacart shares already committed to vote yes. Companies are targeting a close in 2027 or H1 2028 — their own estimate, pending shareholder and antitrust approval." / Wordmark: "JustPreneur"
 - **Slide 6:** Kicker: "THE TAKEAWAY" / Body: "The rumor was the event. The signature was paperwork." then "The moment your story actually moves people is rarely the moment you planned to tell it." / Wordmark: "JustPreneur"
 - **Slide 7 (CTA):** Body: "Control your signal before the official moment does it for you." then "Save this before your next announcement." / Wordmark: "JustPreneur"
 
-No copy has been altered, trimmed, or paraphrased from the approved text above — all wording is verbatim from the approved copy block (`content/2026-10-30_1000am_justpreneur-copywriter.md`, FORMAT 2 — CAROUSEL section).
+No copy has been altered, trimmed, or paraphrased from the approved text above — all wording is verbatim from the approved copy block (`content/2026-10-30_1000am_justpreneur-copywriter.md`, FORMAT 2 — CAROUSEL section), as corrected by QC on 2026-10-30 (Slide 4 lead line changed from "The market barely moved." to "There was nothing new left to react to." — see qc/2026-10-30_1000am_qc-report.md).
 
 Note: the "DASH shares" reference in Slide 5 refers to DoorDash's Nasdaq ticker as written in the approved copy's cash-or-stock election terms — it is approved text to be added at the layout stage, not a ticker symbol to be rendered inside any AI-generated image (see Sections 1 and 6 above).

@@ -64,7 +64,7 @@ On-screen text: "Save this before your next announcement."
 
 The moment word got out that DoorDash was in advanced talks to buy Instacart, Instacart shares jumped nearly 8 percent. DoorDash dropped about 6.
 
-Two days later, the companies signed an actual merger agreement — DoorDash agreeing to acquire Instacart for $65 a share, about $17 billion. Board unanimously approved it. And the market barely moved.
+Two days later, the companies signed an actual merger agreement — DoorDash agreeing to acquire Instacart for $65 a share, about $17 billion. Board unanimously approved it. By then, there was nothing new to react to — the move had already happened, two days earlier.
 
 By the time it was official, there was nothing left to react to. The story had already spread — just not on the terms either company planned.
 
@@ -80,7 +80,7 @@ JustPreneur wordmark, on-screen text: "Save this before your next announcement."
 
 On Oct 28, DoorDash signed a definitive agreement to acquire Instacart for $65.00/share — about $17B in equity value, a ~26% premium to Instacart's Oct 22 close. The 8-K filed Oct 29. Board unanimously approved; the deal is pending shareholder and antitrust approval, with the companies targeting a close in 2027 or H1 2028.
 
-By the time the deal was official, the market had already reacted — to the rumor, not the signature.
+By the time the deal was official, the market had already made its move — on the rumor, two days earlier.
 
 The lesson for builders: the moment your story actually moves people is rarely the moment you planned to tell it. Control your signal before the official moment forces your hand.
 
@@ -121,7 +121,7 @@ Subhead: "A DoorDash–Instacart case study in signal control."
 "Oct 28, 2026: DoorDash signs a definitive agreement to acquire Instacart for $65.00/share — about $17B in equity value. A ~26% premium to Instacart's Oct 22 close."
 
 **Slide 4**
-"The market barely moved."
+"There was nothing new left to react to."
 "The stock reaction had already happened on Oct 26 — in response to the talks report, not the Oct 28-29 signing."
 
 **Slide 5**
@@ -147,7 +147,7 @@ Slide 7 above: "Control your signal before the official moment does it for you. 
 
 On Oct 28, DoorDash signed a definitive agreement to acquire Instacart for $65.00/share — about $17B in equity value, a ~26% premium to Instacart's Oct 22 close. The 8-K filed Oct 29. Board unanimously approved; the deal is pending shareholder and antitrust approval, with the companies targeting a close in 2027 or H1 2028.
 
-By the time the deal was official, the market had already reacted — to the rumor, not the signature.
+By the time the deal was official, the market had already made its move — on the rumor, two days earlier.
 
 The lesson for builders: the moment your story actually moves people is rarely the moment you planned to tell it. Control your signal before the official moment forces your hand.
 
@@ -191,3 +191,4 @@ Save this before your next announcement."
 - Chris Rogers is Instacart's current CEO — not referenced or misattributed; no invented quotes from any individual.
 - Uber detail kept hedged ("reportedly," "according to people familiar with the matter") in the caption parenthetical only; not used in Reel beats or carousel slides to avoid unhedged restatement risk under time/space pressure.
 - Deal described throughout as "agreed to acquire" / "signs a definitive agreement" — never "closed," "completed," or "done deal."
+- QC correction (2026-10-30): the claim that the market "barely moved" on the Oct 28-29 signing was never itself fact-checked (only the Oct 26 moves have verified figures) and has been reworded in the VO, Carousel Slide 4, and both captions to state only the verified chronology (the move happened on Oct 26, before signing) rather than asserting an unconfirmed quantity for Oct 28-29. The thesis/headline framing ("priced before it was signed," "already priced it in") is left intact as clearly-labeled analysis/interpretation, not a restated numeric fact.
