@@ -1,0 +1,85 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Anton;src:url(fonts/anton.woff2)}
+@font-face{font-family:Archivo;font-weight:600;src:url(fonts/archivo-600.woff2)}
+@font-face{font-family:Archivo;font-weight:800;src:url(fonts/archivo-800.woff2)}
+html,body{margin:0;overflow:hidden;background:#0a1530}
+.c{position:relative;color:#fff;font-family:Archivo,sans-serif;overflow:hidden;
+  background:radial-gradient(120% 70% at 80% 8%,#2a4a86 0%,#13254a 45%,#0a1530 100%)}
+.post,.slide{width:1080px;height:1350px}
+.reel{width:1080px;height:1920px}
+.lights{position:absolute;inset:0;background:radial-gradient(40% 18% at 18% 6%,rgba(255,230,160,.32),transparent 70%),radial-gradient(30% 14% at 70% 3%,rgba(255,230,160,.22),transparent 70%)}
+.d1{position:absolute;right:-140px;top:330px;width:620px;height:620px;transform:rotate(45deg);border:6px solid rgba(226,179,63,.32)}
+.d2{position:absolute;right:-40px;top:430px;width:420px;height:420px;transform:rotate(45deg);border:3px solid rgba(255,255,255,.11)}
+.top{position:absolute;left:80px;right:80px;top:70px;display:flex;flex-direction:column;gap:14px}
+.wm{font-weight:800;font-size:58px;letter-spacing:-.5px}
+.wm b,.g{color:#e2b33f}
+.tag{display:flex;align-items:center;gap:14px;font-weight:600;font-size:22px;letter-spacing:.22em;color:#c7d2ea}
+.tag i{display:inline-block;width:56px;height:6px;background:#e2b33f}
+.box{position:absolute;display:flex;flex-direction:column;justify-content:flex-start;overflow:hidden}
+.hl{font-family:Anton;line-height:.95;text-transform:uppercase}
+.body{font-weight:600;line-height:1.3;color:#e8ecf4}
+.body .g{font-weight:800}
+.bottom{position:absolute;left:80px;right:80px;bottom:70px;display:flex;justify-content:space-between;align-items:flex-end;gap:24px;border-top:3px solid rgba(255,255,255,.25);padding-top:26px}
+.kicker{font-weight:800;font-size:30px;line-height:1.25;max-width:700px}
+.handle{font-weight:600;font-size:24px;color:#c7d2ea;white-space:nowrap}
+/* reel */
+.rwm{position:absolute;left:80px;top:150px;font-weight:800;font-size:54px}
+.rwm b{color:#e2b33f}
+.rbar{position:absolute;left:80px;top:230px;height:8px;background:#e2b33f;width:0}
+.ring{position:absolute;right:-220px;top:900px;width:760px;height:760px;transform:rotate(45deg);border:6px solid rgba(226,179,63,.3)}
+.scene{position:absolute;left:80px;right:80px;top:520px;height:900px;opacity:0;display:flex;flex-direction:column;gap:30px;overflow:hidden}
+.num{font-family:Anton;line-height:.9;color:#e2b33f}
+.rfoot{position:absolute;left:80px;right:80px;bottom:260px;font-weight:600;font-size:32px;color:#c7d2ea;display:flex;justify-content:space-between}
+</style></head><body><div id="root"></div><script>
+function esc(s){return String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
+function mark(s){return esc(s).replace(/\[([^\]]+)\]/g,'<span class="g">$1</span>').replace(/\n/g,"<br>")}
+function fit(el,max,min){let s=max;el.style.fontSize=s+"px";const box=el.parentElement;
+  while(s>min&&(el.scrollHeight>box.clientHeight||el.scrollWidth>box.clientWidth)){s-=2;el.style.fontSize=s+"px"}return s}
+const HANDLE="@justpreneur_";
+function frame(cls,inner){document.getElementById("root").innerHTML=`<div class="c ${cls}">${inner}</div>`}
+function header(){return `<div class="lights"></div><div class="d1"></div><div class="d2"></div>
+ <div class="top"><div class="wm">Just<b>Preneur</b></div><div class="tag"><i></i>BUSINESS | IDEAS | OPPORTUNITIES</div></div>`}
+
+window.renderPost=function(p){
+  frame("post",header()+`
+  <div class="box" style="left:80px;right:110px;top:290px;height:600px"><div class="hl" id="h">${mark(p.headline)}</div></div>
+  <div class="box" style="left:80px;right:290px;top:925px;height:210px"><div class="body" id="b">${mark(p.fact)}</div></div>
+  <div class="bottom"><div class="kicker">${mark(p.kicker||"")}</div><div class="handle">${HANDLE}</div></div>`);
+  fit(document.getElementById("h"),160,70);fit(document.getElementById("b"),38,24);
+};
+window.renderSlide=function(s,i,n){
+  const last=i===n-1;
+  frame("slide",header()+`
+  <div class="box" style="left:80px;right:110px;top:290px;height:${s.body?470:640}px"><div class="hl" id="h">${mark(s.headline)}</div></div>
+  ${s.body?`<div class="box" style="left:80px;right:230px;top:800px;height:330px"><div class="body" id="b">${mark(s.body)}</div></div>`:""}
+  <div class="bottom"><div class="kicker">${last?"Save this. Send it to a builder.":"Swipe →"}</div><div class="handle">${HANDLE}</div></div>`);
+  fit(document.getElementById("h"),s.body?140:160,64);const b=document.getElementById("b");if(b)fit(b,42,26);
+};
+let REEL=null;
+window.setupReel=function(scenes){
+  REEL={scenes,dur:[]};let t=0;
+  for(let i=0;i<scenes.length;i++){const d=i===scenes.length-1?3.0:2.8;REEL.dur.push([t,t+d]);t+=d}
+  REEL.total=t;
+  frame("reel",`<div class="ring" id="ring"></div><div class="rwm">Just<b>Preneur</b></div><div class="rbar" id="bar"></div>`+
+   scenes.map((s,i)=>s.num?`<div class="scene" id="s${i}"><div class="num" id="n${i}">${esc(s.num)}</div><div class="body" id="t${i}">${mark(s.sub||"")}</div></div>`
+     :`<div class="scene" id="s${i}"><div class="hl" id="t${i}">${mark(s.big)}</div>${s.sub?`<div class="body" id="u${i}">${mark(s.sub)}</div>`:""}</div>`).join("")+
+   `<div class="rfoot"><span>${HANDLE}</span><span>Business | Ideas | Opportunities</span></div>`);
+  scenes.forEach((s,i)=>{const sc=document.getElementById("s"+i);sc.style.opacity=1;
+    if(s.num){fit(document.getElementById("n"+i),330,140);document.getElementById("t"+i).style.fontSize="46px"}
+    else{fit(document.getElementById("t"+i),150,70);const u=document.getElementById("u"+i);if(u)u.style.fontSize="44px"}
+    sc.style.opacity=0;});
+  return REEL.total;
+};
+const ease=t=>1-Math.pow(1-Math.min(Math.max(t,0),1),3);
+function countText(target,k){const m=String(target).match(/^([^0-9]*)([0-9][0-9,]*\.?[0-9]*)(.*)$/);if(!m)return target;
+  const raw=m[2].replace(/,/g,""),dec=(raw.split(".")[1]||"").length,v=parseFloat(raw)*k;
+  let s=v.toFixed(dec);if(m[2].includes(","))s=Number(s).toLocaleString("en-US",{minimumFractionDigits:dec,maximumFractionDigits:dec});return m[1]+s+m[3]}
+window.drawReel=function(t){
+  document.getElementById("bar").style.width=(920*ease(t/REEL.total))+"px";
+  document.getElementById("ring").style.transform=`rotate(${45+t*3}deg)`;
+  REEL.scenes.forEach((s,i)=>{const [a,b]=REEL.dur[i],e=document.getElementById("s"+i);
+    const inn=ease((t-a)/0.45),out=i<REEL.scenes.length-1?ease((t-(b-0.35))/0.35):0;
+    e.style.opacity=Math.max(0,inn-out);e.style.transform=`translateY(${(1-inn)*60-out*40}px)`;
+    if(s.num)document.getElementById("n"+i).textContent=countText(s.num,ease((t-a-0.2)/1.4));});
+};
+</script></body></html>

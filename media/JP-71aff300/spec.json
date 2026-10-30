@@ -1,0 +1,20 @@
+{
+  "story_id": "JP-71aff300",
+  "post": {
+    "headline": "A fan base\nis a [business\nasset.]",
+    "fact": "MLB team sponsorship revenue reportedly hit a record [$2.12 billion] for the 2026 season.",
+    "kicker": "Brands pay for who you reach and why they care."
+  },
+  "slides": [
+    {"headline": "A fan base\nis a [business\nasset.]", "body": "MLB team sponsorship revenue reportedly hit a record [$2.12 billion] for the 2026 season."},
+    {"headline": "[$2.12B]\nin team\nsponsorships", "body": "That's the reported record for MLB teams in the 2026 season."},
+    {"headline": "Attention\nis not\nthe [product.]", "body": "Brands pay for the right audience and a real reason that audience cares."},
+    {"headline": "Build the\naudience.\n[The deals\nfollow.]"}
+  ],
+  "reel": [
+    {"big": "A fan base\nisn't just an\n[audience.]"},
+    {"num": "$2.12B", "sub": "MLB team sponsorship revenue, 2026 season. A reported record."},
+    {"big": "Brands pay for\n[who] you reach\nand [why] they care."},
+    {"big": "Build the\naudience.\n[The deals\nfollow.]", "sub": "Send this to a builder."}
+  ]
+}
